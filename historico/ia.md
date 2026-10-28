@@ -12,3 +12,9 @@
 2026-10-27 | Meta planeja US$ 95 bi em ações para financiar IA | https://www.irishtimes.com/business/2026/10/26/meta-plans-95bn-stock-offering-to-bankroll-ai-expansion/
 2026-10-27 | China exige avaliação de risco de emprego para projetos de IA | https://www.techtimes.com/articles/329465/20261026/china-orders-employment-risk-reviews-before-ai-deployment-workforce-heavy-sectors.htm
 2026-10-27 | Claude acessou dados públicos de votação da Geórgia | https://foxbusiness.com/fox-news-tech/claude-ai-accessed-publicly-available-georgia-voter-data-anthropic-confirms
+2026-10-28 | Google DeepMind apresenta o Genie 4, modelo de mundo com áudio nativo | https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/
+2026-10-28 | Mistral lança Timestral, modelos abertos de previsão de séries temporais | https://huggingface.co/papers/2610.37585
+2026-10-28 | Artificial Analysis Intelligence Index v5: Claude Opus 5.5 lidera, gap aberto-fechado de 12 pontos | https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5
+2026-10-28 | Anthropic publica prospecto de IPO (Nasdaq: ANT) | https://www.foxbusiness.com/markets/anthropic-files-sec-paperwork-ai-giant-prepares-major-ipo
+2026-10-28 | Anthropic compra Mithril Medicine e anuncia parcerias farmacêuticas | https://www.anthropic.com/research/early-progress-drug-development
+2026-10-28 | Oracle e OpenAI levam ChatGPT e Codex aos apps da Oracle; OCI abre a chips rivais | https://cryptobriefing.com/oracle-magouyrk-sam-altman-ai-world/
