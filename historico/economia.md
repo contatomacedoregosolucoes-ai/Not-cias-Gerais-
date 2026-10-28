@@ -16,3 +16,9 @@
 2026-10-26 | Fed deve manter, mercado precifica alta em dezembro | https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-climb-as-tech-stocks-get-a-boost-from-anthropic-ipo-sofi-bb-pypl-cls-in-focus/cZUIteBRBzL
 2026-10-27 | Lucros industriais da China sobem 14,4% em setembro | https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html
 2026-10-20 | Petróleo perto de US$ 115 com Golfo pressionado | https://www.tradingnews.com/news/brent-reverses-from-111-usd-peak-to-106-usd-as-russia-waiver-and-unverified-saudi-strikes
+2026-10-27 | Dólar cai a R$ 5,3488, juros futuros recuam; Citi e BCA rebaixam Brasil | https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-27-outubro-2026/
+2026-10-27 | Galípolo diz que BC pode atuar no câmbio; Fazenda sem comando definido | https://soubrasilia.com/dolar-fecha-r-5-349-ibovespa-175-mil-pontos-27-outubro-2026/
+2026-10-27 | Bancos, Petrobras e Vale pesam na bolsa; Lula busca apoio de Motta e Alcolumbre | https://40graus.com.br/ibovespa-cai-dolar-recua-27-outubro-2026/
+2026-10-27 | Chips puxam Wall Street, Nasdaq +1,18% | https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-27-2026
+2026-10-27 | Balanços: SoFi dispara, cruzeiros sobem, FTC contra UniFirst/Cintas | https://www.fool.com/coverage/stock-market-today/2026/10/27/stock-market-midday-oct-27-tech-stocks-lead-as-nasdaq-climbs-on-market-momentum/
+2026-10-27 | Petróleo recua com conversas em Teerã; Canadá vê acordo com EUA | https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-tech-sector-160557664.html
