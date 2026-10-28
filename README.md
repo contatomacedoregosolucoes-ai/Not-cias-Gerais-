@@ -6,7 +6,7 @@ Essa sessão roda o procedimento abaixo e envia 3 e-mails para contato.macedoreg
 | E-mail | Instruções | Modelo |
 |---|---|---|
 | 📈 Economia & Política | `prompts/economia.md` | Sonnet |
-| 🎬 Cinema & Famosos | `prompts/cinema.md` | Haiku |
+| 🎬 Cinema & Famosos | `prompts/cinema.md` | Sonnet (o Haiku não achava notícias suficientes) |
 | 🤖 Novidades de IA | `prompts/ia.md` | Sonnet |
 
 Regras comuns (janela de 7 dias, sem repetir notícias, layout e envio): `prompts/comum.md`.

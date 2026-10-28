@@ -7,3 +7,11 @@
 2026-10-27 | 50ª Mostra de São Paulo revela os 15 favoritos do público em Novos Diretores | https://revistadecinema.com.br/2026/10/mostra-revela-os-15-filmes-preferidos-do-publico/
 2026-10-27 | Ebenezer e os Fantasmas do Natal: vídeo de bastidores da transformação de Johnny Depp | https://www.omelete.com.br/filmes/ebenezer-e-os-fantasmas-do-natal-video-bastidores-transformacao-johnny-depp
 2026-10-27 | Os Anéis de Poder 3ª temporada ganha trailer e calendário de episódios | https://www.omelete.com.br/series-tv/o-senhor-dos-aneis-os-aneis-de-poder-3a-temporada-prime-video-trailer-posteres
+2026-10-28 | "Tudo Pode Ser Visto" fora da corrida de melhor filme do Globo de Ouro 2027 | https://www.omelete.com.br/filmes/tudo-pode-ser-visto-nao-podera-ser-indicado-globo-de-ouro-2027-melhor-filme-entenda
+2026-10-28 | Coyote vs. Acme elegível ao Oscar de animação | https://www.omelete.com.br/filmes/coyote-vs-acme-tentara-vaga-melhor-filme-de-animacao
+2026-10-28 | Ator de Rivalidade Ardente negocia entrar em Motoqueiro Fantasma | https://www.omelete.com.br/filmes/motoqueiro-fantasma-ator-rivalidade-ardente-vilao-filme-da-marvel
+2026-10-28 | Jennifer Lawrence e a participação em Jogos Vorazes: Amanhecer na Colheita | https://www.omelete.com.br/filmes/jogos-vorazes-amanhecer-na-colheita-jennifer-lawrence-fala-sobre-participacao
+2026-10-28 | Jafar Panahi condenado à revelia a 5 anos de prisão no Irã | https://www.omelete.com.br/filmes/jafar-panahi-diretor-foi-apenas-um-acidente-condenado-5-anos-de-prisao-a-revelia
+2026-10-28 | Feito Pipa, representante do Brasil no Oscar 2027, tem pré-estreias a partir de 29/10 | https://www.omelete.com.br/filmes/feito-pipa-representante-brasil-oscar-2027-pre-estreias-data
+2026-10-28 | Cartório das Almas chega aos cinemas em 29/10 | https://revistadecinema.com.br/2026/10/premiado-no-festival-de-brasilia-cartorio-das-almas-chega-aos-cinemas/
+2026-10-28 | Pequenas Criaturas, com Carolina Dieckmann, estreia no Telecine | https://revistadecinema.com.br/2026/10/vencedor-do-festival-do-rio-pequenas-criaturas-estreia-com-exclusividade-no-telecine/
