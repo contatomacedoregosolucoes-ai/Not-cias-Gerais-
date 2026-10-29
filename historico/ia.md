@@ -18,3 +18,9 @@
 2026-10-28 | Anthropic publica prospecto de IPO (Nasdaq: ANT) | https://www.foxbusiness.com/markets/anthropic-files-sec-paperwork-ai-giant-prepares-major-ipo
 2026-10-28 | Anthropic compra Mithril Medicine e anuncia parcerias farmacêuticas | https://www.anthropic.com/research/early-progress-drug-development
 2026-10-28 | Oracle e OpenAI levam ChatGPT e Codex aos apps da Oracle; OCI abre a chips rivais | https://cryptobriefing.com/oracle-magouyrk-sam-altman-ai-world/
+2026-10-29 | Google lança o Gemini 4 Carbon, focado em segurança digital | https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/
+2026-10-29 | Modelo da Anthropic ainda não lançado monta ataques em cinco plataformas | https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html
+2026-10-29 | Rime apresenta o Prism, modelo de voz para voz | https://www.rime.ai/resources/prism-first-speech-to-speech-for-enterprise
+2026-10-29 | Vazamento indica GPT Image 2.6 da OpenAI | https://thewincentral.com/gpt-image-2-6-openai-api-spec-leak-markup-editor/
+2026-10-29 | Microsoft recebeu US$ 10 bi da OpenAI em um trimestre | https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/
+2026-10-29 | DOJ examina compra do Hugging Face pela Nvidia | https://www.pymnts.com/cpi-posts/nvidias-12-9-billion-hugging-face-deal-draws-justice-department-questions/
