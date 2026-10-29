@@ -15,3 +15,11 @@
 2026-10-28 | Feito Pipa, representante do Brasil no Oscar 2027, tem pré-estreias a partir de 29/10 | https://www.omelete.com.br/filmes/feito-pipa-representante-brasil-oscar-2027-pre-estreias-data
 2026-10-28 | Cartório das Almas chega aos cinemas em 29/10 | https://revistadecinema.com.br/2026/10/premiado-no-festival-de-brasilia-cartorio-das-almas-chega-aos-cinemas/
 2026-10-28 | Pequenas Criaturas, com Carolina Dieckmann, estreia no Telecine | https://revistadecinema.com.br/2026/10/vencedor-do-festival-do-rio-pequenas-criaturas-estreia-com-exclusividade-no-telecine/
+2026-10-29 | Josh Hutcherson confirma volta em Jogos Vorazes: Amanhecer na Colheita ("Bem... voltamos!") | https://www.omelete.com.br/filmes/jogos-vorazes-amanhecer-na-colheita-josh-hutcherson-comentarios-jennifer-lawrence-retorno-da-dupla
+2026-10-29 | Ali G: Who Iz I?, de Sacha Baron Cohen, chega ao Prime Video | https://www.omelete.com.br/filmes/ali-g-who-iz-i-filme-sacha-baron-cohen-disponivel-prime-video
+2026-10-29 | Sorria 3 em desenvolvimento, com David Bruckner como diretor (rumor) | https://www.omelete.com.br/filmes/sorria-3-ja-esta-em-desenvolvimento-diretor-escolhido-insider
+2026-10-29 | Patrulha Canina 4 prevista para 2029 | https://www.omelete.com.br/filmes/patrulha-canina-4-esta-em-desenvolvimento-e-deve-chegar-em-2029
+2026-10-29 | Novo pôster de Vingadores: Doutor Destino mostra o vilão com os Sentinelas | https://www.omelete.com.br/filmes/vingadores-doutor-destino-novo-poster-destaca-doutor-destino-sentinelas
+2026-10-29 | Cinebiografia de Cássia Eller começa a ser filmada no Rio | https://revistadecinema.com.br/2026/10/cinebiografia-de-cassia-eller-esta-sendo-rodada-no-rio-de-janeiro/
+2026-10-29 | Leandro Hassum e Danielle Winits gravam Até que a Sorte nos Separe 4 | https://revistadecinema.com.br/2026/10/leandro-hassum-e-danielle-winits-gravam-ate-que-a-sorte-nos-separe-4/
+2026-10-29 | As Dez Vantagens de Morrer Depois de Você estreia nos cinemas em 29/10 | https://revistadecinema.com.br/2026/10/estreia-as-dez-vantagens-de-morrer-depois-de-voce-baseado-em-livro-de-fernanda-de-castro-lima/
