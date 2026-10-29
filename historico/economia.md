@@ -22,3 +22,13 @@
 2026-10-27 | Chips puxam Wall Street, Nasdaq +1,18% | https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-27-2026
 2026-10-27 | Balanços: SoFi dispara, cruzeiros sobem, FTC contra UniFirst/Cintas | https://www.fool.com/coverage/stock-market-today/2026/10/27/stock-market-midday-oct-27-tech-stocks-lead-as-nasdaq-climbs-on-market-momentum/
 2026-10-27 | Petróleo recua com conversas em Teerã; Canadá vê acordo com EUA | https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-tech-sector-160557664.html
+2026-10-28 | Ibovespa -2,68% a 171 mil pts; dólar R$ 5,34 | https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-28102026/
+2026-10-28 | Estrangeiros fazem maior compra diária de dólar na B3 desde 2022 | https://www.infomoney.com.br/mercados/estrangeiro-compra-recorde-dolar-b3-apos-eleicao/
+2026-10-28 | Santander Brasil lucra 28% menos no 3T26; bancos despencam | https://www.infomoney.com.br/mercados/santander-sanb11-resultados-terceiro-trimestre-2026/
+2026-10-28 | Fed mantém juros em 3,75%-4%, 2 votos por alta | https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-025932477.html
+2026-10-28 | Wall Street fecha em alta; Treasury 10 anos a 5,02% | https://www.fool.com/coverage/stock-market-today/2026/10/28/stock-market-today-oct-28-markets-edge-higher-as-fed-holds-rates-steady/
+2026-10-28 | Alphabet cai ~10% após balanço; Microsoft sobe | https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-mixed-after-fed-holds-rates-steady-goog-googl-iova-msft-now-in-focus/cZUQ4vlR9Gz
+2026-10-29 | Brent perto de US$ 115; ataque houthi à refinaria saudita; impasse EUA-Irã | https://tradingeconomics.com/commodity/brent-crude-oil
+2026-10-28 | UBS lucra US$ 2,7 bi e acelera recompra | https://www.infomoney.com.br/mercados/ubs-registra-lucro-de-us-27-bi-alta-anual-de-8-e-acelera-recompra-de-acoes/
+2026-10-28 | Santander global: lucro subjacente +19%, Brasil -15% | https://www.infomoney.com.br/mercados/lucro-liquido-do-banco-espanhol-santander-no-3o-tri-sobe-apesar-de-queda-no-brasil/
+2026-10-29 | Nikkei sobe com chips; Kospi cai com Samsung | https://tradingeconomics.com/japan/stock-market
