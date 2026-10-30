@@ -23,3 +23,11 @@
 2026-10-29 | Cinebiografia de Cássia Eller começa a ser filmada no Rio | https://revistadecinema.com.br/2026/10/cinebiografia-de-cassia-eller-esta-sendo-rodada-no-rio-de-janeiro/
 2026-10-29 | Leandro Hassum e Danielle Winits gravam Até que a Sorte nos Separe 4 | https://revistadecinema.com.br/2026/10/leandro-hassum-e-danielle-winits-gravam-ate-que-a-sorte-nos-separe-4/
 2026-10-29 | As Dez Vantagens de Morrer Depois de Você estreia nos cinemas em 29/10 | https://revistadecinema.com.br/2026/10/estreia-as-dez-vantagens-de-morrer-depois-de-voce-baseado-em-livro-de-fernanda-de-castro-lima/
+2026-10-30 | Patrick Stewart morre aos 86 anos (homenagens de Feige, Jackman e McKellen) | https://www.omelete.com.br/filmes/patrick-stewart-morre
+2026-10-30 | Margot Robbie como Arlequina no DCU: James Gunn responde | https://www.omelete.com.br/filmes/margot-robbie-vai-continuar-como-arlequina-na-dc-james-gunn-responde
+2026-10-30 | Novo Batman do DCU "não está muito longe" de ser escalado | https://www.omelete.com.br/filmes/batman-dcu-atualizacao
+2026-10-30 | Primeiro filme 100% IA da China fracassa nas bilheterias | https://www.omelete.com.br/filmes/primeiro-filme-feito-100-em-ia-generativa-da-china-fracassa-nas-bilheterias
+2026-10-30 | 50ª Mostra de SP: premiações, Feito Pipa e 100 Dias vencem prêmio do público | https://www.omelete.com.br/filmes/50-mostra-sp-sentido-da-vida-feito-pipa-100-dias-vencem-premio-publico
+2026-10-30 | Sem Pai Nem Mãe, de André Klotzel, com Alexandre Nero | https://revistadecinema.com.br/2026/10/sem-pai-nem-mae-de-andre-klotzel-narra-historia-embalada-por-sucessos-de-tom-jobim-chico-buarque-gilberto-gil-e-vandre/
+2026-10-30 | 100 Dias, de Carlos Saldanha, sobre Amyr Klink, estreia nos cinemas | https://revistadecinema.com.br/2026/10/filme-sobre-a-travessia-de-amyr-klink-estreia-nos-cinemas/
+2026-10-30 | Festival de Cinema Francês (antigo Varilux) de 29/10 a 11/11 | https://revistadecinema.com.br/2026/10/festival-frances-traz-laure-calamy-e-benoit-magimel-ao-brasil-e-exibe-o-diptico-de-gaulle-e-o-sentido-da-vida-de-hamaguchi/
