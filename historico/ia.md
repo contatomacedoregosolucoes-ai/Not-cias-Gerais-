@@ -24,3 +24,9 @@
 2026-10-29 | Vazamento indica GPT Image 2.6 da OpenAI | https://thewincentral.com/gpt-image-2-6-openai-api-spec-leak-markup-editor/
 2026-10-29 | Microsoft recebeu US$ 10 bi da OpenAI em um trimestre | https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/
 2026-10-29 | DOJ examina compra do Hugging Face pela Nvidia | https://www.pymnts.com/cpi-posts/nvidias-12-9-billion-hugging-face-deal-draws-justice-department-questions/
+2026-10-30 | OpenAI lança o GPT-6.1 Terra, modelo que usa o computador por metade do preço | https://bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing
+2026-10-30 | Kimi K3.1 Pro, da Moonshot, chega perto dos líderes em programação | https://winbuzzer.com/2026/10/25/kimi-k3-1-pro-gains-ground-in-ai-coding-tests-xcxwbn/
+2026-10-30 | Pika abre o H3-Flex, modelo de vídeo com áudio sincronizado | https://huggingface.co/Pika-Labs/Pika-H3-Flex
+2026-10-30 | Thrive, parceira da OpenAI, compra a ADT por US$ 15,3 bi | https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/
+2026-10-30 | Nvidia estuda garantir dívida para dobrar capacidade da Anthropic na Nscale | https://cryptobriefing.com/nvidia-credit-support-nscale-anthropic-deal/
+2026-10-30 | Microsoft: receita de US$ 92,3 bi, Azure +48%, gastos com equipamentos dobram | https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast
