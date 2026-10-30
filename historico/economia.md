@@ -32,3 +32,9 @@
 2026-10-28 | UBS lucra US$ 2,7 bi e acelera recompra | https://www.infomoney.com.br/mercados/ubs-registra-lucro-de-us-27-bi-alta-anual-de-8-e-acelera-recompra-de-acoes/
 2026-10-28 | Santander global: lucro subjacente +19%, Brasil -15% | https://www.infomoney.com.br/mercados/lucro-liquido-do-banco-espanhol-santander-no-3o-tri-sobe-apesar-de-queda-no-brasil/
 2026-10-29 | Nikkei sobe com chips; Kospi cai com Samsung | https://tradingeconomics.com/japan/stock-market
+2026-10-29 | Ibovespa cai pela 4ª sessão abaixo de 170 mil; dólar R$ 5,3875 | https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-29-outubro-2026/
+2026-10-30 | Itaú vira favorito e Bradesco perde força entre analistas | https://www.infomoney.com.br/mercados/itau-favorito-bradesco-perde-forca-a-visao-do-mercado-para-bancoes-apos-a-eleicao/
+2026-10-29 | Dívida bruta a 82,93% do PIB; juros longos em alta; PCE 3,6% | https://www.brasil247.com/economia/ibovespa-cai-106-e-fecha-abaixo-de-170-mil-pontos/
+2026-10-29 | Alphabet com pior queda da história; Nasdaq -1,4% | https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-thursday-10292026-nid29102026/
+2026-10-30 | Bolsas da China em mínimas de mais de um ano | https://tradingeconomics.com/china/stock-market
+2026-10-30 | WTI perto de US$ 104; Trump/Irã pós-eleições; Europa libera reservas | https://tradingeconomics.com/commodity/crude-oil
