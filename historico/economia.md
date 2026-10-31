@@ -38,3 +38,11 @@
 2026-10-29 | Alphabet com pior queda da história; Nasdaq -1,4% | https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-thursday-10292026-nid29102026/
 2026-10-30 | Bolsas da China em mínimas de mais de um ano | https://tradingeconomics.com/china/stock-market
 2026-10-30 | WTI perto de US$ 104; Trump/Irã pós-eleições; Europa libera reservas | https://tradingeconomics.com/commodity/crude-oil
+2026-10-30 | Bolsa tem pior semana em seis anos (Ibovespa -18,12%) e dólar a R$ 5,4443 | https://www.moneytimes.com.br/ibovespa-30-10-26-lils/
+2026-10-30 | Desemprego cai a 5,2% (IBGE) e reforça cautela do BC | https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-30102026/
+2026-10-30 | Balanços: Vale sobe, Usiminas e CSN despencam mais de 8% | https://tradingeconomics.com/brazil/stock-market
+2026-10-30 | Tecnologia derruba Wall Street: S&P -1,82%, Intel -28,6% | https://tradingeconomics.com/united-states/stock-market
+2026-10-30 | Semana de queda em Nova York; Dow -1,09%, Nasdaq -2,86%; eleições legislativas dos EUA | https://www.dgabc.com.br/Noticia/4366080/fechamento-do-mercado-financeiro
+2026-10-30 | Brent a US$ 113,43; Irã não cede e incidentes em Ormuz | https://tradingeconomics.com/commodity/brent-crude-oil
+2026-10-30 | Euro Stoxx 50 -1,23%; ASML cai 6% | https://tradingeconomics.com/euro-area/stock-market
+2026-10-30 | Ataque hacker à Binance rouba cerca de US$ 6,3 bi | https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-30-outubro-2026/
