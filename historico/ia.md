@@ -30,3 +30,10 @@
 2026-10-30 | Thrive, parceira da OpenAI, compra a ADT por US$ 15,3 bi | https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/
 2026-10-30 | Nvidia estuda garantir dívida para dobrar capacidade da Anthropic na Nscale | https://cryptobriefing.com/nvidia-credit-support-nscale-anthropic-deal/
 2026-10-30 | Microsoft: receita de US$ 92,3 bi, Azure +48%, gastos com equipamentos dobram | https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast
+2026-10-31 | Mistral libera pesos do Mistral Large 4, aberto de 1 tri de parametros | https://www.implicator.ai/mistral-releases-weights-mistral-large-4-le-chonk-says/
+2026-10-31 | Microsoft abre o Mage-VL-Cowork, modelo de 4B que opera o computador | https://www.ventureatlas.org/news/2026-10-30-microsoft-mage-vl-cowork
+2026-10-31 | Gemini 4 Carbon estreia em 1o no ranking thinQit | https://www.thinqit.io/resources/ai-benchmarks-2026-10-30-gemini-4-carbon-enters-the-thinqit-index-at-1-as-25-models-j/
+2026-10-31 | Alphabet perde cerca de US$ 500 bi em valor de mercado em um dia | https://www.implicator.ai/alphabets-stock-falls-12-3-wiping-record-500b-market-cap/
+2026-10-31 | Amazon gasta US$ 77,3 bi em um trimestre e caixa livre fica negativo | https://www.implicator.ai/amazon-spent-77b-property-equipment-q3-leading-free-cash/
+2026-10-31 | Canada investe ate C$ 1,6 bi na Cohere | https://www.implicator.ai/canada-based-cohere-completes-first-close-round-expects/
+2026-10-31 | Nvidia e AMD colocam US$ 4 bi na emissao de acoes da Meta | https://www.implicator.ai/nvidia-amd-bankroll-meta-sk-hynix-payouts/

@@ -31,3 +31,11 @@
 2026-10-30 | Sem Pai Nem Mãe, de André Klotzel, com Alexandre Nero | https://revistadecinema.com.br/2026/10/sem-pai-nem-mae-de-andre-klotzel-narra-historia-embalada-por-sucessos-de-tom-jobim-chico-buarque-gilberto-gil-e-vandre/
 2026-10-30 | 100 Dias, de Carlos Saldanha, sobre Amyr Klink, estreia nos cinemas | https://revistadecinema.com.br/2026/10/filme-sobre-a-travessia-de-amyr-klink-estreia-nos-cinemas/
 2026-10-30 | Festival de Cinema Francês (antigo Varilux) de 29/10 a 11/11 | https://revistadecinema.com.br/2026/10/festival-frances-traz-laure-calamy-e-benoit-magimel-ao-brasil-e-exibe-o-diptico-de-gaulle-e-o-sentido-da-vida-de-hamaguchi/
+2026-10-31 | Doutor Destino: teaser com Doom no trono marca início da venda de ingressos | https://www.omelete.com.br/filmes/vingadores-doutor-destino-novo-teaser-mostrando-doom-em-seu-trono
+2026-10-31 | John Leguizamo será o grande vilão de Miami Vice | https://www.adorocinema.com/noticias/filmes/noticia-1000224983/
+2026-10-31 | Diretor de Resident Evil diz que se incomodou com o debate sobre fidelidade aos jogos | https://www.omelete.com.br/filmes/resident-evil-zach-cregger-sentiu-frustrado-debate-quanto-a-fidelidade-adaptacao
+2026-10-31 | Rajamouli, de RRR, diz que adoraria filmar no Brasil | https://www.omelete.com.br/filmes/ss-rajamouli-entrevista-brasil
+2026-10-31 | Thriller de vampiros brasileiro Love Kills estreia nos cinemas dos EUA | https://revistadecinema.com.br/2026/10/thriller-brasileiro-love-kills-estreia-no-circuito-norte-americano/
+2026-10-31 | RT Features vai adaptar Os Imortais, romance vencedor do Machado de Assis | https://revistadecinema.com.br/2026/10/rt-features-produzira-adaptacao-de-os-imortais-de-paulliny-tort/
+2026-10-31 | Netflix divulga trailer de Quasimodo, com Vincent Cassel | https://www.omelete.com.br/filmes/quasimodo-corcunda-notre-dame-netflix-trailer
+2026-10-31 | O Ser Querido, com Javier Bardem, ganha trailer e data no Brasil | https://www.omelete.com.br/filmes/o-ser-querido-cannes-2026-javier-bardem-trailer-exclusivo
