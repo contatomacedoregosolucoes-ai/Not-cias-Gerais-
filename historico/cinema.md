@@ -39,3 +39,11 @@
 2026-10-31 | RT Features vai adaptar Os Imortais, romance vencedor do Machado de Assis | https://revistadecinema.com.br/2026/10/rt-features-produzira-adaptacao-de-os-imortais-de-paulliny-tort/
 2026-10-31 | Netflix divulga trailer de Quasimodo, com Vincent Cassel | https://www.omelete.com.br/filmes/quasimodo-corcunda-notre-dame-netflix-trailer
 2026-10-31 | O Ser Querido, com Javier Bardem, ganha trailer e data no Brasil | https://www.omelete.com.br/filmes/o-ser-querido-cannes-2026-javier-bardem-trailer-exclusivo
+2026-11-01 | Bilheteria de Halloween: You Can See Everything e Cara-de-Barro disputam a liderança | https://www.omelete.com.br/filmes/bilheteria-halloween-2026-previsao-you-can-see-everything-cara-de-barro-disputa-lideranca
+2026-11-01 | Vingadores: Doutor Destino passa de US$ 125 milhões em pré-vendas | https://www.omelete.com.br/filmes/vingadores-doutor-destino-arrecadacao-pre-vendas-31-out
+2026-11-01 | Matt Reeves: "Eu não estou abandonando Batman Parte II" | https://www.adorocinema.com/noticias/filmes/noticia-1000230064/
+2026-11-01 | HBO prepara minissérie de Os Pássaros com Sarah Snook | https://www.adorocinema.com/noticias/filmes/noticia-1000229881/
+2026-11-01 | Suspense Macabro estreia no Canal Brasil | https://revistadecinema.com.br/2026/10/suspense-macabro-de-marcos-botelho-prado-estreia-no-canal-brasil/
+2026-11-01 | Dois curtas brasileiros no Austin Film Festival | https://revistadecinema.com.br/2026/10/curtas-metragens-brasileiros-sao-selecionados-para-o-austin-film-festival/
+2026-11-01 | Estreias de 5/11: Godzilla Minus Zero e Os Farofeiros 3 | https://www.tribunapr.com.br/variedades/cinema-em-novembro-de-2026-conheca-as-estreias-mais-aguardadas-do-mes/
+2026-11-01 | Estreias nos streamings em novembro de 2026 | https://gameoverdrive.com.br/lancamentos-streaming-novembro-2026-netflix-prime-video-disney/
