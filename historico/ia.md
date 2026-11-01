@@ -37,3 +37,9 @@
 2026-10-31 | Amazon gasta US$ 77,3 bi em um trimestre e caixa livre fica negativo | https://www.implicator.ai/amazon-spent-77b-property-equipment-q3-leading-free-cash/
 2026-10-31 | Canada investe ate C$ 1,6 bi na Cohere | https://www.implicator.ai/canada-based-cohere-completes-first-close-round-expects/
 2026-10-31 | Nvidia e AMD colocam US$ 4 bi na emissao de acoes da Meta | https://www.implicator.ai/nvidia-amd-bankroll-meta-sk-hynix-payouts/
+2026-11-01 | OpenAI lança o GPT-Rosalind-6, modelo para biologia e descoberta de remédios | https://deploymentsafety.openai.com/gpt-rosalind-6
+2026-11-01 | OpenAI reduz meta de captação para US$ 20 bi e valor para US$ 1,25 tri, diz FT | https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters
+2026-11-01 | Alibaba levará o Qwen para o Apple Intelligence na China | https://news.cgtn.com/news/2026-10-31/Alibaba-s-Qwen-to-integrate-into-Apple-Intelligence-in-landmark-deal-1RHilSeJsbK/p.html
+2026-11-01 | Juíza mantém processo da NAACP contra a xAI por turbinas em Memphis | https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/
+2026-11-01 | Maiores rodadas da semana: Bedrock Robotics, Serval, General Compute, Hex | https://news.crunchbase.com/venture/biggest-rounds-startups-physical-ai-predictions-robotics-rebuild
+2026-11-01 | Regras da Microsoft para IA nas escolas passam a valer em 1o de novembro | https://digital.nemko.com/news/microsoft-ai-guardrails-for-schools-take-effect-november-1
