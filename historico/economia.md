@@ -46,3 +46,12 @@
 2026-10-30 | Brent a US$ 113,43; Irã não cede e incidentes em Ormuz | https://tradingeconomics.com/commodity/brent-crude-oil
 2026-10-30 | Euro Stoxx 50 -1,23%; ASML cai 6% | https://tradingeconomics.com/euro-area/stock-market
 2026-10-30 | Ataque hacker à Binance rouba cerca de US$ 6,3 bi | https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-30-outubro-2026/
+2026-10-30 | Copom na quarta: aposta vira manutenção (66,5%); Ibovespa -9,88% em outubro | https://www.moneytimes.com.br/ibovespa-outubro-26-lils/
+2026-11-01 | Focus: IPCA 2027 sobe; Itaú vê 6,1% e corta PIB | https://www.cnnbrasil.com.br/economia/money/mercado/mercado-revisa-pib-para-baixo-e-ja-ve-inflacao-ate-6-em-2027/
+2026-10-31 | Dólar alto vira preço mais alto; Goldenstein alerta estagflação | https://timesbrasil.com.br/brasil/lula-4-comeca-com-sete-recordes-negativos-no-mercado-como-a-conta-vai-chegar-ao-bolso-dos-brasileiros-123/
+2026-10-28 | Midterms de 3/11: mercado já embute vitória democrata | https://investalk.bb.com.br/noticias/economia/midterms-2026-como-as-eleicoes-nos-eua-podem-afetar-trump-e-os-mercados
+2026-11-01 | IA começa a aparecer nos balanços, de forma desigual | https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html
+2026-10-31 | OpenAI reduz meta de captação para até US$ 20 bi | https://timesbrasil.com.br/empresas-e-negocios/tecnologia-e-inovacao/openai-reduz-meta-de-captacao-e-pretende-levantar-ate-us-20-bilhoes-em-nova-rodada/
+2026-10-31 | OPEP+ deve manter produção em dezembro | https://www.infomoney.com.br/mercados/opep-producao-petroleo-dezembro-cotas-2027/
+2026-10-30 | Zona do euro cresce 0,4% no 3T; França encolhe 0,1% | https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html
+2026-10-31 | BoJ mantém juros em 1,25% e reforça aposta de alta em dezembro | https://www.cnnbrasil.com.br/economia/money/mercado/boj-tenta-estimular-economia-do-japao-ha-muito-tempo-diz-economista/
