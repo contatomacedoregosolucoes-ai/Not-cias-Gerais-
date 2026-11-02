@@ -55,3 +55,13 @@
 2026-10-31 | OPEP+ deve manter produção em dezembro | https://www.infomoney.com.br/mercados/opep-producao-petroleo-dezembro-cotas-2027/
 2026-10-30 | Zona do euro cresce 0,4% no 3T; França encolhe 0,1% | https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html
 2026-10-31 | BoJ mantém juros em 1,25% e reforça aposta de alta em dezembro | https://www.cnnbrasil.com.br/economia/money/mercado/boj-tenta-estimular-economia-do-japao-ha-muito-tempo-diz-economista/
+2026-11-02 | Copom na quarta: bancos se dividem entre pausa e último corte (68,8% manutenção) | https://www.cnnbrasil.com.br/economia/money/macroeconomia/mercado-chega-a-semana-do-copom-com-expectativa-por-fim-do-corte-de-juros/
+2026-11-02 | O que fez o mercado rever a aposta em novos cortes da Selic | https://www.cnnbrasil.com.br/blogs/debora-oliveira/economia/money/macroeconomia/copom-o-que-fez-o-mercado-rever-a-aposta-em-novos-cortes-da-selic/
+2026-11-01 | Petrobras reajusta querosene de aviação em 7,2% | https://www.infomoney.com.br/mercados/petrobras-anuncia-aumento-de-72-no-preco-do-litro-do-querosene-de-aviacao/
+2026-11-02 | Ajuste fiscal precisa ser socialmente justo, diz Sergio Firpo (Insper) | https://www.cnnbrasil.com.br/economia/money/macroeconomia/ajuste-fiscal-de-lula-precisa-ser-socialmente-justo-diz-sergio-firpo/
+2026-11-01 | Eleições de terça: democratas favoritos na Câmara, Senado incerto; futuros em alta | https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html
+2026-11-01 | Gigantes de IA perdem US$ 5 tri desde 6/10; resto da bolsa ganha US$ 1,3 tri | https://finance.yahoo.com/markets/article/stock-futures-jump-ahead-of-a-monster-week-after-a-5-trillion-ai-rout-021203996.html
+2026-11-01 | Análise CNN: Fed errou ao manter juros? Alta em dezembro no radar | https://www.cnnbrasil.com.br/economia/money/mercado/analise-o-federal-reserve-cometeu-um-erro-ao-manter-a-taxa-de-juros/
+2026-11-01 | Opep+ confirma metas de dezembro; cotas de 2027 em 29/11 | https://www.cnnbrasil.com.br/economia/money/macroeconomia/opep-mantem-metas-de-producao-de-petroleo-para-dezembro-em-meio-a-guerra/
+2026-11-02 | PMI da China: oficial 49,3 e RatingDog 52,0 | https://tradingeconomics.com/china/manufacturing-pmi
+2026-11-01 | Binance tem saída líquida de US$ 3,64 bi após retomar saques | https://www.infomoney.com.br/mercados/binance-registra-saidas-liquidas-de-us364-bi-apos-retomada-de-saques/
