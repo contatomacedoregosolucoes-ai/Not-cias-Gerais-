@@ -47,3 +47,11 @@
 2026-11-01 | Dois curtas brasileiros no Austin Film Festival | https://revistadecinema.com.br/2026/10/curtas-metragens-brasileiros-sao-selecionados-para-o-austin-film-festival/
 2026-11-01 | Estreias de 5/11: Godzilla Minus Zero e Os Farofeiros 3 | https://www.tribunapr.com.br/variedades/cinema-em-novembro-de-2026-conheca-as-estreias-mais-aguardadas-do-mes/
 2026-11-01 | Estreias nos streamings em novembro de 2026 | https://gameoverdrive.com.br/lancamentos-streaming-novembro-2026-netflix-prime-video-disney/
+2026-11-02 | Tom Holland vira o ator de maior bilheteria da história | https://www.adorocinema.com/noticias/filmes/noticia-1000225826/
+2026-11-02 | Halloween nas bilheterias: Tudo Pode Ser Visto e Cara-de-Barro empatados (estimativas) | https://nosbastidores.com.br/documentario-tudo-pode-ser-visto-e-cara-de-barro-disputam-lideranca-apertada-nas-bilheterias-dos-eua/
+2026-11-02 | Judi Dench, 91 anos, fala da aposentadoria forçada | https://www.adorocinema.com/noticias/filmes/noticia-1000229549/
+2026-11-02 | John Leguizamo comemora reeleição de Lula e quer visitar o Brasil | https://www.adorocinema.com/noticias/filmes/noticia-1000229906/
+2026-11-02 | Maya Boyd se prepara para ser Tempestade no reboot de X-Men | https://www.omelete.com.br/filmes/x-men-maya-boyd-treinamento-tempestade-reboot
+2026-11-02 | Scarlett Johansson em imagem inédita de O Exorcista: Mártires | https://www.omelete.com.br/filmes/o-exorcista-martires-scarlett-johansson-nova-imagem-mike-flanagan
+2026-11-02 | Zootopia 3 terá aves e pode sair da cidade | https://www.omelete.com.br/filmes/zootopia-3-confirma-chegada-de-aves-expansao-universo-franquia
+2026-11-02 | Obsessão no Prime Video em 14/11 e versão estendida com 20 minutos extras | https://www.omelete.com.br/filmes/obsessao-curry-barker-revela-versao-estendida-com-20-minutos-extras
