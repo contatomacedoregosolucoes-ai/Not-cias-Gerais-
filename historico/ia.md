@@ -43,3 +43,8 @@
 2026-11-01 | Juíza mantém processo da NAACP contra a xAI por turbinas em Memphis | https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/
 2026-11-01 | Maiores rodadas da semana: Bedrock Robotics, Serval, General Compute, Hex | https://news.crunchbase.com/venture/biggest-rounds-startups-physical-ai-predictions-robotics-rebuild
 2026-11-01 | Regras da Microsoft para IA nas escolas passam a valer em 1o de novembro | https://digital.nemko.com/news/microsoft-ai-guardrails-for-schools-take-effect-november-1
+2026-11-02 | GitHub Copilot Fusion mistura modelos e chega perto do Claude Code por metade do custo | https://venturebeat.com/orchestration/github-copilot-fusion-mixes-models-to-achieve-near-opus-5-5-coding-performance-at-half-the-per-task-cost
+2026-11-02 | Liquid AI lança LFM3, seis modelos pequenos para rodar no aparelho | https://venturebeat.com/technology/liquid-ais-new-lfm3-models-put-browser-agents-voice-commands-and-image-recognition-onto-enterprise-controlled-devices
+2026-11-02 | Nvidia e Oracle liberam Vera Rubin NVL72 e CPUs Vera na OCI | https://www.oracle.com/news/announcement/ai-world-nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-2026-10-27/
+2026-11-02 | Blackstone prevê nota de crédito junk para a Anthropic após o IPO | https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/
+2026-11-02 | Satélite Suncatcher do Google está online e roda Gemma 4 em órbita | https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/
