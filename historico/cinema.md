@@ -55,3 +55,10 @@
 2026-11-02 | Scarlett Johansson em imagem inédita de O Exorcista: Mártires | https://www.omelete.com.br/filmes/o-exorcista-martires-scarlett-johansson-nova-imagem-mike-flanagan
 2026-11-02 | Zootopia 3 terá aves e pode sair da cidade | https://www.omelete.com.br/filmes/zootopia-3-confirma-chegada-de-aves-expansao-universo-franquia
 2026-11-02 | Obsessão no Prime Video em 14/11 e versão estendida com 20 minutos extras | https://www.omelete.com.br/filmes/obsessao-curry-barker-revela-versao-estendida-com-20-minutos-extras
+2026-11-03 | Meryl Streep dá voz a Aslan em Nárnia, da Netflix (primeiro visual) | https://www.adorocinema.com/noticias/filmes/noticia-1000225378/
+2026-11-03 | Neve Campbell confirma volta em Pânico 8 | https://www.omelete.com.br/filmes/panico-8-neve-campbell-confirma-retorno-como-sidney-prescott
+2026-11-03 | Globo de Ouro: Club Kid no drama e Eu Sou o Rocky na comédia | https://www.omelete.com.br/filmes/globo-de-ouro-club-kid-vai-concorrer-drama-eu-sou-rocky-comedia-ou-musical
+2026-11-03 | Disney muda planos: Frozen 3 e 4 não virão em sequência | https://www.omelete.com.br/filmes/disney-muda-os-planos-para-frozen-4-entenda
+2026-11-03 | Villeneuve: fez Duna 3 cansado de Arrakis, Bond 26 como pausa | https://www.adorocinema.com/noticias/filmes/noticia-1000228550/
+2026-11-03 | Diretor de Godzilla Minus One toparia voltar à franquia | https://www.omelete.com.br/filmes/godzilla-minus-zero-diretor-responde-se-voltaria-para-terceiro-filme-confira
+2026-11-03 | Cine Ceará (7 a 13/11) homenageia Belchior | https://revistadecinema.com.br/2026/11/cine-ceara-presta-tributo-a-belchior-e-se-transforma-em-vitrine-para-viver-e-melhor-que-sonhar-pessoal-do-ceara-e-alucinacao/
