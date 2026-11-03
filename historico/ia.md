@@ -48,3 +48,7 @@
 2026-11-02 | Nvidia e Oracle liberam Vera Rubin NVL72 e CPUs Vera na OCI | https://www.oracle.com/news/announcement/ai-world-nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-2026-10-27/
 2026-11-02 | Blackstone prevê nota de crédito junk para a Anthropic após o IPO | https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/
 2026-11-02 | Satélite Suncatcher do Google está online e roda Gemma 4 em órbita | https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/
+2026-11-03 | SemiAnalysis lança o GDPx: Claude Opus 5.5 lidera com 12% | https://cryptobriefing.com/semianalysis-gdpx-ai-benchmark-frontier-models
+2026-11-03 | Anthropic parece preparar o Claude Mythos 5.5 (sem confirmação) | https://www.testingcatalog.com/anthropic-prepares-to-release-claude-mythos-5-5-model/
+2026-11-03 | Anthropic estende marca d'água invisível a mais quatro modelos Claude | https://techweez.com/2026/11/02/anthropic-is-bringing-text-watermarking-to-more-claude-models/
+2026-11-03 | OpenAI traz a Cathedral Systems e eleva bug bounty a US$ 172 mil | https://runtimewire.com/article/openai-cathedral-security-sprint-bug-bounty-172000
