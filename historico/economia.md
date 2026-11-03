@@ -65,3 +65,9 @@
 2026-11-01 | Opep+ confirma metas de dezembro; cotas de 2027 em 29/11 | https://www.cnnbrasil.com.br/economia/money/macroeconomia/opep-mantem-metas-de-producao-de-petroleo-para-dezembro-em-meio-a-guerra/
 2026-11-02 | PMI da China: oficial 49,3 e RatingDog 52,0 | https://tradingeconomics.com/china/manufacturing-pmi
 2026-11-01 | Binance tem saída líquida de US$ 3,64 bi após retomar saques | https://www.infomoney.com.br/mercados/binance-registra-saidas-liquidas-de-us364-bi-apos-retomada-de-saques/
+2026-11-02 | Copom começa hoje; chance de manutenção sobe a 72% | https://www.paranashop.com.br/post/bolsa-da-semana-02-11-2026
+2026-11-02 | Bolsa chega ao Copom com cinco quedas seguidas e dólar a R$ 5,44 | https://leobpiveta.substack.com/p/rota-do-mercado-02112026
+2026-11-02 | Dia de eleição nos EUA: Wall Street espera resultado e balanço da Apple | https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-2-144446387.html
+2026-11-02 | Tesouro dos EUA anuncia plano de dívida na quarta (US$ 618 bi) | https://pro.thestreet.com/stock-market-today/2026-11-02
+2026-11-02 | Aposta de alta do Fed em dezembro passa de 69% | https://www.riotimesonline.com/global-economy-briefing-november-2-2026
+2026-11-02 | Petróleo cai com Rubio dizendo que Trump quer solução diplomática com o Irã | https://www.cnbc.com/2026/11/02/us-treasury-yields-bonds.html
