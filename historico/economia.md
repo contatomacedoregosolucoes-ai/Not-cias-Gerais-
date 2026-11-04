@@ -71,3 +71,6 @@
 2026-11-02 | Tesouro dos EUA anuncia plano de dívida na quarta (US$ 618 bi) | https://pro.thestreet.com/stock-market-today/2026-11-02
 2026-11-02 | Aposta de alta do Fed em dezembro passa de 69% | https://www.riotimesonline.com/global-economy-briefing-november-2-2026
 2026-11-02 | Petróleo cai com Rubio dizendo que Trump quer solução diplomática com o Irã | https://www.cnbc.com/2026/11/02/us-treasury-yields-bonds.html
+2026-11-03 | Ibovespa fecha no menor nível desde janeiro; dólar R$ 5,487 | https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-3-novembro-2026-2/
+2026-11-03 | Incerteza sobre juros e fiscal derruba bolsa antes do Copom | https://forbes.com.br/forbes-money/2026/11/ibovespa-cai-antes-do-copom-com-incertezas-sobre-juros-e-politica-fiscal/
+2026-11-03 | Dia de eleição nos EUA: chips sobem, Apple pesa; democratas favoritos | https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-03-2026

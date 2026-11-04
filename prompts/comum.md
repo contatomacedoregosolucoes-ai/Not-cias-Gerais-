@@ -18,6 +18,10 @@ Destinatário: contato.macedoregosolucoes@gmail.com
 - Leia o arquivo de histórico da categoria (`historico/<categoria>.md`). Ele lista as notícias já enviadas.
   NÃO repita nenhuma notícia que já esteja lá, nem o mesmo fato com outro link ou outro título.
   Exceção: um desdobramento realmente novo do mesmo assunto (ex.: "Copom decidiu" depois de "Copom vai decidir") pode entrar, deixando claro o que há de novo.
+- Dia fraco: se as últimas 48h não renderem pelo menos 3 notícias novas e confirmadas, complete com notícias dos últimos 7 dias
+  que ainda não estejam no histórico, mostrando a data de cada uma. O e-mail SEMPRE sai.
+  Se nem assim houver nenhuma notícia confirmada, envie mesmo assim um e-mail curto, com o assunto normal, dizendo que não houve
+  novidade confirmada no período. Nunca deixe de enviar o e-mail da categoria.
 - Mostre a data de publicação de cada notícia na linha do link.
 
 ## Veracidade

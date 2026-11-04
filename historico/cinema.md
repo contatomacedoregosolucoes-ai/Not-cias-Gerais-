@@ -62,3 +62,4 @@
 2026-11-03 | Villeneuve: fez Duna 3 cansado de Arrakis, Bond 26 como pausa | https://www.adorocinema.com/noticias/filmes/noticia-1000228550/
 2026-11-03 | Diretor de Godzilla Minus One toparia voltar à franquia | https://www.omelete.com.br/filmes/godzilla-minus-zero-diretor-responde-se-voltaria-para-terceiro-filme-confira
 2026-11-03 | Cine Ceará (7 a 13/11) homenageia Belchior | https://revistadecinema.com.br/2026/11/cine-ceara-presta-tributo-a-belchior-e-se-transforma-em-vitrine-para-viver-e-melhor-que-sonhar-pessoal-do-ceara-e-alucinacao/
+2026-11-04 | Obsessão passa de US$ 500 milhões e ganha data na Netflix dos EUA (17/11) | https://dgabc.com.br/Noticia/4366572/obsessao-fenomeno-de-bilheteria-ganha-data-de-estreia-na-netflix
