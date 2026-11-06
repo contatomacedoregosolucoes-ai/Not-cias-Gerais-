@@ -3,7 +3,7 @@
 Destinatário: contato.macedoregosolucoes@gmail.com
 
 ## Pesquisa
-- Descubra a data de hoje com `TZ=America/Sao_Paulo date`.
+- Descubra a data de hoje com `TZ=America/Sao_Paulo date +%d/%m/%Y` e use EXATAMENTE essa data (dia, mês e ano) no assunto e no cabeçalho. Nunca escreva a data de memória.
 - Use a ferramenta WebSearch (modo "standard"; carregue via ToolSearch se necessário), no máximo o número de buscas indicado no prompt da categoria.
 - Inclua a data de hoje, "hoje", "esta semana" ou o mês/ano nas buscas para trazer notícias frescas.
 - Se uma busca no modo "standard" vier fraca, desatualizada ou só com agregadores, refaça-a no modo "extended" (no máximo 2 buscas "extended" por e-mail).
