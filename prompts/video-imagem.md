@@ -5,7 +5,7 @@ Leia antes `prompts/comum.md` e siga todas as regras de lá. Categoria: `video-i
 - Assunto do e-mail: "🎥 Vídeo & Imagem com IA"
 - Título no cabeçalho: "🎥 Vídeo &amp; Imagem com IA"
 - COR = #0e7490 · COR_CLARA = #e6f6f9
-- Máximo de 7 buscas (até 2 no modo "extended").
+- Máximo de 10 buscas (até 4 no modo "extended").
 
 ## O que pesquisar
 SOMENTE modelos e ferramentas de IA que geram ou editam VÍDEO e IMAGEM: lançamentos, novas versões e recursos
@@ -17,6 +17,12 @@ Fontes preferidas: blogs oficiais das empresas, The Verge, TechCrunch, VentureBe
 
 Leitor: empreendedor que cria conteúdo para Instagram e anúncios da própria marca. Tom: explicar para um criador de conteúdo
 curioso, que não é técnico, o que cada novidade permite fazer na prática.
+
+## Fontes primárias (confira SEMPRE, com WebFetch ou busca restrita ao site)
+Páginas de novidades e notas de versão de OpenAI (openai.com/news; ChatGPT Images e gpt-image), Google (blog.google, deepmind.google:
+Veo, Imagen, Nano Banana, Gemini), Runway, Kling, Luma, Midjourney, Black Forest Labs (Flux), Ideogram, ByteDance (Seedance),
+MiniMax (Hailuo), Adobe Firefly e Higgsfield. Se um site bloquear o WebFetch, busque "site:<domínio>" ou a cobertura de veículos
+(The Verge, TechCrunch) e de blogs especializados (OpenArt, Replicate, fal.ai).
 
 ## Estrutura (nesta ordem; omita a seção sem nada relevante)
 1. ⚡ Em 30 segundos: UM parágrafo corrido (3 a 4 frases) com o essencial.

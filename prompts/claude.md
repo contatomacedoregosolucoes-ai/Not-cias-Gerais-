@@ -5,7 +5,7 @@ Leia antes `prompts/comum.md` e siga todas as regras de lá. Categoria: `claude`
 - Assunto do e-mail: "🧠 Claude & Skills"
 - Título no cabeçalho: "🧠 Claude &amp; Skills"
 - COR = #c15f3c · COR_CLARA = #fbefe9
-- Máximo de 7 buscas (até 2 no modo "extended").
+- Máximo de 10 buscas (até 4 no modo "extended").
 
 ## Leitor
 Empreendedor brasileiro que já usa o Claude no dia a dia: Claude Code na nuvem, skills, plugins, conectores (Gmail, Google Drive,
@@ -24,6 +24,10 @@ github.com/anthropics, The Verge, TechCrunch, Simon Willison, Tecnoblog. Abra as
 - Novidades: últimos 7 dias, como nas regras comuns.
 - "Skill em destaque" e "Dica prática" podem usar material de qualquer data (documentação, guias, repositórios), desde que
   sejam úteis, estejam corretos hoje e NÃO repitam nada do histórico.
+
+## Fontes primárias (confira SEMPRE)
+Notas de versão em support.claude.com (release notes), anthropic.com/news, claude.com/blog, docs.claude.com (changelog do Claude Code)
+e github.com/anthropics. Se um site bloquear o WebFetch, busque "site:<domínio>".
 
 ## Estrutura (nesta ordem)
 1. ⚡ Em 30 segundos: UM parágrafo corrido com o essencial.

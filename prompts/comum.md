@@ -4,10 +4,17 @@ Destinatário: contato.macedoregosolucoes@gmail.com
 
 ## Pesquisa
 - Descubra a data de hoje com `TZ=America/Sao_Paulo date +%d/%m/%Y` e use EXATAMENTE essa data (dia, mês e ano) no assunto e no cabeçalho. Nunca escreva a data de memória.
-- Use a ferramenta WebSearch (modo "standard"; carregue via ToolSearch se necessário), no máximo o número de buscas indicado no prompt da categoria.
+- Use a ferramenta WebSearch (carregue via ToolSearch se necessário), no máximo o número de buscas indicado no prompt da categoria.
+- COMECE pelo modo "extended" em 2 a 3 buscas amplas sobre a semana (ex.: "lançamentos <tema> esta semana <mês> <ano>").
+  O modo "standard" costuma devolver páginas antigas e já deixou passar lançamentos grandes (ex.: GPT Image 2.6, lançado em 04/11/2026).
+  Use o "standard" depois, para buscas específicas por empresa ou produto. Até 4 buscas "extended" por e-mail.
 - Inclua a data de hoje, "hoje", "esta semana" ou o mês/ano nas buscas para trazer notícias frescas.
-- Se uma busca no modo "standard" vier fraca, desatualizada ou só com agregadores, refaça-a no modo "extended" (no máximo 2 buscas "extended" por e-mail).
 - Varie as buscas por veículo/tema (ex.: incluir o nome do veículo ou da empresa) para achar a matéria original de cada fato.
+
+## Rumores pendentes
+- Antes de pesquisar, procure em TODOS os arquivos de `historico/` dos últimos 30 dias itens marcados como vazamento, rumor,
+  "não confirmado" ou "em breve" que sejam do seu tema. Verifique se foram lançados ou confirmados.
+  Se sim, isso é notícia nova para o seu e-mail (um desdobramento), mesmo que o rumor tenha aparecido em outra categoria.
 
 ## Links
 - Cada notícia precisa do link da MATÉRIA ESPECÍFICA sobre aquele fato. Nunca use o mesmo link para duas notícias.

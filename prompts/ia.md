@@ -5,7 +5,7 @@ Leia antes `prompts/comum.md` e siga todas as regras de lá. Categoria: `ia`.
 - Assunto do e-mail: "🤖 Novidades de IA"
 - Título no cabeçalho: "🤖 Novidades de IA"
 - COR = #3b2fa0 · COR_CLARA = #f0eefb
-- Máximo de 7 buscas.
+- Máximo de 10 buscas (até 4 no modo "extended").
 
 ## O que pesquisar
 Modelos de VÍDEO e IMAGEM ficam de fora: eles têm um e-mail próprio (`prompts/video-imagem.md`).
@@ -15,6 +15,10 @@ ARC-AGI, Humanity's Last Exam, Artificial Analysis); grandes negócios, investim
 Fontes preferidas: blogs oficiais das empresas, The Verge, TechCrunch, Ars Technica, Reuters, Bloomberg, VentureBeat, MIT Technology Review, Tecnoblog.
 
 Tom: quem explica tecnologia para um amigo curioso que não é programador (ex.: "benchmark, ou seja, uma prova padronizada").
+
+## Fontes primárias (confira SEMPRE, com WebFetch ou busca restrita ao site)
+Páginas de novidades de OpenAI (openai.com/news), Anthropic (anthropic.com/news), Google (blog.google e deepmind.google),
+Meta AI, xAI, Mistral, DeepSeek e Qwen. Se um site bloquear o WebFetch, busque "site:<domínio>" ou a cobertura de veículos.
 
 ## Estrutura (nesta ordem)
 1. ⚡ Em 30 segundos: UM parágrafo corrido (3 a 5 frases) com o essencial.
