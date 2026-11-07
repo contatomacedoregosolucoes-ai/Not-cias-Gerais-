@@ -63,3 +63,12 @@
 2026-11-03 | Diretor de Godzilla Minus One toparia voltar à franquia | https://www.omelete.com.br/filmes/godzilla-minus-zero-diretor-responde-se-voltaria-para-terceiro-filme-confira
 2026-11-03 | Cine Ceará (7 a 13/11) homenageia Belchior | https://revistadecinema.com.br/2026/11/cine-ceara-presta-tributo-a-belchior-e-se-transforma-em-vitrine-para-viver-e-melhor-que-sonhar-pessoal-do-ceara-e-alucinacao/
 2026-11-04 | Obsessão passa de US$ 500 milhões e ganha data na Netflix dos EUA (17/11) | https://dgabc.com.br/Noticia/4366572/obsessao-fenomeno-de-bilheteria-ganha-data-de-estreia-na-netflix
+2026-11-06 | Sebastián Lelio morre aos 52 anos | https://www.omelete.com.br/filmes/sebastian-lelio-diretor-uma-mulher-fantastica-gloria-morre-52-anos
+2026-11-06 | Vingadores: Doutor Destino ganha comercial com o castelo de Doom | https://www.omelete.com.br/filmes/vingadores-doutor-destino-novo-comercial-revela-castelo-de-doom-e-cenas-ineditas
+2026-11-06 | G.I. Joe ganha reboot com Bradley Cooper e data para 2028 | https://www.omelete.com.br/filmes/gi-joe-reboot-com-bradley-cooper-chega-em-2028
+2026-11-06 | Rosamund Pike estrela Feed, terror corporal de Leslye Headland | https://www.omelete.com.br/filmes/rosamund-pike-vai-estrelar-filme-horror-corporal-criadora-the-acolyte
+2026-11-06 | 1408 ganha sequência com Natalia Dyer e Elijah Wood | https://www.omelete.com.br/filmes/1408-natalia-dyer-e-elijah-wood-entram-para-o-elenco-da-sequencia
+2026-11-06 | Jogos Vorazes: corte original tinha mais de 4 horas | https://www.adorocinema.com/noticias/filmes/noticia-1000231157/
+2026-11-06 | Minha Melhor Amiga é a maior bilheteria brasileira de 2026 (R$ 109 milhões) | https://www.omelete.com.br/filmes/minha-melhor-amiga-arrecada-12-vezes-mais-que-segundo-filme-brasileiro-de-2026
+2026-11-03 | Feito Pipa vence festival na Ucrânia e ganha sessão com Wagner Moura em LA | https://revistadecinema.com.br/2026/11/feito-pipa-conquista-premio-em-festival-da-ucrania/
+2026-11-06 | Mostra Mosfilm na Cinemateca (11 a 22/11) | https://revistadecinema.com.br/2026/11/mostra-mosfilm-reune-realizacoes-de-eisenstein-tarkovsky-e-mikhail-romm-e-apresenta-versao-integral-de-os-irmaos-karamazov/

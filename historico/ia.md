@@ -52,3 +52,8 @@
 2026-11-03 | Anthropic parece preparar o Claude Mythos 5.5 (sem confirmação) | https://www.testingcatalog.com/anthropic-prepares-to-release-claude-mythos-5-5-model/
 2026-11-03 | Anthropic estende marca d'água invisível a mais quatro modelos Claude | https://techweez.com/2026/11/02/anthropic-is-bringing-text-watermarking-to-more-claude-models/
 2026-11-03 | OpenAI traz a Cathedral Systems e eleva bug bounty a US$ 172 mil | https://runtimewire.com/article/openai-cathedral-security-sprint-bug-bounty-172000
+2026-11-05 | GPT-6 Cyber: o modelo da OpenAI que invade sistemas para achar falhas e sugere o | https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/
+2026-11-04 | Tencent Hy4 ganha visão e passa a usar o computador sozinho | https://www.unite.ai/tencent-releases-full-hy4-model-with-vision-and-computer-use/
+2026-11-06 | Thinking Machines apresenta o Inkling 2 Small e diz ter o melhor modelo aberto d | https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/
+2026-11-06 | OpenAI levantou US$ 11 bilhões a um valor de US$ 1,25 trilhão, diz Bloomberg | https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/
+2026-11-06 | METR: a Anthropic pode ter cruzado seu próprio limite de alerta de aceleração em | https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/
