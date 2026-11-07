@@ -74,3 +74,9 @@
 2026-11-03 | Ibovespa fecha no menor nível desde janeiro; dólar R$ 5,487 | https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-3-novembro-2026-2/
 2026-11-03 | Incerteza sobre juros e fiscal derruba bolsa antes do Copom | https://forbes.com.br/forbes-money/2026/11/ibovespa-cai-antes-do-copom-com-incertezas-sobre-juros-e-politica-fiscal/
 2026-11-03 | Dia de eleição nos EUA: chips sobem, Apple pesa; democratas favoritos | https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-03-2026
+2026-11-04 | Copom mantém Selic em 13,75% | https://egnews.com.br/noticia/48789-copom-interrompe-cortes-e-mantem-a-selic-em-13-75-ibovespa-sobe-1-15-e-dolar
+2026-11-06 | Ibovespa sobe 1,3% na sexta, primeira semana positiva depois de três | https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06112026/
+2026-11-06 | Payroll de outubro: 165 mil vagas; aposta de alta do Fed em dezembro passa de 77% | https://www.cnbc.com/2026/11/06/treasury-yields-inch-lower-as-investors-look-ahead-to-key-jobs-data-.html
+2026-11-05 | Democratas varrem eleições; Nasdaq 100 tem pior dia desde 2020 | https://www.benzinga.com/markets/market-summary/26/11/63012338/nasdaq-100-worst-day-since-2020-midterm-sweep-ai-selloff-jobs-fed-this-week-on-wall-street
+2026-11-02 | Brent cai 7% com negociação EUA-Irã; Goldman vê risco de US$ 140 | https://www.cnnbrasil.com.br/economia/money/mercado/petroleo-cai-mais-de-7-com-expectativa-de-acordo-entre-eua-e-ira/
+2026-11-06 | Produção da Opep sobe a 22,8 mi bpd; exportações do Irã zeradas | https://es.qz.com/produccin-de-crudo-de-la-opep-en-niveles-previos-a-la-guerra-recuperacin-de-arabia-saudita
