@@ -80,3 +80,12 @@
 2026-11-05 | Democratas varrem eleições; Nasdaq 100 tem pior dia desde 2020 | https://www.benzinga.com/markets/market-summary/26/11/63012338/nasdaq-100-worst-day-since-2020-midterm-sweep-ai-selloff-jobs-fed-this-week-on-wall-street
 2026-11-02 | Brent cai 7% com negociação EUA-Irã; Goldman vê risco de US$ 140 | https://www.cnnbrasil.com.br/economia/money/mercado/petroleo-cai-mais-de-7-com-expectativa-de-acordo-entre-eua-e-ira/
 2026-11-06 | Produção da Opep sobe a 22,8 mi bpd; exportações do Irã zeradas | https://es.qz.com/produccin-de-crudo-de-la-opep-en-niveles-previos-a-la-guerra-recuperacin-de-arabia-saudita
+2026-11-05 | Selic em 13,75% até 2027 na visão de XP, Itaú e Goldman | https://www.cnnbrasil.com.br/economia/money/macroeconomia/mercado-avalia-possibilidade-de-selic-seguir-em-1375-ate-o-final-de-2027/
+2026-11-07 | Mercado vê indicações ao BC como próximo risco | https://www.cnnbrasil.com.br/blogs/lucinda-pinto/economia/money/mercado/com-ajuste-fiscal-limitado-mercado-ve-indicacoes-ao-bc-como-proximo-risco/
+2026-11-07 | Itaú, Bradesco e Santander lucram R$ 22,61 bi no 3T26 | https://www.cnnbrasil.com.br/economia/money/negocios/tres-maiores-bancos-lucram-r-2261-bi-no-3o-trimestre-avanco-de-24/
+2026-11-08 | Onda azul e mercado de trabalho nos EUA | https://www.cnnbrasil.com.br/economia/money/macroeconomia/onda-azul-na-politica-pode-sacudir-mercado-de-trabalho-nos-eua/
+2026-11-07 | Ações de IA reagem após perder US$ 2,5 tri; S&P pior semana desde abril de 2025 | https://www.cnnbrasil.com.br/economia/money/mercado/acoes-de-ia-ensaiam-recuperacao-apos-perdas-de-us-25-trilhoes/
+2026-11-06 | CPI de outubro dos EUA na terça sem taxa anual | https://www.stocktitan.net/articles/october-2026-cpi-preview-no-yearly-rate
+2026-11-06 | Brent cai mais de 16% na semana; McNally vê 80% de volta dos combates | https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html
+2026-11-06 | Chips asiáticos despencam; Nasdaq em correção | https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html
+2026-11-06 | Irã impõe sete exigências; Vance culpa guerra por derrota | https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html
