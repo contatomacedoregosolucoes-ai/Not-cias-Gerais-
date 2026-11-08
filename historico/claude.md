@@ -5,3 +5,7 @@
 2026-11-05 | Enterprise: centro de segurança e rastreio de gastos por projeto | https://support.claude.com/en/articles/12138966-release-notes
 2026-11-07 | Skill em destaque: document-skills (pdf, docx, pptx, xlsx) de anthropics/skills | https://github.com/anthropics/skills
 2026-11-07 | Dica do dia: limitar conectores de cada tarefa agendada | https://code.claude.com/docs/en/changelog
+2026-11-04 | Claude Marketplace ganha mais de 25 agentes e produtos de parceiros | https://claude.com/resources/articles/new-agents-and-products-claude-marketplace
+2026-11-02 | Message threads (beta público) deixam sessões longas mais rápidas | https://claude.com/resources/articles/message-threads
+2026-11-08 | Skill em destaque: brand-guidelines (anthropics/skills) | https://github.com/anthropics/skills
+2026-11-08 | Dica do dia: CLAUDE.md com regras fixas do negócio (Claude entrevista você) | https://code.claude.com/docs/en/memory
