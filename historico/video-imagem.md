@@ -7,3 +7,7 @@
 2026-11-05 | Kling 4.0 Flash chega à API da Runway | https://docs.dev.runwayml.com/api-details/api_changelog/
 2026-11-04 | Viggle Remake: refazer vídeos com modelo aberto | https://comfyui-wiki.com/ja/news/2026-11-04-viggle-remake
 2026-11-03 | Topaz Wonder 4: ampliar e restaurar fotos de uma vez | https://alphasignal.ai/news/topaz-labs-wonder-4-fixes-and-enlarges-photos-in-one-smart-pass
+2026-11-04 | ComfyUI 0.44 traz ferramentas de edição de vídeo do MiniMax H3 | https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.44.0
+2026-11-06 | H3 Dials: ajustes de movimento e clima para vídeos do MiniMax H3 | https://huggingface.co/MATLOWAI/H3-Dials
+2026-11-03 | Pruna AI lança P-H3-Image, gerador de imagens baseado no MiniMax H3 | https://huggingface.co/PrunaAI/P-H3-Image
+2026-11-02 | Qwen-Image 2.1 Lightning v2 RL gera em 4 etapas | https://huggingface.co/lightx2v/Qwen-Image-2.1-Lightning-v2-RL
