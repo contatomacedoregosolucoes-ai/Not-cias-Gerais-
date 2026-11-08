@@ -57,3 +57,9 @@
 2026-11-06 | Thinking Machines apresenta o Inkling 2 Small e diz ter o melhor modelo aberto d | https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/
 2026-11-06 | OpenAI levantou US$ 11 bilhões a um valor de US$ 1,25 trilhão, diz Bloomberg | https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/
 2026-11-06 | METR: a Anthropic pode ter cruzado seu próprio limite de alerta de aceleração em | https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/
+2026-11-02 | Kimi K3.1 Pro tem pesos publicados e lidera os abertos no BenchLM | https://benchlm.ai/blog/posts/llm-news-november-7-2026
+2026-11-04 | Ripple-65B Preview, modelo aberto da Ricursive Intelligence | https://benchlm.ai/models/ripple-65b-preview
+2026-11-06 | OpenAI apresenta o BioBasicsBench; GPT-6 Astra lidera | https://dailyaibrief.com/news/openai-introduces-biobasicsbench-wet-lab-analysis-bETnoFIZ
+2026-11-06 | IPO da Anthropic: valor esperado cai para US$ 1 a 1,3 tri e roadshow em dúvida | https://dailyaibrief.com/news/anthropic-ipo-roadshow-doubt-valuation-bXxXH99f
+2026-11-04 | OpenAI levará Codex e modelos de cibersegurança ao JPMorgan | https://cryptobriefing.com/openai-jpmorgan-ai-cybersecurity-partnership/
+2026-11-05 | Google anuncia US$ 17 bi em data center no Wyoming | https://cryptobriefing.com/google-17-billion-wyoming-data-center/
