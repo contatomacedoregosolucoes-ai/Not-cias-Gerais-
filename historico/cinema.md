@@ -72,3 +72,11 @@
 2026-11-06 | Minha Melhor Amiga é a maior bilheteria brasileira de 2026 (R$ 109 milhões) | https://www.omelete.com.br/filmes/minha-melhor-amiga-arrecada-12-vezes-mais-que-segundo-filme-brasileiro-de-2026
 2026-11-03 | Feito Pipa vence festival na Ucrânia e ganha sessão com Wagner Moura em LA | https://revistadecinema.com.br/2026/11/feito-pipa-conquista-premio-em-festival-da-ucrania/
 2026-11-06 | Mostra Mosfilm na Cinemateca (11 a 22/11) | https://revistadecinema.com.br/2026/11/mostra-mosfilm-reune-realizacoes-de-eisenstein-tarkovsky-e-mikhail-romm-e-apresenta-versao-integral-de-os-irmaos-karamazov/
+2026-11-07 | Godzilla Minus Zero lidera a bilheteria dos EUA na estreia | https://www.omelete.com.br/filmes/godzilla-minus-zero-bilheteria-americana-estreia
+2026-11-07 | Os Beatles vão à praia: novas fotos do set dos quatro filmes | https://www.omelete.com.br/filmes/the-beatles-imagens-bastidores-set-praia
+2026-11-07 | Rumor: uniformes dos X-Men no reboot da Marvel serão coloridos | https://www.omelete.com.br/filmes/x-men-novo-reboot-marvel-mudanca-drastica-equipe-visual
+2026-11-07 | Disney prepara filme sobre a Medusa, com o roteirista de Enrolados | https://www.omelete.com.br/filmes/roteirista-enrolados-live-action-medusa-disney
+2026-11-07 | Murilo Benício: "Corri um risco enorme" em Assalto à Brasileira | https://www.adorocinema.com/noticias/filmes/noticia-1000230993/
+2026-11-05 | Cinema brasileiro: Minha Melhor Amiga passa de 6 milhões e Farofeiros 3 pode dar fôlego | https://revistadecinema.com.br/2026/11/market-share-do-cinema-brasileiro-cresce-com-minha-melhor-amiga-e-deve-aumentar-com-farofeiros-3/
+2026-11-03 | Vicentina Pede Desculpas, candidato ao Goya, é "um insulto ao algoritmo" | https://revistadecinema.com.br/2026/11/gabriel-martins-garante-que-vicentina-pede-desculpas-candidato-brasileiro-ao-goya-e-um-insulto-ao-algoritmo/
+2026-11-04 | Animação brasileira Ana, en Passant chega aos cinemas | https://revistadecinema.com.br/2026/11/animacao-ana-en-passant-chega-aos-cinemas/
