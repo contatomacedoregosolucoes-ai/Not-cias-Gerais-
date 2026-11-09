@@ -80,3 +80,8 @@
 2026-11-05 | Cinema brasileiro: Minha Melhor Amiga passa de 6 milhões e Farofeiros 3 pode dar fôlego | https://revistadecinema.com.br/2026/11/market-share-do-cinema-brasileiro-cresce-com-minha-melhor-amiga-e-deve-aumentar-com-farofeiros-3/
 2026-11-03 | Vicentina Pede Desculpas, candidato ao Goya, é "um insulto ao algoritmo" | https://revistadecinema.com.br/2026/11/gabriel-martins-garante-que-vicentina-pede-desculpas-candidato-brasileiro-ao-goya-e-um-insulto-ao-algoritmo/
 2026-11-04 | Animação brasileira Ana, en Passant chega aos cinemas | https://revistadecinema.com.br/2026/11/animacao-ana-en-passant-chega-aos-cinemas/
+2026-11-07 | James Bond: Pattinson, Hoult e Harry Styles entram na disputa (não confirmado) | https://www.omelete.com.br/filmes/007-robert-pattinson-nicholas-hoult-harry-styles-james-bond
+2026-11-08 | Godzilla Minus Zero abre com US$ 31,6 milhões (números finais, recorde) | https://abcnews.com/Entertainment/wireStory/godzilla-minus-zero-stomps-record-setting-316-debut-137957908
+2026-11-08 | Nova imagem de King Ghidorah em Godzilla Minus Zero | https://www.omelete.com.br/filmes/godzilla-minus-zero-king-ghidorah
+2026-11-08 | Kleber Mendonça Filho revela Correspondente Estrangeiro, quer Wagner Moura | https://www.omelete.com.br/filmes/correspondente-estrangeiro-kleber-mendonca-filho-wagner-moura
+2026-11-06 | As Novas Desventuras de Cliff Booth: trailer e cinemas em 25/11 no Brasil | https://www.omelete.com.br/filmes/as-novas-desventuras-de-cliff-booth-ganha-trailer-e-confirma-lancamento-em-imax-no-brasil

@@ -11,3 +11,6 @@
 2026-11-06 | H3 Dials: ajustes de movimento e clima para vídeos do MiniMax H3 | https://huggingface.co/MATLOWAI/H3-Dials
 2026-11-03 | Pruna AI lança P-H3-Image, gerador de imagens baseado no MiniMax H3 | https://huggingface.co/PrunaAI/P-H3-Image
 2026-11-02 | Qwen-Image 2.1 Lightning v2 RL gera em 4 etapas | https://huggingface.co/lightx2v/Qwen-Image-2.1-Lightning-v2-RL
+2026-11-05 | Runway API recebe Gemini Omni 1.2 Flash e GPT Image 2.6 | https://docs.dev.runwayml.com/api-details/api_changelog/
+2026-10-29 | Pika H3 Flex: modelo de vídeo aberto, 15 s em ~7 s | https://pika.art/pika-h3-flex
+2026-11-05 | NVIDIA Cosmos 3 Nano: modelos abertos de vídeo para simulação | https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation
