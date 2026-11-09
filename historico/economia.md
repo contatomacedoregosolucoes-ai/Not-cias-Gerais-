@@ -89,3 +89,9 @@
 2026-11-06 | Brent cai mais de 16% na semana; McNally vê 80% de volta dos combates | https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html
 2026-11-06 | Chips asiáticos despencam; Nasdaq em correção | https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html
 2026-11-06 | Irã impõe sete exigências; Vance culpa guerra por derrota | https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html
+2026-11-08 | Lula acena ao ajuste fiscal em rede nacional, sem medidas; dívida a 82,9% do PIB | https://investnews.com.br/investimentos/discurso-de-lula-a-nacao-pode-impactar-os-mercados-nesta-segunda-feira-saiba-o-que-esperar/
+2026-11-06 | Balança comercial: superávit de US$ 9,318 bi em outubro, maior para o mês em 37 anos | https://www.jornaldocomercio.com/economia/2026/11/1269601-balanca-comercial-brasileira-tem-superavit-de-uss-9318-bilhoes-em-outubro.html
+2026-11-06 | Produção industrial -0,8%; Renner e Suzano; Focus vê Selic 2027 em 12,75% | https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-payroll-queda-das-techs-e-fiscal-no-radar-2118849
+2026-11-09 | Fed dividido (10 a 2) e agenda da semana nos EUA: CPI na terça, PPI na sexta | https://analysisofficial.substack.com/p/global-macro-week-ahead-nov-913-2026
+2026-11-09 | China: PPI +5,7% e CPI +0,7% em outubro | https://www.fxstreet.com/news/breaking-chinas-cpi-inflation-eases-to-07-yoy-in-october-vs-08-expected-202611090131
+2026-11-06 | Petróleo recua 13% na semana; JPMorgan vê excedente de oferta; França libera diesel | https://eixos.com.br/petroleo-e-gas/petroleo-fecha-em-alta-mas-recua-13-na-semana-com-perspectiva-para-ira-apos-eleicao-nos-eua/
