@@ -9,3 +9,7 @@
 2026-11-02 | Message threads (beta público) deixam sessões longas mais rápidas | https://claude.com/resources/articles/message-threads
 2026-11-08 | Skill em destaque: brand-guidelines (anthropics/skills) | https://github.com/anthropics/skills
 2026-11-08 | Dica do dia: CLAUDE.md com regras fixas do negócio (Claude entrevista você) | https://code.claude.com/docs/en/memory
+2026-11-06 | Claude Code 2.1.319: tarefas MCP em segundo plano, permissions.denyInsteadOfPrompting, /usage | https://code.claude.com/docs/en/changelog
+2026-11-04 | Claude Code 2.1.318: sessões na nuvem sem repositório e aviso de expiração do login | https://code.claude.com/docs/en/changelog
+2026-11-09 | Skill em destaque: canvas-design (anthropics/skills) | https://github.com/anthropics/skills
+2026-11-09 | Dica do dia: reescrever o campo description das skills (terceira pessoa, o que faz e quando usar) | https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices
