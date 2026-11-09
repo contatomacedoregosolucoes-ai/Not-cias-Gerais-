@@ -63,3 +63,11 @@
 2026-11-06 | IPO da Anthropic: valor esperado cai para US$ 1 a 1,3 tri e roadshow em dúvida | https://dailyaibrief.com/news/anthropic-ipo-roadshow-doubt-valuation-bXxXH99f
 2026-11-04 | OpenAI levará Codex e modelos de cibersegurança ao JPMorgan | https://cryptobriefing.com/openai-jpmorgan-ai-cybersecurity-partnership/
 2026-11-05 | Google anuncia US$ 17 bi em data center no Wyoming | https://cryptobriefing.com/google-17-billion-wyoming-data-center/
+2026-11-09 | Co-Design Bench: nova prova mostra que IAs de programação ainda erram a maioria das tarefas reais | https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/
+2026-11-09 | Tencent diz que a IA logo poderá causar danos em biologia e detalha o Hy4 | https://thenextweb.com/news/tencent-yao-shunyu-ai-biology-risk-hy4
+2026-11-09 | Plataforma de agentes da DeepSeek chega a 1,54 milhão de usuários diários | https://www.bloomberg.com/news/articles/2026-11-08/deepseek-s-ai-agent-platform-hits-1-54-million-daily-users
+2026-11-09 | Anthropic teria encomendado US$ 3,4 bilhões em geradores a gás para seus data centers | https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0
+2026-11-09 | Anthropic usa o Claude para ajudar uma equipe de 15 pessoas a projetar chips próprios | https://cryptobriefing.com/anthropic-is-using-claude-to-help-its-15-person-team-design-custom-ai-chips/
+2026-11-09 | Trump diz não se opor a regras de segurança para IA e admite trabalhar com democratas | https://www.reuters.com/world/trump-says-ai-risks-can-be-managed-signals-openness-guardrails-2026-11-09/
+2026-11-09 | OpenAI amplia testes externos de segurança com a Hacktron | https://openai.com/index/partnering-with-hacktron/
+2026-11-09 | OpenAI diz que seguirá expandindo data centers nos EUA apesar do escrutínio pós-eleições | https://www.reuters.com/business/retail-consumer/openai-press-ahead-with-data-center-expansion-despite-midterm-sweep-cfo-tells-2026-11-06/
