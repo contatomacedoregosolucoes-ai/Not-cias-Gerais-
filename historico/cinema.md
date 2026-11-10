@@ -85,3 +85,11 @@
 2026-11-08 | Nova imagem de King Ghidorah em Godzilla Minus Zero | https://www.omelete.com.br/filmes/godzilla-minus-zero-king-ghidorah
 2026-11-08 | Kleber Mendonça Filho revela Correspondente Estrangeiro, quer Wagner Moura | https://www.omelete.com.br/filmes/correspondente-estrangeiro-kleber-mendonca-filho-wagner-moura
 2026-11-06 | As Novas Desventuras de Cliff Booth: trailer e cinemas em 25/11 no Brasil | https://www.omelete.com.br/filmes/as-novas-desventuras-de-cliff-booth-ganha-trailer-e-confirma-lancamento-em-imax-no-brasil
+2026-11-09 | James Gunn e Peter Safran deixam o comando da DC Studios; Jeremy Latcham assume | https://www.omelete.com.br/filmes/dc-studios-james-gunn-peter-safran-deixam-lideranca-jeremy-latcham-assume
+2026-11-09 | Tudo Pode Ser Visto domina o Critics Choice Documentary Awards | https://www.omelete.com.br/filmes/tudo-pode-ser-visto-domina-critics-choice-documentary-awards-veja-lista-de-vencedores
+2026-11-09 | Russell Brand condenado a 10 anos e meio de prisão | https://www.adorocinema.com/noticias/filmes/noticia-1000231494/
+2026-11-09 | Duna: Parte Três e os livros por trás do filme (estreia 17/12) | https://www.omelete.com.br/filmes/duna-parte-3-historia-livro-messias-de-duna-skeelo/
+2026-11-09 | Começam as filmagens da cinebiografia de Leandro & Leonardo | https://revistadecinema.com.br/2026/11/comecam-as-filmagens-da-cinebiografia-leandro-leonardo/
+2026-11-09 | Cidade de Deus: A Luta Não Para, 2ª temporada na HBO | https://revistadecinema.com.br/2026/11/segunda-temporada-de-cidade-de-deus-a-luta-nao-para-estreia-na-hbo/
+2026-11-09 | Mix Brasil (11 a 22/11) com forte competição de longas brasileiros | https://revistadecinema.com.br/2026/11/mix-brasil-tera-uma-das-mais-fortes-competicoes-de-longas-brasileiros-de-sua-historia/
+2026-11-10 | Estreias de 12/11 (Ebenezer, Boiúna) e 19/11 (Jogos Vorazes, Eu Sou o Rocky) | https://www.ingresso.com/noticias/lista-filmes-estreias-lancamentos-cinema-mes-novembro-2026
