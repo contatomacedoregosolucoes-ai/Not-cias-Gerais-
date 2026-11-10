@@ -13,3 +13,8 @@
 2026-11-04 | Claude Code 2.1.318: sessões na nuvem sem repositório e aviso de expiração do login | https://code.claude.com/docs/en/changelog
 2026-11-09 | Skill em destaque: canvas-design (anthropics/skills) | https://github.com/anthropics/skills
 2026-11-09 | Dica do dia: reescrever o campo description das skills (terceira pessoa, o que faz e quando usar) | https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices
+2026-11-09 | Claude Fable 5.2 e Mythos 5.2 (modo rápido, Fable padrão no Claude Code) | https://www.anthropic.com/claude-fable-and-mythos-5-2
+2026-11-09 | Plugins, skills e conectores numa página só (GA 09/11; Enterprise 30/11) | https://support.claude.com/en/articles/17740565-manage-plugins-skills-and-connectors-from-one-plugins-page
+2026-11-10 | Claude Code 2.1.321 e 2.1.322: Fable 5.2 padrão, modo rápido no Vertex, 74 correções | https://code.claude.com/docs/en/changelog
+2026-11-10 | Skill em destaque: doc-coauthoring (anthropics/skills) | https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring
+2026-11-10 | Dica do dia: escolher o tipo certo de tarefa agendada (/loop expira em 7 dias; nuvem) e escrever prompt autocontido | https://code.claude.com/docs/en/scheduled-tasks

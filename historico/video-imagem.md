@@ -14,3 +14,6 @@
 2026-11-05 | Runway API recebe Gemini Omni 1.2 Flash e GPT Image 2.6 | https://docs.dev.runwayml.com/api-details/api_changelog/
 2026-10-29 | Pika H3 Flex: modelo de vídeo aberto, 15 s em ~7 s | https://pika.art/pika-h3-flex
 2026-11-05 | NVIDIA Cosmos 3 Nano: modelos abertos de vídeo para simulação | https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation
+2026-11-03 | Luma passa a funcionar dentro do ChatGPT e do Claude (Luma MCP) | https://lumalabs.ai/news/new-luma-mcp
+2026-11-06 | Wizstar lança o Wizshot 1.0, modelo de vídeo a partir de referências | https://www.manilatimes.net/2026/11/06/tmt-newswire/pr-newswire/wizstar-launches-wizshot-10-its-first-in-house-video-generation-model-making-high-quality-ai-video-creation-more-cost-efficient/2464056
+2026-10-28 | MAI-Image-2.7 da Microsoft chega ao top 3 de edição de imagem | https://winbuzzer.com/2026/10/28/microsofts-image-editor-nears-openai-in-preference-tests-xcxwbn/
