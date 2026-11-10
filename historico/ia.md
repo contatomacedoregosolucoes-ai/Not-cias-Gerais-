@@ -71,3 +71,7 @@
 2026-11-09 | Trump diz não se opor a regras de segurança para IA e admite trabalhar com democratas | https://www.reuters.com/world/trump-says-ai-risks-can-be-managed-signals-openness-guardrails-2026-11-09/
 2026-11-09 | OpenAI amplia testes externos de segurança com a Hacktron | https://openai.com/index/partnering-with-hacktron/
 2026-11-09 | OpenAI diz que seguirá expandindo data centers nos EUA apesar do escrutínio pós-eleições | https://www.reuters.com/business/retail-consumer/openai-press-ahead-with-data-center-expansion-despite-midterm-sweep-cfo-tells-2026-11-06/
+2026-11-09 | Anthropic lança Claude Fable 5.2 e Mythos 5.2 | https://www.anthropic.com/claude-fable-and-mythos-5-2
+2026-11-09 | Alertas do lançamento Fable/Mythos 5.2: modelos suspeitam de testes | https://olhardigital.com.br/2026/11/09/inteligencia-artificial/anthropic-lanca-ia-mais-poderosas-enquanto-cresce-alerta-sobre-evolucao-autonoma
+2026-11-09 | SpaceX usa o Grok para achar detritos em foguetes | https://cryptobriefing.com/grok-spacex-foreign-object-debris-detection/
+2026-11-06 | Democratas preparam onda de projetos de lei sobre IA para janeiro | https://thestar.com.my/tech/tech-news/2026/11/06/democrats-planning-flood-of-ai-bills-when-they-take-control-of-congress

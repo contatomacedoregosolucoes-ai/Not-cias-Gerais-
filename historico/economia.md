@@ -95,3 +95,11 @@
 2026-11-09 | Fed dividido (10 a 2) e agenda da semana nos EUA: CPI na terça, PPI na sexta | https://analysisofficial.substack.com/p/global-macro-week-ahead-nov-913-2026
 2026-11-09 | China: PPI +5,7% e CPI +0,7% em outubro | https://www.fxstreet.com/news/breaking-chinas-cpi-inflation-eases-to-07-yoy-in-october-vs-08-expected-202611090131
 2026-11-06 | Petróleo recua 13% na semana; JPMorgan vê excedente de oferta; França libera diesel | https://eixos.com.br/petroleo-e-gas/petroleo-fecha-em-alta-mas-recua-13-na-semana-com-perspectiva-para-ira-apos-eleicao-nos-eua/
+2026-11-09 | Ibovespa sobe 2,22% e fecha em 172 mil pontos com petróleo em queda | https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-09112026/
+2026-11-09 | Focus: mercado vê Selic de 13,75% no fim de 2026 e inflação de 2027 em 4,90% | https://acritica.net/economia/focus-9-novembro-selic-13-75-ipca-2027-dolar-5-35-pib/
+2026-11-10 | Ata do Copom sai hoje e deve indicar quanto tempo a Selic fica parada | https://www.bomdiamercado.com.br/morning-call/cpi-e-ata-do-copom-colocam-juros-a-prova/
+2026-11-09 | Wall Street tem o melhor dia desde abril; Nvidia vai na contramão | https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html
+2026-11-10 | CPI de outubro sai hoje; aposta de alta de juros em dezembro é de cerca de 84% | https://investinglive.com/news/us-cpi-preview-wall-street-sees-cooler-inflation-but-the-fed-may-not-blink/
+2026-11-10 | Petróleo cai com Trump descartando novos ataques ao Irã | https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-Below-92-as-Trump-Signals-Restraint-on-Iran.html
+2026-11-09 | Bolsas europeias sobem forte com bancos e mineradoras | https://www.moneytimes.com.br/bolsas-da-europa-fecham-em-forte-alta-com-queda-do-petroleo-e-impulso-de-bancos-davs/
+2026-11-10 | China tem exportações 35,2% maiores em outubro; Xi e Trump devem se reunir | https://investinglive.com/news/investinglive-asia-pacific-market-news-ai-rebound-rolls-on-oil-slips/
