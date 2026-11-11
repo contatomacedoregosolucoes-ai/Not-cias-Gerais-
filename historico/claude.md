@@ -18,3 +18,8 @@
 2026-11-10 | Claude Code 2.1.321 e 2.1.322: Fable 5.2 padrão, modo rápido no Vertex, 74 correções | https://code.claude.com/docs/en/changelog
 2026-11-10 | Skill em destaque: doc-coauthoring (anthropics/skills) | https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring
 2026-11-10 | Dica do dia: escolher o tipo certo de tarefa agendada (/loop expira em 7 dias; nuvem) e escrever prompt autocontido | https://code.claude.com/docs/en/scheduled-tasks
+2026-11-10 | Claude Whiteboards, Sheets (beta) e Data (GA, ex-Dashboards) | https://claude.com/resources/articles/sheets-whiteboards-data
+2026-11-10 | Conectores interativos: apps abrem e são editados dentro do Claude | https://claude.com/resources/articles/interactive-connectors-full-tool
+2026-11-10 | Claude Meetings (beta Team/Enterprise, Google Meet) | https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/
+2026-11-11 | Skill em destaque: internal-comms (anthropics/skills) | https://github.com/anthropics/skills/blob/main/skills/internal-comms/SKILL.md
+2026-11-11 | Dica do dia: colar 3 a 5 exemplos do seu estilo em tags <example> | https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices

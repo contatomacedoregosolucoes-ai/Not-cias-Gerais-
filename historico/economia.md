@@ -103,3 +103,11 @@
 2026-11-10 | Petróleo cai com Trump descartando novos ataques ao Irã | https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-Below-92-as-Trump-Signals-Restraint-on-Iran.html
 2026-11-09 | Bolsas europeias sobem forte com bancos e mineradoras | https://www.moneytimes.com.br/bolsas-da-europa-fecham-em-forte-alta-com-queda-do-petroleo-e-impulso-de-bancos-davs/
 2026-11-10 | China tem exportações 35,2% maiores em outubro; Xi e Trump devem se reunir | https://investinglive.com/news/investinglive-asia-pacific-market-news-ai-rebound-rolls-on-oil-slips/
+2026-11-10 | Ata do Copom: Selic de 13,75% fica parada por mais tempo | https://melhorinvestimento.net/noticias/ata-copom-selic-1375-novembro-2026
+2026-11-10 | Dólar a R$ 5,586, o maior em 15 meses, e Ibovespa em queda | https://imirante.com/noticias/brasil/2026/11/10/dolar-sobe-146-fecha-maior-valor-15-meses
+2026-11-10 | Lula chama Haddad, Durigan e Galípolo para discutir dívida pública | https://bpmoney.com.br/mercado/renda-fixa/tesouro-direto-taxas-viram-alta-inflacao-eua-acima-esperado/
+2026-11-10 | CPI de outubro vem acima do esperado e o Fed pode subir juros em até meio ponto | https://www.cnbc.com/2026/11/10/market-spooked-because-now-the-fed-may-need-a-supersized-hike-in-december.html
+2026-11-10 | Wall Street fecha em queda e juros dos Treasuries disparam | https://investinglive.com/stock-market-update/us-stock-market-close-hot-cpi-leads-to-a-selloff/
+2026-11-11 | Mercado de títulos fica fechado hoje por causa do feriado dos Veteranos | https://investinglive.com/news/heads-up-us-bond-market-closed-for-veterans-day-as-stocks-face-a-hot-cpi-hangover/
+2026-11-10 | Brent fecha a US$ 91,49 depois de furar US$ 90 pela primeira vez desde agosto | https://www.canalrural.com.br/economia/petroleo-cai-com-sinal-de-moderacao-dos-eua-em-relacao-ao-ira-e-avanco-do-dolar/
+2026-11-10 | China estende por dois meses a suspensão de tarifa extra sobre produtos dos EUA | https://www.home.saxo/en-sg/content/articles/macro/market-quick-take---wall-street-rebounds-and-brent-slides-below-usd-92---10-november-2026-10112026
