@@ -93,3 +93,11 @@
 2026-11-09 | Cidade de Deus: A Luta Não Para, 2ª temporada na HBO | https://revistadecinema.com.br/2026/11/segunda-temporada-de-cidade-de-deus-a-luta-nao-para-estreia-na-hbo/
 2026-11-09 | Mix Brasil (11 a 22/11) com forte competição de longas brasileiros | https://revistadecinema.com.br/2026/11/mix-brasil-tera-uma-das-mais-fortes-competicoes-de-longas-brasileiros-de-sua-historia/
 2026-11-10 | Estreias de 12/11 (Ebenezer, Boiúna) e 19/11 (Jogos Vorazes, Eu Sou o Rocky) | https://www.ingresso.com/noticias/lista-filmes-estreias-lancamentos-cinema-mes-novembro-2026
+2026-11-10 | Jamie Dornan será Aragorn em A Caçada por Gollum | https://www.omelete.com.br/filmes/the-hunt-for-gollum-eu-chorei-diz-ator-que-vai-viver-aragorn
+2026-11-10 | Tom Cruise e o tombo de Digger nas bilheterias | https://www.adorocinema.com/noticias/filmes/noticia-1000227462/
+2026-11-10 | Millie Bobby Brown vai estrelar nova comédia na Netflix | https://www.omelete.com.br/filmes/millie-bobby-brown-novo-filme
+2026-11-10 | A Hora do Pesadelo: Paramount segue sozinha com o novo Freddy | https://www.omelete.com.br/filmes/a-hora-do-pesadelo-paramount-avanca-com-novo-remake-warner-bros-cancelado
+2026-11-10 | Sebastian Stan compara volta de Bucky a reunião de turma da faculdade | https://www.omelete.com.br/filmes/vingadores-doutor-destino-sebastian-stan-retorno-como-bucky-barnes
+2026-11-08 | Oscar 2027: A Odisseia lidera as previsões de novembro | https://spoilermovies.com.br/2026/11/08/oscar2027-previsoes-de-novembro-2026/
+2026-11-10 | Cinebiografia de Roberto Carlos já tem elenco | https://revistadecinema.com.br/2026/11/conspiracao-produz-cinebiografia-de-roberto-carlos-dirigida-por-mauricio-farias/
+2026-11-10 | Deixe-Me Viver, drama com Mônica Carvalho, chega aos cinemas | https://revistadecinema.com.br/2026/11/deixe-me-viver-estrelado-por-monica-carvalho-estreia-nos-cinemas/
