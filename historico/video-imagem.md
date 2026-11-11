@@ -17,3 +17,7 @@
 2026-11-03 | Luma passa a funcionar dentro do ChatGPT e do Claude (Luma MCP) | https://lumalabs.ai/news/new-luma-mcp
 2026-11-06 | Wizstar lança o Wizshot 1.0, modelo de vídeo a partir de referências | https://www.manilatimes.net/2026/11/06/tmt-newswire/pr-newswire/wizstar-launches-wizshot-10-its-first-in-house-video-generation-model-making-high-quality-ai-video-creation-more-cost-efficient/2464056
 2026-10-28 | MAI-Image-2.7 da Microsoft chega ao top 3 de edição de imagem | https://winbuzzer.com/2026/10/28/microsofts-image-editor-nears-openai-in-preference-tests-xcxwbn/
+2026-11-10 | Adobe Firefly ganha editor de vídeo e novas edições de imagem (Adobe MAX) | https://news.adobe.com/news/2026/11/adobe-powers-new-era-of-creativity
+2026-11-10 | Photoshop e Premiere: Relight, estilos por slider e remoção de objetos em vídeo | https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/
+2026-11-10 | Adobe abre Photoshop e Premiere para agentes de IA externos (MCP) | https://www.creativeboom.com/news/adobe-max-2026-all-the-big-announcements/
+2026-11-09 | ByteDance lança Seedream 5.5: 100 edições seguidas e fundo transparente | https://seed.bytedance.com/blog/more-realistic-images-more-stable-editing-across-100-rounds-introducing-seedream-5-5

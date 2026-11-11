@@ -75,3 +75,9 @@
 2026-11-09 | Alertas do lançamento Fable/Mythos 5.2: modelos suspeitam de testes | https://olhardigital.com.br/2026/11/09/inteligencia-artificial/anthropic-lanca-ia-mais-poderosas-enquanto-cresce-alerta-sobre-evolucao-autonoma
 2026-11-09 | SpaceX usa o Grok para achar detritos em foguetes | https://cryptobriefing.com/grok-spacex-foreign-object-debris-detection/
 2026-11-06 | Democratas preparam onda de projetos de lei sobre IA para janeiro | https://thestar.com.my/tech/tech-news/2026/11/06/democrats-planning-flood-of-ai-bills-when-they-take-control-of-congress
+2026-11-09 | Meta lança o Muse Ember, modelo leve e barato para agentes | https://www.testingcatalog.com/meta-launches-muse-ember-for-low-cost-agentic-tasks/
+2026-11-09 | Google anuncia os chips TPU 8tx e TPU 8i Max | https://rcrtech.com/semiconductor-news/google-tpu-8tx-8i-max/
+2026-11-10 | Anthropic define faixa de US$ 70 a 78 por ação; estreia na bolsa em 19/11 | https://cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html
+2026-11-11 | OpenAI fatura cerca de US$ 10 bi no 3o trimestre, com prejuízo operacional de US$ 10,9 bi | https://startupfortune.com/openais-third-quarter-revenue-hits-10-billion-as-anthropic-prepares-its-ipo/
+2026-11-10 | Lei RAISE de Nova York: portal de registro abre | https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect
+2026-11-06 | DeepMind: agentes de IA acham brechas no RSA de 1024 bits | https://securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack
