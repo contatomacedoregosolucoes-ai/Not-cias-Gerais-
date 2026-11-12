@@ -21,3 +21,4 @@
 2026-11-10 | Photoshop e Premiere: Relight, estilos por slider e remoção de objetos em vídeo | https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/
 2026-11-10 | Adobe abre Photoshop e Premiere para agentes de IA externos (MCP) | https://www.creativeboom.com/news/adobe-max-2026-all-the-big-announcements/
 2026-11-09 | ByteDance lança Seedream 5.5: 100 edições seguidas e fundo transparente | https://seed.bytedance.com/blog/more-realistic-images-more-stable-editing-across-100-rounds-introducing-seedream-5-5
+2026-11-10 | Gaxos lança o ArtGen Muse, modelo de vídeo com foco em custo menor | https://www.globenewswire.com/news-release/2026/11/10/3399480/0/en/gaxos-launches-artgen-muse-ai-video-model-as-company-scales.html

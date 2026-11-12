@@ -81,3 +81,9 @@
 2026-11-11 | OpenAI fatura cerca de US$ 10 bi no 3o trimestre, com prejuízo operacional de US$ 10,9 bi | https://startupfortune.com/openais-third-quarter-revenue-hits-10-billion-as-anthropic-prepares-its-ipo/
 2026-11-10 | Lei RAISE de Nova York: portal de registro abre | https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect
 2026-11-06 | DeepMind: agentes de IA acham brechas no RSA de 1024 bits | https://securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack
+2026-11-11 | Alibaba abre a prévia do Qwen4-Max | https://xenospectrum.com/en/qwen4-max-preview-specs-limitations/
+2026-11-11 | DeepMind lança Gemini Robotics 2.5 e AlphaGenome 2 | https://siliconangle.com/2026/11/11/google-deepmind-releases-new-advanced-robotics-ai-model-and-next-generation-gene-prediction-model
+2026-11-10 | ElevenLabs lança Scribe v3 e Scribe v3 Live | https://elevenlabs.io/blog/scribe-v3
+2026-11-11 | Nvidia e Google vão comprar US$ 10 bi cada em ações da Anthropic no IPO | https://fool.com/investing/2026/11/11/nvidia-and-alphabet-just-agreed-to-buy-usd10-billion-each-of-anthropic-stock-at-its-ipo-price
+2026-11-10 | Austrália vai criar regulador de segurança de IA após caso com agente da OpenAI | https://thenextweb.com/news/australia-plans-ai-safety-regulator-after-openai-agent-breach
+2026-11-10 | OpenAI compra a startup de viagens Odessia (acqui-hire) | https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/
