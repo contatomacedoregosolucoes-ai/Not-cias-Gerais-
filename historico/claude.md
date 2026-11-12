@@ -23,3 +23,7 @@
 2026-11-10 | Claude Meetings (beta Team/Enterprise, Google Meet) | https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/
 2026-11-11 | Skill em destaque: internal-comms (anthropics/skills) | https://github.com/anthropics/skills/blob/main/skills/internal-comms/SKILL.md
 2026-11-11 | Dica do dia: colar 3 a 5 exemplos do seu estilo em tags <example> | https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices
+2026-11-06 | Anthropic: os componentes da memória de agentes (4 camadas, "dreaming") | https://www.anthropic.com/research/components-of-agent-memory
+2026-11-09 | Guia: qual modelo Claude usar em cada tarefa (Opus 5.5, Sonnet, Haiku, Fable 5.2) | https://claude.dev/blog/which-claude-model-should-you-build-with/
+2026-11-12 | Skill em destaque: theme-factory (anthropics/skills) | https://github.com/anthropics/skills/blob/main/skills/theme-factory/SKILL.md
+2026-11-12 | Dica do dia: pedir plano com suposições e perguntas antes de executar tarefas grandes | https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices
