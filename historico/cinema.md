@@ -101,3 +101,11 @@
 2026-11-08 | Oscar 2027: A Odisseia lidera as previsões de novembro | https://spoilermovies.com.br/2026/11/08/oscar2027-previsoes-de-novembro-2026/
 2026-11-10 | Cinebiografia de Roberto Carlos já tem elenco | https://revistadecinema.com.br/2026/11/conspiracao-produz-cinebiografia-de-roberto-carlos-dirigida-por-mauricio-farias/
 2026-11-10 | Deixe-Me Viver, drama com Mônica Carvalho, chega aos cinemas | https://revistadecinema.com.br/2026/11/deixe-me-viver-estrelado-por-monica-carvalho-estreia-nos-cinemas/
+2026-11-10 | Jack Lowden seria o favorito de Jeff Bezos para o novo 007; Callum Turner lidera apostas (rumor) | https://www.omelete.com.br/filmes/jack-lowden-favorito-jeff-bezos-novo-james-bond-007
+2026-11-11 | A Múmia 4 terá retorno de Arnold Vosloo como Imhotep | https://www.omelete.com.br/filmes/a-mumia-4-arnold-vosloo-confirma-retorno-imhotep
+2026-11-11 | Skarsgård, Hunter Schafer e Maya Hawke em The Confessions (produção de Ari Aster) | https://www.omelete.com.br/filmes/skarsgard-hunter-schafer-maya-hawke-filme-producao-ari-aster
+2026-11-11 | Henry Cavill diz que voltaria a ser o Superman | https://www.omelete.com.br/filmes/superman-henry-cavill-voltaria-a-viver-heroi-mudancas-na-lideranca-da-dc
+2026-11-10 | Documentário A Tropa de Goiânia! (eletrofunk) estreia nos cinemas | https://revistadecinema.com.br/2026/11/documentario-a-tropa-de-goiania-estreia-nos-cinemas/
+2026-11-10 | FRAPA anuncia premiados da 14ª edição | https://revistadecinema.com.br/2026/11/frapa-anuncia-premiados-de-sua-14a-edicao/
+2026-11-11 | Os Anéis de Poder: 3ª temporada estreia no Prime Video | https://www.adorocinema.com/noticias/filmes/noticia-1000231813/
+2026-11-11 | Vingadores: Ultimato Encore chega ao Disney+ em 13/11 | https://www.omelete.com.br/filmes/vingadores-ultimato-encore-disney-plus-data-de-estreia
