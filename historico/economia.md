@@ -111,3 +111,8 @@
 2026-11-11 | Mercado de títulos fica fechado hoje por causa do feriado dos Veteranos | https://investinglive.com/news/heads-up-us-bond-market-closed-for-veterans-day-as-stocks-face-a-hot-cpi-hangover/
 2026-11-10 | Brent fecha a US$ 91,49 depois de furar US$ 90 pela primeira vez desde agosto | https://www.canalrural.com.br/economia/petroleo-cai-com-sinal-de-moderacao-dos-eua-em-relacao-ao-ira-e-avanco-do-dolar/
 2026-11-10 | China estende por dois meses a suspensão de tarifa extra sobre produtos dos EUA | https://www.home.saxo/en-sg/content/articles/macro/market-quick-take---wall-street-rebounds-and-brent-slides-below-usd-92---10-november-2026-10112026
+2026-11-11 | Bolsa sobe e dólar cai de manhã, com ajuste fiscal e Petrobras no radar | https://moneytimes.com.br/ibovespa-sobe-com-alta-do-petroleo-e-ajuste-fiscal-5-coisas-para-saber-antes-de-investir-hoje-11-davs
+2026-11-11 | Petrobras divulga balanço com expectativa de dividendos bilionários | https://bpmoney.com.br/negocios/empresas/petrobras-petr4-dividendos-ate-42-bilhoes-3t26/
+2026-11-10 | Inflação forte nos EUA faz mercado dar como certa alta de juros em dezembro | https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-climb-102635174.html
+2026-11-09 | Nvidia abre investigação interna sobre seu presidente e perde valor de mercado | https://www.timeslive.co.za/news/business/2026-11-09-nvidias-shares-slide-as-ceo-probed-over-spy-claims/
+2026-11-10 | Austrália sobe juros a 4,85% e Japão dá sinais de alta em dezembro | https://www.xtb.com/int/market-analysis/news-and-research/morning-wrap-tech-bounce-and-oil-price-collapse-following-signals-of-de-escalation-around-iran
