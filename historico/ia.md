@@ -87,3 +87,10 @@
 2026-11-11 | Nvidia e Google vão comprar US$ 10 bi cada em ações da Anthropic no IPO | https://fool.com/investing/2026/11/11/nvidia-and-alphabet-just-agreed-to-buy-usd10-billion-each-of-anthropic-stock-at-its-ipo-price
 2026-11-10 | Austrália vai criar regulador de segurança de IA após caso com agente da OpenAI | https://thenextweb.com/news/australia-plans-ai-safety-regulator-after-openai-agent-breach
 2026-11-10 | OpenAI compra a startup de viagens Odessia (acqui-hire) | https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/
+2026-11-12 | Google lança o Gemini 4 Hydrogen, modelo rápido e barato para programar | https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/
+2026-11-12 | Jensen Huang deixa a Nvidia; compra do Hugging Face em dúvida | https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/
+2026-11-12 | Coalizão de ONGs processa OpenAI, Anthropic, Google, Meta e SpaceX | https://www.reuters.com/business/openai-google-anthropic-hit-with-lawsuit-seeking-halt-frontier-ai-development-2026-11-12/
+2026-11-12 | OpenAI lança Daybreak Red Team e Defense Factory | https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500
+2026-11-12 | OpenAI apoia leis dos EUA para limitar acesso da China a chips | https://bloomberg.com/news/articles/2026-11-12/openai-joins-groundswell-of-support-for-ai-chip-control-measures
+2026-11-11 | TSMC aprova até US$ 1 bi em OpenAI e Anthropic | https://www.macrumors.com/2026/11/11/tsmc-approves-ai-investment/
+2026-11-12 | SpaceX planeja mais de US$ 74 bi em supercomputação no Texas e Arizona | https://www.reuters.com/business/media-telecom/spacex-invest-over-74-billion-supercompute-facilities-texas-arizona-2026-11-12/
