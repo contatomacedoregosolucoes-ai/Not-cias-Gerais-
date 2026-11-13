@@ -27,3 +27,8 @@
 2026-11-09 | Guia: qual modelo Claude usar em cada tarefa (Opus 5.5, Sonnet, Haiku, Fable 5.2) | https://claude.dev/blog/which-claude-model-should-you-build-with/
 2026-11-12 | Skill em destaque: theme-factory (anthropics/skills) | https://github.com/anthropics/skills/blob/main/skills/theme-factory/SKILL.md
 2026-11-12 | Dica do dia: pedir plano com suposições e perguntas antes de executar tarefas grandes | https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices
+2026-11-12 | Claude Code 2.1.323: Code Mode experimental, engines em plugin.json, ~195 correções | https://code.claude.com/docs/en/changelog
+2026-11-12 | Claude Meetings: liberação em beta e guia oficial (Team/Enterprise) | https://support.claude.com/en/articles/12138966-release-notes
+2026-11-10 | Anthropic inicia roadshow do IPO | https://www.anthropic.com/news/roadshow-launch
+2026-11-13 | Skill em destaque: skill-creator (anthropics/skills) | https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md
+2026-11-13 | Dica do dia: pedir ao Claude para conferir o trabalho contra um checklist antes de entregar | https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices

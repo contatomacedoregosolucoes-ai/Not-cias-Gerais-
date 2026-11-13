@@ -22,3 +22,7 @@
 2026-11-10 | Adobe abre Photoshop e Premiere para agentes de IA externos (MCP) | https://www.creativeboom.com/news/adobe-max-2026-all-the-big-announcements/
 2026-11-09 | ByteDance lança Seedream 5.5: 100 edições seguidas e fundo transparente | https://seed.bytedance.com/blog/more-realistic-images-more-stable-editing-across-100-rounds-introducing-seedream-5-5
 2026-11-10 | Gaxos lança o ArtGen Muse, modelo de vídeo com foco em custo menor | https://www.globenewswire.com/news-release/2026/11/10/3399480/0/en/gaxos-launches-artgen-muse-ai-video-model-as-company-scales.html
+2026-11-11 | Adobe mostra o Project Live Set, edição de vídeo com IA em tempo real | https://variety.com/2026/digital/news/adobe-project-live-set-real-time-ai-video-editing-feature-1236943403/
+2026-11-10 | Runway recebe o Seedream 5 Pro Layers, que separa uma imagem em camadas editáveis | https://docs.dev.runwayml.com/api-details/api_changelog/
+2026-11-10 | MiniMax lança o H3-Image, modelo de imagem aberto de 16 megapixels | https://aitoolranked.com/news/minimax-h3-image-open-weights-16mp
+2026-11-05 | Pruna AI lança o P-Video-2 Pro Replace, que troca a pessoa de um vídeo | https://runware.ai/models/prunaai-p-video-2-pro-replace
