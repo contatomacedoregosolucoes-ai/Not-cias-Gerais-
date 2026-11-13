@@ -109,3 +109,11 @@
 2026-11-10 | FRAPA anuncia premiados da 14ª edição | https://revistadecinema.com.br/2026/11/frapa-anuncia-premiados-de-sua-14a-edicao/
 2026-11-11 | Os Anéis de Poder: 3ª temporada estreia no Prime Video | https://www.adorocinema.com/noticias/filmes/noticia-1000231813/
 2026-11-11 | Vingadores: Ultimato Encore chega ao Disney+ em 13/11 | https://www.omelete.com.br/filmes/vingadores-ultimato-encore-disney-plus-data-de-estreia
+2026-11-12 | Geração Z já é 40% do público dos cinemas (NYT) | https://www.omelete.com.br/filmes/cinema-interesse-de-gen-z-sobe-e-jovens-representam-40-por-cento-do-publico
+2026-11-12 | FKA Twigs vira Josephine Baker em cinebiografia | https://www.omelete.com.br/filmes/fka-twigs-se-transforma-cantora-josephine-baker-cinebiografia
+2026-11-12 | Brad Pitt e Apple em Connector, de Darius Marder | https://www.omelete.com.br/filmes/brad-pitt-apple-parceria-filme-diretor-de-o-som-do-silencio
+2026-11-12 | Morre Regina Torné, a Glória de Chaves, aos 82 anos | https://www.adorocinema.com/televisao/noticias/noticia-1000232006.html
+2026-11-12 | Eu Vou Ter Saudades de Você ganha trailer (estreia 19/11) | https://www.omelete.com.br/filmes/eu-vou-ter-saudades-de-voce-trailer-filme-daniel-ribeiro
+2026-11-12 | Loucos Amores Líquidos ganha trailer (estreia 26/11) | https://www.omelete.com.br/filmes/loucos-amores-liquidos-filme-daise-amaral-eriberto-leao-trailer
+2026-11-12 | Como Roubar um Banco, de David Leitch: crítica | https://www.omelete.com.br/filmes/criticas/como-roubar-um-banco-critica-filme
+2026-11-12 | Jessica Chastain em No Coração de Nashville na Netflix (13/11) | https://www.adorocinema.com/noticias/filmes/noticia-1000232112/
