@@ -116,3 +116,10 @@
 2026-11-10 | Inflação forte nos EUA faz mercado dar como certa alta de juros em dezembro | https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-climb-102635174.html
 2026-11-09 | Nvidia abre investigação interna sobre seu presidente e perde valor de mercado | https://www.timeslive.co.za/news/business/2026-11-09-nvidias-shares-slide-as-ceo-probed-over-spy-claims/
 2026-11-10 | Austrália sobe juros a 4,85% e Japão dá sinais de alta em dezembro | https://www.xtb.com/int/market-analysis/news-and-research/morning-wrap-tech-bounce-and-oil-price-collapse-following-signals-of-de-escalation-around-iran
+2026-11-12 | Dólar sobe a R$ 5,65 e bolsa cai com pacote fiscal no centro (Plano Moretti) | https://www.bomdiamercado.com.br/mercado-financeiro/giro-dos-mercados/fechamento-ibovespa-cai-diante-de-insatisfacao-com-pacote-fiscal-dolar-sobe-a-r-565-2/
+2026-11-12 | Banco do Brasil cai 8,35% após lucro fraco | https://www.suno.com.br/noticias/ibovespa-bbas3-dolar-ipca/
+2026-11-12 | IPCA de outubro: 0,14%, 12 meses a 4,63% | https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-ipca-pacote-fiscal-e-balanco-do-banco-do-brasil-2124760
+2026-11-11 | Logan (Fed) vê ao menos duas altas de juros; aposta de dezembro em 87% | https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-11-095100012.html
+2026-11-13 | Futuros de Wall Street caem à espera do PPI | https://fxstreet.com/news/dow-jones-futures-fall-amid-fed-rate-hike-fears-nvidia-leadership-shakeup-ppi-data-eyed-202611130719
+2026-11-12 | Brent recua a US$ 91,29 com oferta maior e menos tensão no Irã | https://www.oeconomico.com/petroleo-recua-mais-de-us-1-com-recuperacao-da-oferta-e-alivio-das-tensoes-geopoliticas/
+2026-11-09 | Trump e Xi se encontram em Shenzhen na semana que vem | https://timesbrasil.com.br/mundo/china-prorroga-por-dois-meses-suspensao-de-tarifa-extra-dos-eua-antes-de-encontro-trump-xi/
