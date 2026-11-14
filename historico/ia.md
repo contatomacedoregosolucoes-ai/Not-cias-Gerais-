@@ -94,3 +94,9 @@
 2026-11-12 | OpenAI apoia leis dos EUA para limitar acesso da China a chips | https://bloomberg.com/news/articles/2026-11-12/openai-joins-groundswell-of-support-for-ai-chip-control-measures
 2026-11-11 | TSMC aprova até US$ 1 bi em OpenAI e Anthropic | https://www.macrumors.com/2026/11/11/tsmc-approves-ai-investment/
 2026-11-12 | SpaceX planeja mais de US$ 74 bi em supercomputação no Texas e Arizona | https://www.reuters.com/business/media-telecom/spacex-invest-over-74-billion-supercompute-facilities-texas-arizona-2026-11-12/
+2026-11-10 | Claude Fable 5.2 assume a liderança no índice da Artificial Analysis (65 pontos) | https://officechai.com/ai/anthropic-jumps-to-top-of-artificial-analysis-intelligence-index-with-fable-5-2-beats-gemini-4-carbon-by-5-points/
+2026-11-11 | Runway abre o Praxis-1, modelo de robótica com pesos livres | https://runway.com/news/company-news/praxis-1-is-now-available
+2026-11-10 | Claude Meetings: Claude entra nas reuniões do Google Meet (beta) | https://www.axios.com/2026/11/10/anthropic-claude-meetings-knowledge-work
+2026-11-13 | ChatGPT Wallet: agentes da OpenAI fazem compras | https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/
+2026-11-13 | Estudo: modelos chineses abertos mostram marcas de treino em chips Blackwell da Nvidia | https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/
+2026-11-11 | Trump autoriza ofensiva contra desvio de chips da Nvidia para a China | https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls
