@@ -32,3 +32,10 @@
 2026-11-10 | Anthropic inicia roadshow do IPO | https://www.anthropic.com/news/roadshow-launch
 2026-11-13 | Skill em destaque: skill-creator (anthropics/skills) | https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md
 2026-11-13 | Dica do dia: pedir ao Claude para conferir o trabalho contra um checklist antes de entregar | https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices
+2026-11-13 | Claude Code 2.1.325: tarefas agendadas e /loop pedem confirmação antes de skills com allowed-tools/hooks | https://code.claude.com/docs/en/changelog
+2026-11-12 | Claude for Manufacturing: plugin com 17 skills (Team/Enterprise) | https://claude.com/resources/articles/claude-for-manufacturing
+2026-11-12 | Opus 5.5 como modelo do dia a dia: guia oficial com preços e dicas | https://claude.com/resources/articles/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work
+2026-11-14 | Skill em destaque: frontend-design (anthropics/skills) | https://github.com/anthropics/skills/blob/main/skills/frontend-design/SKILL.md
+2026-11-14 | Dica do dia: anexar print em vez de redigitar números e pedir o arquivo pronto | https://claude.com/resources/articles/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work
+2026-11-13 | Para ir além: Building always-on agents | https://claude.com/resources/articles/building-always-on-agents
+2026-11-13 | Para ir além: Guia do Claude Tag para startups | https://claude.com/resources/articles/claude-tag-guide-for-startups

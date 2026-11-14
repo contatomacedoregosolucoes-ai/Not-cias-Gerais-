@@ -26,3 +26,6 @@
 2026-11-10 | Runway recebe o Seedream 5 Pro Layers, que separa uma imagem em camadas editáveis | https://docs.dev.runwayml.com/api-details/api_changelog/
 2026-11-10 | MiniMax lança o H3-Image, modelo de imagem aberto de 16 megapixels | https://aitoolranked.com/news/minimax-h3-image-open-weights-16mp
 2026-11-05 | Pruna AI lança o P-Video-2 Pro Replace, que troca a pessoa de um vídeo | https://runware.ai/models/prunaai-p-video-2-pro-replace
+2026-11-11 | Seedance 2.5 chega em 4K na API da Runway | https://docs.dev.runwayml.com/api-details/api_changelog/
+2026-11-14 | Dreamina mostra o Seedance 2.5 Flash, versão mais rápida (em breve) | https://dreamina.capcut.com/seedance/seedance-2-5-flash
+2026-11-12 | Midjourney V9 deve sair em até 30 dias (Office Hours de 11/11) | https://geekycuriosity.substack.com/p/creativity-ai-101-midjourney-v9-is
