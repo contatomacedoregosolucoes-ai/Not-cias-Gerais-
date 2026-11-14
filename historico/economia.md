@@ -123,3 +123,12 @@
 2026-11-13 | Futuros de Wall Street caem à espera do PPI | https://fxstreet.com/news/dow-jones-futures-fall-amid-fed-rate-hike-fears-nvidia-leadership-shakeup-ppi-data-eyed-202611130719
 2026-11-12 | Brent recua a US$ 91,29 com oferta maior e menos tensão no Irã | https://www.oeconomico.com/petroleo-recua-mais-de-us-1-com-recuperacao-da-oferta-e-alivio-das-tensoes-geopoliticas/
 2026-11-09 | Trump e Xi se encontram em Shenzhen na semana que vem | https://timesbrasil.com.br/mundo/china-prorroga-por-dois-meses-suspensao-de-tarifa-extra-dos-eua-antes-de-encontro-trump-xi/
+2026-11-12 | Senado aprova texto-base do pacote fiscal (45 a 31), economia de até R$ 60 bi | https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-aprova-texto-base-de-pacote-que-preve-economia-de-ate-r-60-bi
+2026-11-13 | Dólar a R$ 5,65 (+2,66% na semana) e Ibovespa a 172,4 mil | https://www.campograndenews.com.br/economia/dolar-fecha-a-r-5-65-e-acumula-alta-de-2-66-na-semana
+2026-11-11 | Petrobras lucra R$ 39,8 bi no 3T26; dividendos de R$ 15,3 bi abaixo do esperado | https://www.jb.com.br/economia/2026/11/amp/1061517-petrobras-lucra-rs-398-bilhoes-no-3t26-e-eleva-previsao-de-producao.html
+2026-11-13 | PPI dos EUA mais fraco; Wall Street fecha mista | https://seekingalpha.com/news/4672422-us-equities-slide-as-ppi-inflation-data-lands
+2026-11-12 | Aposta de alta do Fed em dezembro chega a 100%; Goolsbee preocupado | https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html
+2026-11-13 | Nasdaq tem melhor semana desde agosto; dólar global sobe 1% | https://vistapglobal.com/weekly-stock-market-summary-november-13-2026-nasdaq-slides-as-inflation-and-ai-risks-shape-wall-street-ant-eprx-googl-gs-modd-msft-nvda-ser-spcx/
+2026-11-13 | Brent perto de US$ 96; AIE vê primeiro excedente desde a guerra | https://invezz.com/news/2026/11/13/oil-price-today-brent-holds-near-96-as-iea-sees-first-surplus-since-iran-war/
+2026-11-13 | Trump diz não precisar de acordo com o Irã e afasta Vance | https://uk.investing.com/news/commodities-news/oil-prices-hold-gains-as-trump-sidelines-vance-from-iran-diplomacy-4979343
+2026-11-12 | Cúpula Trump-Xi em Shenzhen (18-19/11) testada por polêmica da Nvidia | https://www.bloomberg.com/news/articles/2026-11-12/nvidia-fallout-puts-trade-truce-to-the-test-as-xi-welcomes-trump
