@@ -117,3 +117,10 @@
 2026-11-12 | Loucos Amores Líquidos ganha trailer (estreia 26/11) | https://www.omelete.com.br/filmes/loucos-amores-liquidos-filme-daise-amaral-eriberto-leao-trailer
 2026-11-12 | Como Roubar um Banco, de David Leitch: crítica | https://www.omelete.com.br/filmes/criticas/como-roubar-um-banco-critica-filme
 2026-11-12 | Jessica Chastain em No Coração de Nashville na Netflix (13/11) | https://www.adorocinema.com/noticias/filmes/noticia-1000232112/
+2026-11-13 | Pattinson tem oferta de 3 filmes e candidatos a 007 assinaram contratos condicionais (Puck, rumor) | https://www.omelete.com.br/filmes/007-pattinson-recebeu-oferta-para-3-filmes-como-bond-e-e-tido-como-favorito
+2026-11-13 | Netflix e Lionsgate: Fairytale in New York, com Aaron Pierre | https://omelete.com.br/filmes/netflix-anuncia-filme-de-acao-com-astro-de-lanternas-e-diretor-de-sisu
+2026-11-12 | Schwarzenegger fala de sequências de Predador, Comando para Matar e Conan | https://www.omelete.com.br/filmes/predador-schwarzenneger-confirma-continuacao-esta-em-desenvolvimento
+2026-11-11 | A Odisseia abre campanha do Oscar 2027; favorito no Gold Derby | https://www.goldderby.com/gallery/2027-oscar-predictions-best-picture/
+2026-11-13 | Os Infiltrados volta aos cinemas em 4/12 (20 anos) | https://maquinanerd.com.br/cinema/the-departed-volta-aos-cinemas-em-dezembro-com-matt-damon
+2026-11-07 | 36º Cine Ceará (7 a 13/11) homenageia Kleber Mendonça Filho e Isis Valverde | https://www.opovo.com.br/vidaearte/2026/11/07/com-mais-de-45-filmes-36-cine-ceara-comeca-neste-sabado-7.html
+2026-11-14 | Obsessão chega de graça ao Prime Video | https://simnoticias.com.br/cnn-brasil/obsessao-sucesso-de-bilheteria-chega-ao-streaming-de-forma-gratuita/
