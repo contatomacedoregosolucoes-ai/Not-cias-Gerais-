@@ -124,3 +124,12 @@
 2026-11-13 | Os Infiltrados volta aos cinemas em 4/12 (20 anos) | https://maquinanerd.com.br/cinema/the-departed-volta-aos-cinemas-em-dezembro-com-matt-damon
 2026-11-07 | 36º Cine Ceará (7 a 13/11) homenageia Kleber Mendonça Filho e Isis Valverde | https://www.opovo.com.br/vidaearte/2026/11/07/com-mais-de-45-filmes-36-cine-ceara-comeca-neste-sabado-7.html
 2026-11-14 | Obsessão chega de graça ao Prime Video | https://simnoticias.com.br/cnn-brasil/obsessao-sucesso-de-bilheteria-chega-ao-streaming-de-forma-gratuita/
+2026-11-14 | Ebenezer e os Fantasmas do Natal deve liderar a bilheteria dos EUA (projeção US$ 18-20 mi) | https://www.omelete.com.br/filmes/ebenezer-fantasmas-natal-bilheteria-americana-estreia
+2026-11-14 | Adam Driver chama de “criminoso” o fim do filme solo de Ben Solo | https://www.omelete.com.br/filmes/adam-driver-criminoso-disney-ben-solo
+2026-11-14 | Michael Mann briga na Justiça pelos direitos do roteiro de Fogo Contra Fogo | https://www.omelete.com.br/filmes/michael-mann-recuperar-direitos-roteiro-fogo-contra-fogo
+2026-11-14 | Disney Animation diz que não usa IA: “cada frame é construído à mão” | https://www.omelete.com.br/filmes/disney-defende-criatividade-humana-afasta-ia-animacoes-jared-bush
+2026-11-12 | Kevin Feige garante: o Doutor Destino de Downey Jr. não é um Tony Stark | https://www.omelete.com.br/filmes/vingadores-doutor-destino-kevin-feige-responde-variante-tony-stark
+2026-11-12 | Cinemark faz o Dia do Cinema Nacional: só filmes brasileiros a R$ 10 | https://revistadecinema.com.br/2026/11/rede-cinemark-dedica-100-de-sua-programacao-a-filmes-brasileiros-com-ingressos-a-r-10/
+2026-11-12 | Retrospectiva de Hector Babenco abre no Itaú Cultural | https://revistadecinema.com.br/2026/11/retrospectiva-de-hector-babenco-reune-nove-filmes-na-ic-play-e-sessoes-presenciais/
+2026-11-12 | O Shaolin do Sertão 2 chega ao Telecine | https://revistadecinema.com.br/2026/11/o-shaolin-do-sertao-2-estreia-no-telecine/
+2026-11-13 | Warner confirma Duna: Parte Três e Godzilla x Kong na CCXP26 | https://www.omelete.com.br/ccxp/warner-bros-confirma-presenca-na-ccxp26-com-duna-parte-3-e-godzilla-x-kong-supernova/

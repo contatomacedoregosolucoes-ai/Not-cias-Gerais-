@@ -29,3 +29,7 @@
 2026-11-11 | Seedance 2.5 chega em 4K na API da Runway | https://docs.dev.runwayml.com/api-details/api_changelog/
 2026-11-14 | Dreamina mostra o Seedance 2.5 Flash, versão mais rápida (em breve) | https://dreamina.capcut.com/seedance/seedance-2-5-flash
 2026-11-12 | Midjourney V9 deve sair em até 30 dias (Office Hours de 11/11) | https://geekycuriosity.substack.com/p/creativity-ai-101-midjourney-v9-is
+2026-11-13 | Seedance 2.5 Flash lançado: mais rápido e barato, na Runway e Higgsfield | https://www.tech360.tv/bytedance-ships-a-cheaper-faster-seedance-video-model
+2026-11-15 | Higgsfield Ads Studio: agente que cria anúncios em vídeo e imagem | https://higgsfield.ai/changelog
+2026-11-10 | Pruna Remove-Object: LoRA que remove objetos de imagens (Qwen-Image 2.1) | https://huggingface.co/PrunaAI/P-Q-Image-2.1-Remove-Object
+2026-11-13 | Ranking de vídeo: Wan 3.0 lidera, MiniMax H3 melhor aberto | https://www.marktechpost.com/2026/11/13/best-ai-video-generation-models-2026/
