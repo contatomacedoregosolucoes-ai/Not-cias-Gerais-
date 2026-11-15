@@ -132,3 +132,9 @@
 2026-11-13 | Brent perto de US$ 96; AIE vê primeiro excedente desde a guerra | https://invezz.com/news/2026/11/13/oil-price-today-brent-holds-near-96-as-iea-sees-first-surplus-since-iran-war/
 2026-11-13 | Trump diz não precisar de acordo com o Irã e afasta Vance | https://uk.investing.com/news/commodities-news/oil-prices-hold-gains-as-trump-sidelines-vance-from-iran-diplomacy-4979343
 2026-11-12 | Cúpula Trump-Xi em Shenzhen (18-19/11) testada por polêmica da Nvidia | https://www.bloomberg.com/news/articles/2026-11-12/nvidia-fallout-puts-trade-truce-to-the-test-as-xi-welcomes-trump
+2026-11-14 | Pacote fiscal volta ao Senado na terça, com ajuste menor que o esperado | https://www.ocafezinho.com/2026-11-14/bolsa-soma-235-na-semana-com-pacote-fiscal-mas-credito-segue-caro
+2026-11-13 | Bolsa soma 2,35% na semana, mas o crédito segue caro | https://acritica.net/noticias/dolar-acumula-alta-de-263-na-semana-e-bolsa-fecha-sexta-feira-em-alta/
+2026-11-15 | Nvidia chega ao balanço sem Jensen Huang e sob forte desconfiança | https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-along-baggage-top-053700154.html
+2026-11-10 | Anthropic fixa faixa de US$ 70 a US$ 78 por ação para o IPO | https://decrypt.co/382939/anthropic-sets-ipo-price-range-at-70-78-per-share-valuing-company-at-up-to-1-4-trillion?amp=1
+2026-11-13 | Semana testa o consumidor americano com Fed em modo de alta | https://investinglive.com/news/earnings-week-ahead-nvidia-without-jensen-anthropic-s-ipo-and-the-consumer-meets-a-hiking-fed/
+2026-11-14 | Wall Street fecha a semana em alta, apesar da queda dos chips | https://pro.thestreet.com/market-commentary/chips-slide-again-but-the-sp-500-still-ends-the-week-up-2-5
