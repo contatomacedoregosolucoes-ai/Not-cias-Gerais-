@@ -100,3 +100,8 @@
 2026-11-13 | ChatGPT Wallet: agentes da OpenAI fazem compras | https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/
 2026-11-13 | Estudo: modelos chineses abertos mostram marcas de treino em chips Blackwell da Nvidia | https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/
 2026-11-11 | Trump autoriza ofensiva contra desvio de chips da Nvidia para a China | https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls
+2026-11-12 | Perplexity abre os pesos do Decider v1.3 e Decider Flash v1.3 | https://www.perplexity.ai/hub/blog/perplexity-decider
+2026-11-11 | Anthropic: agente coordenador vence times de agentes (Worse Together, MAMUBench) | https://alignment.anthropic.com/2026/worse-together
+2026-11-10 | OpenAI testa perfis verificados e agentes de empresas no ChatGPT | https://thenextweb.com/news/openai-businesses-in-chatgpt-business-agents
+2026-11-09 | Fireworks AI confirma que ataque expôs dados de cobrança e segredos de clientes | https://letsdatascience.com/news/fireworks-hack-exposes-customer-data-reportedly-worrying-lar-de95ded8
+2026-11-12 | Fork do ARTEX (AntiFox) é usado por atacantes para roubar segredo na AWS | https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html

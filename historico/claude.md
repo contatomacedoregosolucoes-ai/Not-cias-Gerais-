@@ -39,3 +39,7 @@
 2026-11-14 | Dica do dia: anexar print em vez de redigitar números e pedir o arquivo pronto | https://claude.com/resources/articles/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work
 2026-11-13 | Para ir além: Building always-on agents | https://claude.com/resources/articles/building-always-on-agents
 2026-11-13 | Para ir além: Guia do Claude Tag para startups | https://claude.com/resources/articles/claude-tag-guide-for-startups
+2026-11-12 | Managed Agents autohospedado (beta privado) | https://claude.com/resources/articles/self-hosted-claude-managed-agents
+2026-11-12 | J.Crew Style Advisor feito com Claude Code | https://claude.com/resources/articles/j-crew-style-advisor-with-claude
+2026-11-15 | Skill em destaque: web-artifacts-builder (anthropics/skills) | https://github.com/anthropics/skills/blob/main/skills/web-artifacts-builder/SKILL.md
+2026-11-15 | Dica do dia: explicar o porquê da regra no pedido (contexto e motivação) | https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices
