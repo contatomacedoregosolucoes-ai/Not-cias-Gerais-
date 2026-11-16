@@ -138,3 +138,12 @@
 2026-11-10 | Anthropic fixa faixa de US$ 70 a US$ 78 por ação para o IPO | https://decrypt.co/382939/anthropic-sets-ipo-price-range-at-70-78-per-share-valuing-company-at-up-to-1-4-trillion?amp=1
 2026-11-13 | Semana testa o consumidor americano com Fed em modo de alta | https://investinglive.com/news/earnings-week-ahead-nvidia-without-jensen-anthropic-s-ipo-and-the-consumer-meets-a-hiking-fed/
 2026-11-14 | Wall Street fecha a semana em alta, apesar da queda dos chips | https://pro.thestreet.com/market-commentary/chips-slide-again-but-the-sp-500-still-ends-the-week-up-2-5
+2026-11-16 | Focus sai hoje, e a pergunta é se a inflação de 2027 continua subindo | https://www.bcb.gov.br/publicacoes/focus
+2026-11-16 | Lula volta ao país e o mercado cobra equipe econômica e novas medidas | https://www.bomdiamercado.com.br/morning-call/lula-volta-sob-pressao-fiscal-nvidia-testa-mercado/
+2026-11-13 | Pacote fiscal volta ao Senado na terça; casas divergem sobre quanto ele rende | https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-pacote-fiscal-varejo-e-inflacao-dos-eua-no-radar-2126420
+2026-11-16 | Wall Street abre a semana em queda nos futuros antes de Nvidia e Anthropic | https://www.tipranks.com/news/u-s-stocks-brace-for-nvidia-earnings-and-anthropics-mega-ipo
+2026-11-16 | Fed fala hoje e divulga a ata na quarta, com alta de juros em dezembro no centro | https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-11-16/
+2026-11-16 | IPO da Anthropic: precificação na quarta, estreia na quinta e lock-up curto | https://investing.com/analysis/anthropic-set-to-go-public-just-as-nvidia-shows-signs-of-cracks-200691602
+2026-11-16 | Irã ataca base americana no Bahrein e petróleo fica perto de US$ 96 | https://tradingeconomics.com/commodity/brent-crude-oil
+2026-11-14 | Trump, Xi e Putin se reúnem na quinta em Shenzhen, com o Irã na pauta | https://www.diariodenoticias.com.br/materia/trump-xi-putin-reuniao-inedita-shenzhen-19-novembro
+2026-11-15 | Japão volta a encolher e dados da China decepcionam; bolsas da Ásia caem | https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html
