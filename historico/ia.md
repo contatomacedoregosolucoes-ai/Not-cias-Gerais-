@@ -105,3 +105,11 @@
 2026-11-10 | OpenAI testa perfis verificados e agentes de empresas no ChatGPT | https://thenextweb.com/news/openai-businesses-in-chatgpt-business-agents
 2026-11-09 | Fireworks AI confirma que ataque expôs dados de cobrança e segredos de clientes | https://letsdatascience.com/news/fireworks-hack-exposes-customer-data-reportedly-worrying-lar-de95ded8
 2026-11-12 | Fork do ARTEX (AntiFox) é usado por atacantes para roubar segredo na AWS | https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html
+2026-11-16 | Alibaba lança o Qwen4-Max, novo modelo principal da empresa chinesa | https://bloomberg.com/news/articles/2026-11-16/alibaba-unveils-new-flagship-ai-model-in-riposte-to-us-rivals
+2026-11-13 | Google mostra o /teamwork: times de agentes do Gemini 4 resolvem problemas de pesquisa | https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/
+2026-11-15 | Bland AI abre o Tofu-1, modelo de voz que ouve e fala ao mesmo tempo | https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/
+2026-11-16 | IPO da Anthropic: 825 milhões de ações e valor de até US$ 1,45 trilhão, com estreia na quinta | https://www.thenationalnews.com/business/markets/2026/11/16/nvidia-earnings-anthropic-ipo/
+2026-11-13 | Nvidia sonda o CEO da Arm para suceder Jensen Huang; balanço sai na terça | https://www.rte.ie/news/business/2026/1113/1599163-nvidia-approached-arm-ceo-haas-to-succeed-huang-ft/
+2026-11-13 | OpenAI desfaz a equipe de robótica e diz que o GPT-6 Astra serve para robôs | https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/
+2026-11-15 | Governo Trump deve nomear mais de 24 "campeãs nacionais" de IA, incluindo Nvidia, OpenAI e Anthropic | https://www.wsj.com/tech/ai/trump-administration-to-name-nvidia-among-ai-national-champions-c9284344
+2026-11-15 | OpenAI: GPT-6 Astra lidera prova de uma definição matemática para o Modelo Padrão da física | https://openai.com/index/step-toward-defining-the-standard-model/
