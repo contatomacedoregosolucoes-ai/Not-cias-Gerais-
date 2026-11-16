@@ -33,3 +33,7 @@
 2026-11-15 | Higgsfield Ads Studio: agente que cria anúncios em vídeo e imagem | https://higgsfield.ai/changelog
 2026-11-10 | Pruna Remove-Object: LoRA que remove objetos de imagens (Qwen-Image 2.1) | https://huggingface.co/PrunaAI/P-Q-Image-2.1-Remove-Object
 2026-11-13 | Ranking de vídeo: Wan 3.0 lidera, MiniMax H3 melhor aberto | https://www.marktechpost.com/2026/11/13/best-ai-video-generation-models-2026/
+2026-11-15 | A2E AI lança gerador de vídeo com mais de 200 modelos e cobrança por uso | https://www.globenewswire.com/news-release/2026/11/15/3403090/0/en/a2e-ai-launches-ai-video-generator-with-all-in-one-video-and-image-models.html
+2026-11-10 | PAN 2: modelo aberto simula até 20 s de vídeo vertical | https://huggingface.co/IFM/PAN2
+2026-11-10 | ReCaVSR e RelayVSR: ampliadores de vídeo abertos no ComfyUI | https://www.kombitz.com/2026/11/14/ai-image-video-model-news-roundup-november-14-2026/
+2026-11-10 | Controles (canny, pose, profundidade) para MOSS-Image | https://huggingface.co/thedeoxen/MOSS-Image-canny-controlnet

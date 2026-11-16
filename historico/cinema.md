@@ -133,3 +133,12 @@
 2026-11-12 | Retrospectiva de Hector Babenco abre no Itaú Cultural | https://revistadecinema.com.br/2026/11/retrospectiva-de-hector-babenco-reune-nove-filmes-na-ic-play-e-sessoes-presenciais/
 2026-11-12 | O Shaolin do Sertão 2 chega ao Telecine | https://revistadecinema.com.br/2026/11/o-shaolin-do-sertao-2-estreia-no-telecine/
 2026-11-13 | Warner confirma Duna: Parte Três e Godzilla x Kong na CCXP26 | https://www.omelete.com.br/ccxp/warner-bros-confirma-presenca-na-ccxp26-com-duna-parte-3-e-godzilla-x-kong-supernova/
+2026-11-15 | Ebenezer e os Fantasmas do Natal lidera bilheteria dos EUA com US$ 19 mi (US$ 42 mi global) | https://www.omelete.com.br/filmes/ebenezer-fantasmas-natal-lidera-bilheteria-americana-42-milhoes
+2026-11-15 | Como Roubar um Banco estreia fraquíssimo e preocupa a Amazon | https://ovicio.com.br/como-roubar-um-banco-tem-abertura-global-fraquissima-e-caminha-para-o-fracasso/
+2026-11-15 | Cara-de-Barro perde mais de 600 cinemas nos EUA | https://ovicio.com.br/cara-de-barro-e-removido-de-mais-de-600-cinemas-apos-saida-de-james-gunn/
+2026-11-15 | O marido de Elizabeth Holmes diz que não autorizou a cena de nudez do documentário | https://www.omelete.com.br/filmes/tudo-pode-ser-visto-billy-evans-marido-elizabeth-holmes-consentimento-nudez
+2026-11-15 | Matt Damon conta que Ben Affleck passou 20 minutos elogiando Robert Pattinson | https://www.omelete.com.br/filmes/a-odisseia-matt-damon-ben-affleck-robert-pattinson
+2026-11-15 | Kevin Feige: juntar os X-Men antigos ao MCU fecha 25 anos de história | https://www.omelete.com.br/filmes/vingadores-doutor-destino-x-men-kevin-feige-uniao-cinema
+2026-11-15 | Primeiras reações a Cliff Booth, de David Fincher: "Tarantino turbinado" | https://ovicio.com.br/cliff-booth-vazam-as-primeiras-reacoes-ao-filme-de-david-fincher-tarantino-turbinado/
+2026-11-15 | Danny Boyle: o quinto Extermínio ainda precisa de dinheiro | https://www.omelete.com.br/filmes/exterminio-danny-boyle-franquia-exterminio-dinheiro
+2026-08-27 | Vicentina Pede Desculpas chega à Netflix em 20/11 | https://www.omelete.com.br/filmes/vicentina-pede-desculpas-netflix-data-de-estreia
