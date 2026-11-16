@@ -43,3 +43,8 @@
 2026-11-12 | J.Crew Style Advisor feito com Claude Code | https://claude.com/resources/articles/j-crew-style-advisor-with-claude
 2026-11-15 | Skill em destaque: web-artifacts-builder (anthropics/skills) | https://github.com/anthropics/skills/blob/main/skills/web-artifacts-builder/SKILL.md
 2026-11-15 | Dica do dia: explicar o porquê da regra no pedido (contexto e motivação) | https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices
+2026-11-13 | Claude Code 2.1.325: correções de segurança nas permissões do Bash | https://code.claude.com/docs/en/changelog
+2026-11-16 | Skill em destaque: algorithmic-art (anthropics/skills) | https://github.com/anthropics/skills/blob/main/skills/algorithmic-art/SKILL.md
+2026-11-16 | Dica do dia: skill manual com disable-model-invocation e argumento ($ARGUMENTS) | https://code.claude.com/docs/en/skills
+2026-11-10 | Para ir além: Mais formas de trabalhar com Claude (Sheets, Whiteboards, conectores) | https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors
+2026-11-12 | Para ir além: Introdução ao Claude Meetings | https://claude.com/resources/articles/claude-meetings
