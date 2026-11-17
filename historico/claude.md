@@ -48,3 +48,9 @@
 2026-11-16 | Dica do dia: skill manual com disable-model-invocation e argumento ($ARGUMENTS) | https://code.claude.com/docs/en/skills
 2026-11-10 | Para ir além: Mais formas de trabalhar com Claude (Sheets, Whiteboards, conectores) | https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors
 2026-11-12 | Para ir além: Introdução ao Claude Meetings | https://claude.com/resources/articles/claude-meetings
+2026-11-16 | Claude Code 2.1.326: Code Mode com agent teams, permissões mais rígidas, modo automático por padrão | https://code.claude.com/docs/en/changelog
+2026-11-13 | App desktop 5.11492: comandos em sandbox pedem confirmação, Cowork ganha Baixar | https://claude.com/docs/cowork/changelog
+2026-11-17 | Skill em destaque: slack-gif-creator (anthropics/skills) | https://github.com/anthropics/skills/blob/main/skills/slack-gif-creator/SKILL.md
+2026-11-17 | Dica do dia: memória automática do Claude Code (pedir para guardar regras, /memory) | https://code.claude.com/docs/en/memory
+2026-11-17 | Para ir além: Code Mode (guia oficial) | https://code.claude.com/docs/en/code-mode
+2026-11-17 | Para ir além: Modos de permissão do Claude Code | https://code.claude.com/docs/en/permission-modes

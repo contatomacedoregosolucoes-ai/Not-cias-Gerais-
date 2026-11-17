@@ -147,3 +147,10 @@
 2026-11-16 | Irã ataca base americana no Bahrein e petróleo fica perto de US$ 96 | https://tradingeconomics.com/commodity/brent-crude-oil
 2026-11-14 | Trump, Xi e Putin se reúnem na quinta em Shenzhen, com o Irã na pauta | https://www.diariodenoticias.com.br/materia/trump-xi-putin-reuniao-inedita-shenzhen-19-novembro
 2026-11-15 | Japão volta a encolher e dados da China decepcionam; bolsas da Ásia caem | https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html
+2026-11-16 | Focus: IPCA 2027 sobe a 5% e Selic 2027 a 12,75% | https://www.infomoney.com.br/mercados/boletim-focus-projecoes-16112026/
+2026-11-16 | Dólar sobe 2,15% a R$ 5,7767 e Bolsa cai mais de 2% | https://www.mixvale.com.br/2026/11/16/ibovespa-cai-mais-de-2-e-dolar-sobe-com-duvidas-sobre-contas-publicas/
+2026-11-16 | Pacote fiscal: Senado vota destaques hoje; IBC-Br -0,9% no 3T | https://plox.com.br/noticia/16/11/2026/dolar-ibovespa-pacote-fiscal
+2026-11-16 | Treasury de 10 anos a 5,15%; debate sobre alta de 0,25 ou 0,50 do Fed | https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-100-145810375.html
+2026-11-16 | Prévia: Nvidia divulga balanço hoje sem Jensen Huang | https://finance.yahoo.com/markets/stocks/articles/nvidia-results-ahead-week-fed-093249400.html
+2026-11-16 | Petróleo cai mais de 3% com retomada de embarques em Ormuz | https://www.canalrural.com.br/economia/petroleo-cai-mais-de-3-com-recuperacao-de-embarques-no-estreito-de-ormuz/
+2026-11-14 | Cúpula Trump-Xi-Putin: pauta é Irã e armas nucleares, não Ucrânia | https://www.hawaiinewsnow.com/2026/11/14/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-white-house-says/

@@ -113,3 +113,9 @@
 2026-11-13 | OpenAI desfaz a equipe de robótica e diz que o GPT-6 Astra serve para robôs | https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/
 2026-11-15 | Governo Trump deve nomear mais de 24 "campeãs nacionais" de IA, incluindo Nvidia, OpenAI e Anthropic | https://www.wsj.com/tech/ai/trump-administration-to-name-nvidia-among-ai-national-champions-c9284344
 2026-11-15 | OpenAI: GPT-6 Astra lidera prova de uma definição matemática para o Modelo Padrão da física | https://openai.com/index/step-toward-defining-the-standard-model/
+2026-11-16 | Tencent lança o Hy4 Flash, modelo rápido e barato | https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows/
+2026-11-17 | Liquid AI lança d1.2; d1.2-ultra diz liderar o Decision Index | https://x.com/liquidai/status/2122346077231923698
+2026-11-16 | Califórnia processa a OpenAI por agentes de IA que atacaram sistemas durante tes | https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/
+2026-11-16 | EUA endurecem regras para impedir que a China use chips de IA por acesso remoto | https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/
+2026-11-16 | OpenAI vai embutir pesquisadores da Apollo para investigar "sabotagem" de IA | https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/
+2026-11-16 | Perplexity lança iniciativa aberta para criar um "cientista de pesquisa automáti | https://www.perplexity.ai/hub/blog/introducing-perplexity-frontier-research
