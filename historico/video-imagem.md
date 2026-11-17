@@ -37,3 +37,6 @@
 2026-11-10 | PAN 2: modelo aberto simula até 20 s de vídeo vertical | https://huggingface.co/IFM/PAN2
 2026-11-10 | ReCaVSR e RelayVSR: ampliadores de vídeo abertos no ComfyUI | https://www.kombitz.com/2026/11/14/ai-image-video-model-news-roundup-november-14-2026/
 2026-11-10 | Controles (canny, pose, profundidade) para MOSS-Image | https://huggingface.co/thedeoxen/MOSS-Image-canny-controlnet
+2026-11-16 | Google redesenha o Flow como estúdio único de imagem e vídeo (fonte única) | https://foro3d.com/2026/noviembre/flow-se-redisena-como-estudio-creativo-de-imagenes-y-video-con-nano-ba.html
+2026-11-12 | Seedream 5.5 e Seedream 5.5 Layers chegam à API da Runway | https://docs.dev.runwayml.com/api-details/api_changelog/
+2026-11-13 | Recraft V4.1 chega à Leonardo.Ai com cores da marca em hexadecimal | https://leonardo.ai/news/recraft-v4-1-now-on-leonardo
