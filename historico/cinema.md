@@ -142,3 +142,12 @@
 2026-11-15 | Primeiras reações a Cliff Booth, de David Fincher: "Tarantino turbinado" | https://ovicio.com.br/cliff-booth-vazam-as-primeiras-reacoes-ao-filme-de-david-fincher-tarantino-turbinado/
 2026-11-15 | Danny Boyle: o quinto Extermínio ainda precisa de dinheiro | https://www.omelete.com.br/filmes/exterminio-danny-boyle-franquia-exterminio-dinheiro
 2026-08-27 | Vicentina Pede Desculpas chega à Netflix em 20/11 | https://www.omelete.com.br/filmes/vicentina-pede-desculpas-netflix-data-de-estreia
+2026-11-16 | Robert Pattinson é o novo James Bond, com direção de Denis Villeneuve | https://www.aboutamazon.com/news/entertainment/james-bond-robert-pattinson-cast-amazon-mgm-film
+2026-11-16 | Futuro de Pattinson como Batman vira dúvida com o Bond | https://www.adorocinema.com/noticias/filmes/noticia-1000232591/
+2026-11-16 | James Gunn desmente boatos sobre mudanças em Man of Tomorrow | https://www.adorocinema.com/noticias/filmes/noticia-1000232596/
+2026-11-16 | Sony confirma relançamento de Homem-Aranha: Um Novo Dia com cenas inéditas | https://www.omelete.com.br/filmes/homem-aranha-um-novo-dia-sony-confirma-relancamento-do-filme-nos-cinemas
+2026-11-16 | Governors Awards: Glenn Close e Ridley Scott recebem Oscars honorários | https://variety.com/2026/awards/news/governors-awards-glenn-close-ridley-scott-oscars-live-blog-1236948318
+2026-11-17 | Camisas Negras e Fogaréu estreiam em 19/11 | https://www.adorocinema.com/filmes/agenda/
+2026-11-16 | Os Farofeiros 3 é o 3º mais vendido do fim de semana na Ingresso.com | https://www.ingresso.com/noticias/filme-vingadores-doutor-destino-lider-bilheteria-ingressocom-top-5-cinema-12-a-15-de-novembro-2026
+2026-11-17 | Estreias de 19/11: Eu Sou o Rocky, Josephine, Ramayana (agenda AdoroCinema) | https://www.adorocinema.com/filmes/agenda/
+2026-11-16 | Streaming da semana: Madden, Me Chame pelo Seu Nome, O Brutalista | https://www.oficinadanet.com.br/entretenimento/74195-lancamentos-netflix-hbo-max-prime-video-disney-16-a-22-novembro-2026
