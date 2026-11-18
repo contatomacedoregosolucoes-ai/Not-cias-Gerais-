@@ -40,3 +40,6 @@
 2026-11-16 | Google redesenha o Flow como estúdio único de imagem e vídeo (fonte única) | https://foro3d.com/2026/noviembre/flow-se-redisena-como-estudio-creativo-de-imagenes-y-video-con-nano-ba.html
 2026-11-12 | Seedream 5.5 e Seedream 5.5 Layers chegam à API da Runway | https://docs.dev.runwayml.com/api-details/api_changelog/
 2026-11-13 | Recraft V4.1 chega à Leonardo.Ai com cores da marca em hexadecimal | https://leonardo.ai/news/recraft-v4-1-now-on-leonardo
+2026-11-17 | Suno Visuals: clipes de letra e vídeos de até 15 s ligados às músicas | https://unite.ai/suno-launches-visuals-for-ai-generated-lyric-videos-and-album-art
+2026-11-17 | HeyGen Avatar 6: avatares com gestos guiados pelo áudio, vídeo 2K | https://www.prnewswire.com/news-releases/heygen-introduces-avatar-6-an-audio-driven-context-aware-ai-model-that-alleviates-repetitive-or-unnatural-motion-in-ai-generated-video-302942527.html
+2026-11-12 | Phota Labs: app iOS que reedita fotos para parecerem profissionais | https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/
