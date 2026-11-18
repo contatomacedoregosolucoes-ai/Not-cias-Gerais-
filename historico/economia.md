@@ -154,3 +154,11 @@
 2026-11-16 | Prévia: Nvidia divulga balanço hoje sem Jensen Huang | https://finance.yahoo.com/markets/stocks/articles/nvidia-results-ahead-week-fed-093249400.html
 2026-11-16 | Petróleo cai mais de 3% com retomada de embarques em Ormuz | https://www.canalrural.com.br/economia/petroleo-cai-mais-de-3-com-recuperacao-de-embarques-no-estreito-de-ormuz/
 2026-11-14 | Cúpula Trump-Xi-Putin: pauta é Irã e armas nucleares, não Ucrânia | https://www.hawaiinewsnow.com/2026/11/14/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-white-house-says/
+2026-11-17 | Dólar fecha a R$ 5,78, o maior valor desde abril de 2025 | https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-17112026/
+2026-11-17 | Senado adia para hoje a votação dos destaques do pacote fiscal | https://oreporter.com/economia/dolar-fecha-578-adiamento-pacote-fiscal-ibovespa-sobe
+2026-11-16 | EUA passam a exigir licença para vender chips de IA a data centers no Brasil | https://investnews.com.br/economia/eua-licenca-para-venda-de-chips-de-ia/amp/
+2026-11-17 | Desdobramento: Nvidia supera as previsões e projeta US$ 130 bilhões para o próximo trimestre | https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html
+2026-11-17 | Conselho da Nvidia diz que não vai readmitir Jensen Huang | https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html
+2026-11-17 | Wall Street tem quarta queda seguida e S&amp;P 500 chega à menor marca desde julho | https://www.chartmill.com/news/TSN/Chartmill-58826-stock-market-today-nvidia-board-huang-chip-selloff-anthropic-ipo-oil-surplus-disney-2026-11-17
+2026-11-17 | China ameaça reagir às novas regras de chips antes da cúpula com Trump | https://thenextweb.com/news/china-weighs-response-to-us-chip-curbs-before-trump-summit
+2026-11-18 | Bolsas da Ásia fecham mistas; exportações do Japão sobem 20,5% | https://www.investing.com/news/stock-market-news/asia-stocks-mixed-as-nvidia-optimism-offsets-wall-street-rout-fed-mins-in-focus-5034691
