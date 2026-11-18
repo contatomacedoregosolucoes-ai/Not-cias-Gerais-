@@ -54,3 +54,9 @@
 2026-11-17 | Dica do dia: memória automática do Claude Code (pedir para guardar regras, /memory) | https://code.claude.com/docs/en/memory
 2026-11-17 | Para ir além: Code Mode (guia oficial) | https://code.claude.com/docs/en/code-mode
 2026-11-17 | Para ir além: Modos de permissão do Claude Code | https://code.claude.com/docs/en/permission-modes
+2026-11-17 | Claude Code 2.1.327: /status com diagnósticos, permissões mais rígidas, /install-github-app pede confirmação | https://code.claude.com/docs/en/changelog
+2026-11-17 | Claude Desktop: canais de atualização Estável e Mais recente | https://support.claude.com/en/articles/12138966-release-notes
+2026-11-17 | Linked billing na Claude Platform (beta): usar Claude em ferramentas de terceiros sem compartilhar chave de API | https://claude.com/resources/articles/linked-billing-on-claude-platform
+2026-11-18 | Skill em destaque: mcp-builder (anthropics/skills) | https://github.com/anthropics/skills/blob/main/skills/mcp-builder/SKILL.md
+2026-11-18 | Dica do dia: documentos longos no topo, pergunta no fim e pedir citações dos trechos antes de analisar | https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices
+2026-11-18 | Para ir além: Linked billing (guia oficial) | https://claude.com/resources/articles/linked-billing-on-claude-platform

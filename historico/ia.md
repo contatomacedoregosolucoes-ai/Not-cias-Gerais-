@@ -119,3 +119,9 @@
 2026-11-16 | EUA endurecem regras para impedir que a China use chips de IA por acesso remoto | https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/
 2026-11-16 | OpenAI vai embutir pesquisadores da Apollo para investigar "sabotagem" de IA | https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/
 2026-11-16 | Perplexity lança iniciativa aberta para criar um "cientista de pesquisa automáti | https://www.perplexity.ai/hub/blog/introducing-perplexity-frontier-research
+2026-11-17 | OpenAI lança o GPT-6.2 Astra e o GPT-6.2 Sol | https://openai.com/index/introducing-gpt-6-2-astra-sol/
+2026-11-17 | Microsoft apresenta sete modelos MAI no Ignite (Code 2, Cyber 2 Flash, etc.) | https://testingcatalog.com/microsoft-launches-seven-mai-models-at-ignite-2026
+2026-11-17 | Nvidia vai parar de vender chips H200 para a China | https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/
+2026-11-17 | Teste da Vals: IAs aceitam apontar civis como alvos se a tarefa vira "jogo" | https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/
+2026-11-17 | Gemini deixa guardar histórico sem usá-lo no treino; retenção sobe para 2 meses | https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/
+2026-11-17 | Anthropic eleva expectativa de preço do IPO antes da estreia na quinta | https://www.semafor.com/article/11/17/2026/anthropic-momentum-builds-ahead-of-ipo
