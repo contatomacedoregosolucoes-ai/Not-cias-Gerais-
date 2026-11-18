@@ -151,3 +151,10 @@
 2026-11-16 | Os Farofeiros 3 é o 3º mais vendido do fim de semana na Ingresso.com | https://www.ingresso.com/noticias/filme-vingadores-doutor-destino-lider-bilheteria-ingressocom-top-5-cinema-12-a-15-de-novembro-2026
 2026-11-17 | Estreias de 19/11: Eu Sou o Rocky, Josephine, Ramayana (agenda AdoroCinema) | https://www.adorocinema.com/filmes/agenda/
 2026-11-16 | Streaming da semana: Madden, Me Chame pelo Seu Nome, O Brutalista | https://www.oficinadanet.com.br/entretenimento/74195-lancamentos-netflix-hbo-max-prime-video-disney-16-a-22-novembro-2026
+2026-11-17 | Florence Pugh quer ser vilã no James Bond de Pattinson (voto número 1) | https://www.maquinanerd.com.br/cinema/florence-pugh-quer-ser-vila-em-james-bond-ao-lado-de-pattinson
+2026-11-17 | Brad Pitt explica por que DiCaprio não aparece no spin-off de Cliff Booth | https://www.omelete.com.br/filmes/as-novas-desventuras-de-cliff-booth-brad-pitt-ausencia-leonardo-dicaprio
+2026-11-17 | Crítica: Jogos Vorazes: Amanhecer na Colheita, nota Ótimo | https://www.omelete.com.br/filmes/criticas/jogos-vorazes-amanhecer-na-colheita-critica-e-bom
+2026-11-12 | Ramayana passa de US$ 100 milhões e bate recorde indiano no Diwali | https://www.omelete.com.br/filmes/ramayana-o-nascimento-de-uma-lenda-ultrapassa-100-milhoes-dolares-bilheteria
+2026-11-15 | Cine Ceará premia Sob o Mesmo Sol e Pessoal do Ceará | https://revistadecinema.com.br/2026/11/cine-ceara-consagra-o-longa-latino-sob-o-mesmo-sol-o-lado-b-do-pessoal-do-ceara-e-o-curta-metragem-joqueta/
+2026-11-17 | Eu Sou o Rocky: Anthony Ippolito conta a videochamada com Stallone | https://www.omelete.com.br/filmes/eu-sou-o-rocky-anthony-ippolito-fala-sobre-primeiro-contato-com-sylvester-stallone-fiquei-surpreso
+2026-11-18 | Protegendo Estrelas, com Leighton Meester, estreia na Netflix | https://www.adorocinema.com/filmes/filme-1000035964/
