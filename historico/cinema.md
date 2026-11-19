@@ -158,3 +158,12 @@
 2026-11-15 | Cine Ceará premia Sob o Mesmo Sol e Pessoal do Ceará | https://revistadecinema.com.br/2026/11/cine-ceara-consagra-o-longa-latino-sob-o-mesmo-sol-o-lado-b-do-pessoal-do-ceara-e-o-curta-metragem-joqueta/
 2026-11-17 | Eu Sou o Rocky: Anthony Ippolito conta a videochamada com Stallone | https://www.omelete.com.br/filmes/eu-sou-o-rocky-anthony-ippolito-fala-sobre-primeiro-contato-com-sylvester-stallone-fiquei-surpreso
 2026-11-18 | Protegendo Estrelas, com Leighton Meester, estreia na Netflix | https://www.adorocinema.com/filmes/filme-1000035964/
+2026-11-18 | Fernanda Torres na lista da Variety de possíveis vilões do novo 007 | https://www.omelete.com.br/filmes/007-revista-americana-coloca-fernanda-torres-lista-de-viloes-do-novo-james-bond
+2026-11-18 | Vin Diesel anuncia Burial Hill, nova franquia de ação (Amazon) | https://www.adorocinema.com/noticias/filmes/noticia-1000233074/
+2026-11-18 | Devoradores de Estrelas volta aos cinemas em 11/12 (IMAX 70mm) de olho no Oscar 2027 | https://www.omelete.com.br/filmes/devoradores-de-estrelas-voltara-aos-cinemas-olho-oscar-2027-ganha-trailer
+2026-11-18 | John Malkovich cotado ao Oscar 2027 e o golpe de Madoff | https://www.adorocinema.com/noticias/filmes/noticia-1000232825/
+2026-11-18 | Grinch 2 com Jim Carrey só avança com roteiro de altíssimo nível (Ron Howard) | https://www.adorocinema.com/noticias/filmes/noticia-1000233042/
+2026-11-18 | Deus Ainda é Brasileiro, com Antônio Fagundes, segue travado | https://www.adorocinema.com/noticias/filmes/noticia-1000232993/
+2026-11-18 | Honestino estreia nas plataformas de streaming em 19/11 | https://revistadecinema.com.br/2026/11/honestino-estreia-nas-plataformas-de-streaming/
+2026-11-18 | Estreias de 19/11: Malês, I Love Boosters e Josephine | https://espacodopovo.com.br/estreias-cinema-19-novembro-2026-guia/
+2026-11-18 | Jogos Vorazes: Amanhecer na Colheita não tem cena pós-créditos | https://www.adorocinema.com/noticias/filmes/noticia-1000233063/

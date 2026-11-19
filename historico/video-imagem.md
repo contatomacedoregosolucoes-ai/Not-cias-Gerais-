@@ -43,3 +43,6 @@
 2026-11-17 | Suno Visuals: clipes de letra e vídeos de até 15 s ligados às músicas | https://unite.ai/suno-launches-visuals-for-ai-generated-lyric-videos-and-album-art
 2026-11-17 | HeyGen Avatar 6: avatares com gestos guiados pelo áudio, vídeo 2K | https://www.prnewswire.com/news-releases/heygen-introduces-avatar-6-an-audio-driven-context-aware-ai-model-that-alleviates-repetitive-or-unnatural-motion-in-ai-generated-video-302942527.html
 2026-11-12 | Phota Labs: app iOS que reedita fotos para parecerem profissionais | https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/
+2026-11-18 | Kling Image 4.0: imagens em 8K, textos longos e séries de até 10 fotos | https://technode.com/2026/11/18/kuaishou-launches-kling-image-4-0-with-native-8k-generation/
+2026-11-17 | Microsoft lança MAI Image 2.7 e versão Flash (Ignite): prévia, Canvas, fundo transparente | https://microsoft.ai/news/introducing-mai-image-2-7/
+2026-11-18 | Runway API ganha etiquetas de requisição para rastrear gasto | https://docs.dev.runwayml.com/api-details/api_changelog/
