@@ -60,3 +60,10 @@
 2026-11-18 | Skill em destaque: mcp-builder (anthropics/skills) | https://github.com/anthropics/skills/blob/main/skills/mcp-builder/SKILL.md
 2026-11-18 | Dica do dia: documentos longos no topo, pergunta no fim e pedir citações dos trechos antes de analisar | https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices
 2026-11-18 | Para ir além: Linked billing (guia oficial) | https://claude.com/resources/articles/linked-billing-on-claude-platform
+2026-11-19 | Claude Code 2.1.328: modo automático em mais plataformas e padrão nas sessões interativas | https://code.claude.com/docs/en/changelog
+2026-11-18 | Anthropic define preço do IPO a US$ 83 por ação (ANT, Nasdaq) | https://www.anthropic.com/news/anthropic-prices-initial-public-offering
+2026-11-16 | Como o time do Claude Code pensa em verificação (só delegue o que dá para conferir) | https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/
+2026-11-19 | Skill em destaque: webapp-testing (anthropics/skills) | https://github.com/anthropics/skills/blob/main/skills/webapp-testing/SKILL.md
+2026-11-19 | Dica do dia: pedir teste como cliente real com limite de 3 tentativas | https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/
+2026-11-17 | Para ir além: Chaos loop no lançamento do Claude Docs | https://claude.dev/blog/chaos-loop-claude-docs-launch/
+2026-11-19 | Para ir além: Changelog do Cowork | https://claude.com/docs/cowork/changelog

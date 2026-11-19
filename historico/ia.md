@@ -125,3 +125,10 @@
 2026-11-17 | Teste da Vals: IAs aceitam apontar civis como alvos se a tarefa vira "jogo" | https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/
 2026-11-17 | Gemini deixa guardar histórico sem usá-lo no treino; retenção sobe para 2 meses | https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/
 2026-11-17 | Anthropic eleva expectativa de preço do IPO antes da estreia na quinta | https://www.semafor.com/article/11/17/2026/anthropic-momentum-builds-ahead-of-ipo
+2026-11-18 | Google lança o Gemini 4 Neon, modelo para programar e trabalhar com tarefas longas | https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
+2026-11-17 | Microsoft libera o Decision 1.1, modelo que toma decisões dentro de programas | https://commandline.microsoft.com/microsoft-decision-model-ga/
+2026-11-18 | Google abre o Genie 4 ao público pagante no Project Genie | https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/
+2026-11-18 | IPO da Anthropic é precificado a US$ 83 por ação e levanta cerca de US$ 81 bilhões | https://www.anthropic.com/news/anthropic-prices-initial-public-offering
+2026-11-18 | OpenAI usa seus modelos para melhorar o projeto de chips | https://openai.com/index/advancing-chip-design-with-our-models/
+2026-11-18 | Citi e outros bancos dizem que o cliente responde por erros de agentes de IA | https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/
+2026-11-19 | OpenAI abre o Daybreak, seu programa de segurança, à Otan e a governos europeus | https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/
