@@ -162,3 +162,11 @@
 2026-11-17 | Wall Street tem quarta queda seguida e S&amp;P 500 chega à menor marca desde julho | https://www.chartmill.com/news/TSN/Chartmill-58826-stock-market-today-nvidia-board-huang-chip-selloff-anthropic-ipo-oil-surplus-disney-2026-11-17
 2026-11-17 | China ameaça reagir às novas regras de chips antes da cúpula com Trump | https://thenextweb.com/news/china-weighs-response-to-us-chip-curbs-before-trump-summit
 2026-11-18 | Bolsas da Ásia fecham mistas; exportações do Japão sobem 20,5% | https://www.investing.com/news/stock-market-news/asia-stocks-mixed-as-nvidia-optimism-offsets-wall-street-rout-fed-mins-in-focus-5034691
+2026-11-18 | Senado conclui o ajuste fiscal por 69 a 2 e manda o texto à Câmara | https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-rejeita-mudancas-no-texto-e-aprova-ajuste-fiscal-do-governo
+2026-11-18 | Dólar fecha a R$ 5,868, maior valor em 19 meses, e Ibovespa cai 1,34% | https://acritica.net/noticias/dolar-fecha-a-r-587-maior-valor-em-19-meses-bolsa-cai-134/
+2026-11-18 | BC faz leilões de linha de US$ 1 bi e Goldman rebaixa bolsa brasileira | https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-pacote-fiscal-leiloes-do-bc-e-ata-do-fed-no-radar-2130993
+2026-11-18 | Ata do Fed: quase todos veem novas altas de juros como provável necessidade | https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-s-and-p-500-breaks-key-support-as-fed-minutes-signal-more-rate-hikes-ahead/
+2026-11-18 | Desdobramento: Anthropic define preço do IPO em US$ 83 por ação, acima da faixa | https://www.anthropic.com/news/anthropic-prices-initial-public-offering
+2026-11-18 | Desdobramento: Anthropic estreia hoje (ANT) na Nasdaq como maior IPO da história | https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html
+2026-11-18 | Trump chega a Shenzhen para cúpula com Xi e Putin, marcada para hoje | https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html
+2026-11-18 | Xi usa Shenzhen para mostrar poder tecnológico chinês, diz WSJ | https://www.yahoo.com/news/world/articles/xi-trump-putin-summit-showing-223203600.html
