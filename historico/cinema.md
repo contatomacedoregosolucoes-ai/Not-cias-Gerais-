@@ -167,3 +167,9 @@
 2026-11-18 | Honestino estreia nas plataformas de streaming em 19/11 | https://revistadecinema.com.br/2026/11/honestino-estreia-nas-plataformas-de-streaming/
 2026-11-18 | Estreias de 19/11: Malês, I Love Boosters e Josephine | https://espacodopovo.com.br/estreias-cinema-19-novembro-2026-guia/
 2026-11-18 | Jogos Vorazes: Amanhecer na Colheita não tem cena pós-créditos | https://www.adorocinema.com/noticias/filmes/noticia-1000233063/
+2026-11-19 | O Rouxinol ganha primeiro trailer com Dakota e Elle Fanning | https://www.omelete.com.br/filmes/o-rouxinol-filme-dakota-elle-fanning-primeiro-trailer
+2026-11-19 | A Era do Gelo: Mundo de Lava ganha novo trailer e pôster | https://www.omelete.com.br/filmes/a-era-do-gelo-mundo-de-lava-disney-trailer
+2026-11-19 | Rosario Dawson volta como Claire Temple no relançamento de Homem-Aranha: Um Novo Dia | https://www.omelete.com.br/filmes/homem-aranha-um-novo-dia-rosario-dawson-estara-na-versao-estendida-de-relancamento-veja-foto
+2026-11-17 | Jennifer Lawrence e Josh Hutcherson se reencontram na estreia de Jogos Vorazes | https://www.omelete.com.br/filmes/jogos-vorazes-jennifer-lawrence-josh-hutcherson-reencontro-amanhecer-na-colheita
+2026-11-17 | Jogos Vorazes passa de 160 mil ingressos vendidos antes da estreia | https://timesbrasil.com.br/entretenimento/cinema-e-tv/jogos-vorazes-amanhecer-na-colheita-vende-160-mil-ingressos-na-pre-venda-no-brasil/
+2026-11-19 | Josephine: Fragmentos de um Crime, com Channing Tatum, entra em cartaz e aparece nas apostas do Oscar 2027 | https://ohoje.com/2026/11/19/promessa-para-o-oscar-2027-filme-com-channing-tatum-e-gemma-chan-estreia-em-goiania/
