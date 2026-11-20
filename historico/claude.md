@@ -67,3 +67,9 @@
 2026-11-19 | Dica do dia: pedir teste como cliente real com limite de 3 tentativas | https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/
 2026-11-17 | Para ir além: Chaos loop no lançamento do Claude Docs | https://claude.dev/blog/chaos-loop-claude-docs-launch/
 2026-11-19 | Para ir além: Changelog do Cowork | https://claude.com/docs/cowork/changelog
+2026-11-19 | Claude Code 2.1.329: tarefas agendadas antigas precisam ser reagendadas, /tasks lista agendadas | https://code.claude.com/docs/en/changelog
+2026-11-19 | App desktop 6.28899.2: plugins por SSH, auto mode em gateway, "Permitir para todas as tarefas" em MCP | https://claude.com/docs/cowork/changelog
+2026-11-20 | Skill em destaque: academy-guide (anthropics/skills) | https://github.com/anthropics/skills/blob/main/skills/academy-guide/SKILL.md
+2026-11-20 | Dica do dia: dizer o que fazer em vez do que não fazer (instrução positiva) | https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices
+2026-11-20 | Para ir além: Claude Academy | https://academy.claude.com
+2026-11-20 | Para ir além: Repositório anthropics/skills | https://github.com/anthropics/skills

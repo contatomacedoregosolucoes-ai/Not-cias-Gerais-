@@ -132,3 +132,9 @@
 2026-11-18 | OpenAI usa seus modelos para melhorar o projeto de chips | https://openai.com/index/advancing-chip-design-with-our-models/
 2026-11-18 | Citi e outros bancos dizem que o cliente responde por erros de agentes de IA | https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/
 2026-11-19 | OpenAI abre o Daybreak, seu programa de segurança, à Otan e a governos europeus | https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/
+2026-11-19 | Gemini ganha "uso de computador" no Mac | https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/
+2026-11-19 | Tencent libera os pesos do Hy4 Flash para download | https://technode.com/2026/11/19/tencent-releases-hy4-flash-model-weights-for-local-deployment/
+2026-11-19 | Anthropic estreia na bolsa (ANT) e fecha o 1o dia em alta de 17% | https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html
+2026-11-19 | Agente Muse, da Meta, teria misturado conversas e exposto dados privados | https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/
+2026-11-19 | Apple estaria criando agente que usa o computador | https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/
+2026-11-19 | Ataque à Comissão Europeia teria usado a ferramenta de IA ARTEX | https://www.theregister.com/cyber-crime/2026/11/19/european-commission-scrambles-to-contain-ai-assisted-cyberattack/5311103
