@@ -170,3 +170,11 @@
 2026-11-18 | Desdobramento: Anthropic estreia hoje (ANT) na Nasdaq como maior IPO da história | https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html
 2026-11-18 | Trump chega a Shenzhen para cúpula com Xi e Putin, marcada para hoje | https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html
 2026-11-18 | Xi usa Shenzhen para mostrar poder tecnológico chinês, diz WSJ | https://www.yahoo.com/news/world/articles/xi-trump-putin-summit-showing-223203600.html
+2026-11-19 | Dólar vai a R$ 5,93 e bolsa cai, apesar do leilão do BC | https://www.spacemoney.com.br/investimentos/acoes/ibovespa-hoje/ibovespa-hoje-fecha-queda-dolar-593
+2026-11-19 | Lula sem pressa para ministro da Fazenda; ajuste vai à Câmara e bancos rebaixam bolsa | https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19112026/
+2026-11-19 | Pacote fiscal enxuto e apressado reforça urgência por um ministro | https://neofeed.com.br/experts/pacote-fiscal-enxuto-e-apressado-reforca-urgencia-por-definicao-na-fazenda/
+2026-11-19 | Desdobramento: Anthropic estreia na Nasdaq, abre a US$ 111,50 e fecha a US$ 97,17 | https://www.benzinga.com/markets/tech/26/11/63442044/anthropic-stock-opens-at-111-50-in-record-breaking-nasdaq-debut
+2026-11-19 | Wall Street tem sexta queda seguida; Dow perde 1.100 pontos | https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-dow-plunges-1-100-points-as-the-s-and-p-500-suffers-its-6th-straight-day-of-losses/
+2026-11-18 | Dow fecha abaixo de 50 mil e Nasdaq cai 2% na véspera da estreia da Anthropic | https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html
+2026-11-19 | Trump, Xi e Putin prometem mais combustível, sem números | https://finance.yahoo.com/energy/articles/trump-xi-putin-promise-more-124805808.html
+2026-11-19 | Petróleo estável com estoques dos EUA e minas em Ormuz; Brent a US$ 91,98 | https://au.investing.com/news/commodities-news/oil-prices-steady-as-supply-surplus-softens-sentiment-though-gulf-war-supports-4782046

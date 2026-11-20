@@ -46,3 +46,4 @@
 2026-11-18 | Kling Image 4.0: imagens em 8K, textos longos e séries de até 10 fotos | https://technode.com/2026/11/18/kuaishou-launches-kling-image-4-0-with-native-8k-generation/
 2026-11-17 | Microsoft lança MAI Image 2.7 e versão Flash (Ignite): prévia, Canvas, fundo transparente | https://microsoft.ai/news/introducing-mai-image-2-7/
 2026-11-18 | Runway API ganha etiquetas de requisição para rastrear gasto | https://docs.dev.runwayml.com/api-details/api_changelog/
+2026-11-20 | Midjourney V9 ainda sem lançamento oficial (meta de ~30 dias; Niji em testes) | https://www.cometapi.com/midjourney-v9-is-coming-soon/
