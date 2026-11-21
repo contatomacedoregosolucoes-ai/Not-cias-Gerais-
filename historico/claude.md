@@ -73,3 +73,9 @@
 2026-11-20 | Dica do dia: dizer o que fazer em vez do que não fazer (instrução positiva) | https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices
 2026-11-20 | Para ir além: Claude Academy | https://academy.claude.com
 2026-11-20 | Para ir além: Repositório anthropics/skills | https://github.com/anthropics/skills
+2026-11-20 | Claude Code 2.1.330: tarefas recorrentes e /loop por até 30 dias, gráficos easel, travas em rm | https://code.claude.com/docs/en/changelog
+2026-11-20 | Uso de computador (beta) para Team e Enterprise | https://support.claude.com/en/articles/12138966-release-notes
+2026-11-21 | Skill em destaque: discernment-nudge (anthropics/skills) | https://github.com/anthropics/skills/blob/main/skills/discernment-nudge/SKILL.md
+2026-11-21 | Dica do dia: dar um papel ao Claude no começo do pedido | https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices
+2026-11-21 | Para ir além: Changelog do Claude Code | https://code.claude.com/docs/en/changelog
+2026-11-21 | Para ir além: Changelog do Cowork | https://claude.com/docs/cowork/changelog

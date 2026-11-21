@@ -178,3 +178,7 @@
 2026-11-18 | Dow fecha abaixo de 50 mil e Nasdaq cai 2% na véspera da estreia da Anthropic | https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html
 2026-11-19 | Trump, Xi e Putin prometem mais combustível, sem números | https://finance.yahoo.com/energy/articles/trump-xi-putin-promise-more-124805808.html
 2026-11-19 | Petróleo estável com estoques dos EUA e minas em Ormuz; Brent a US$ 91,98 | https://au.investing.com/news/commodities-news/oil-prices-steady-as-supply-surplus-softens-sentiment-though-gulf-war-supports-4782046
+2026-11-19 | Dólar sobe 4,95% na semana, a R$ 5,93, e Bolsa cai 3,53% (balanço semanal) | https://hojediario.com/2026/11/20/dolar-fecha-a-r-5932-maior-valor-desde-abril-de-2025-mesmo-apos-intervencao-do-bc/
+2026-11-17 | Ajuste fiscal chega à Câmara com votação na segunda (23); relator Mauro Benevides | https://jovempan.com.br/politica/motta-defende-ajuste-fiscal-e-diz-que-camara-esta-preocupada-com-o-dolar/
+2026-11-20 | Nasdaq despenca 5,13%; S&P 500 e Dow entram em correção | https://www.kotakneo.com/news/global-markets/wall-street-falls-as-nasdaq-suffers-sharp-losses-dow-and-sp-500-enter-correction-territory/
+2026-11-20 | Petróleo tem terceira queda semanal; petroleiros atingem minas em Ormuz | https://www.rte.ie/news/business/2026/1120/1599964-world-oil-prices/
