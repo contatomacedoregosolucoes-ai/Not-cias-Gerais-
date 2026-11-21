@@ -173,3 +173,10 @@
 2026-11-17 | Jennifer Lawrence e Josh Hutcherson se reencontram na estreia de Jogos Vorazes | https://www.omelete.com.br/filmes/jogos-vorazes-jennifer-lawrence-josh-hutcherson-reencontro-amanhecer-na-colheita
 2026-11-17 | Jogos Vorazes passa de 160 mil ingressos vendidos antes da estreia | https://timesbrasil.com.br/entretenimento/cinema-e-tv/jogos-vorazes-amanhecer-na-colheita-vende-160-mil-ingressos-na-pre-venda-no-brasil/
 2026-11-19 | Josephine: Fragmentos de um Crime, com Channing Tatum, entra em cartaz e aparece nas apostas do Oscar 2027 | https://ohoje.com/2026/11/19/promessa-para-o-oscar-2027-filme-com-channing-tatum-e-gemma-chan-estreia-em-goiania/
+2026-11-20 | Jogos Vorazes: Amanhecer na Colheita faz US$ 21 mi nas pré-estreias dos EUA | https://lazcult.com.br/2026/11/20/jogos-vorazes-amanhecer-na-colheita-bilheteria/
+2026-11-19 | Stephen King diz que Babilônia, fracasso de Margot Robbie, virará clássico | https://www.adorocinema.com/noticias/filmes/noticia-1000232365/
+2026-11-19 | Lista de profissionais de Hollywood que não querem trabalhar com Kevin Costner | https://www.adorocinema.com/noticias/filmes/noticia-1000228981/
+2026-11-19 | Peter Farrelly explica por que Stallone disse não saber nada de Eu Sou o Rocky | https://www.adorocinema.com/noticias/filmes/noticia-1000233283/
+2026-11-19 | Wendel Bezerra comenta se dublará Pattinson como James Bond | https://www.adorocinema.com/noticias/filmes/noticia-1000233300/
+2026-11-18 | GIFF 2026 (Goiânia, 18 a 23/11) começa com homenagens | https://www.papodecinema.com.br/noticias/giff-2026-inicio/
+2026-11-17 | Sequência de O Senhor das Armas, com Nicolas Cage, ganha trailer e estreia em 28/01/2027 | https://www.adorocinema.com/noticias/filmes/noticia-1000232844/

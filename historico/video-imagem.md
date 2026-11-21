@@ -47,3 +47,6 @@
 2026-11-17 | Microsoft lança MAI Image 2.7 e versão Flash (Ignite): prévia, Canvas, fundo transparente | https://microsoft.ai/news/introducing-mai-image-2-7/
 2026-11-18 | Runway API ganha etiquetas de requisição para rastrear gasto | https://docs.dev.runwayml.com/api-details/api_changelog/
 2026-11-20 | Midjourney V9 ainda sem lançamento oficial (meta de ~30 dias; Niji em testes) | https://www.cometapi.com/midjourney-v9-is-coming-soon/
+2026-11-14 | Luma lança organizador inteligente de quadros (até 10 mil arquivos) | https://lumalabs.ai/news/ai-board-manager
+2026-11-16 | Luma mostra agentes Laya e Orca que leem o contexto do quadro | https://lumalabs.ai/news/building-canvas-native-agents
+2026-11-19 | Magic Hour: Kling 4.0, MiniMax H3 e Seedance 2.5 4K em mais ferramentas | https://magichour.ai/changelog/2026/11

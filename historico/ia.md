@@ -138,3 +138,9 @@
 2026-11-19 | Agente Muse, da Meta, teria misturado conversas e exposto dados privados | https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/
 2026-11-19 | Apple estaria criando agente que usa o computador | https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/
 2026-11-19 | Ataque à Comissão Europeia teria usado a ferramenta de IA ARTEX | https://www.theregister.com/cyber-crime/2026/11/19/european-commission-scrambles-to-contain-ai-assisted-cyberattack/5311103
+2026-11-19 | Google abre o Genie 4 para desenvolvedores na API do Gemini | https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/
+2026-11-20 | OpenAI cria o MedChemBench (química de medicamentos); GPT-6.2 Astra faz 84,5% | https://openai.com/index/introducing-medchembench/
+2026-11-20 | Anthropic fecha o IPO: cerca de US$ 119,5 bi com a venda privada | https://www.anthropic.com/news/ipo-close
+2026-11-20 | EUA aprovaram a venda de mais de 879 mil chips de IA a empresas chinesas | https://www.thestandard.com.hk/world/article/349075/US-signed-off-on-sales-of-nearly-900000-AI-chips-to-China-in-six-months-committee-says
+2026-11-20 | Nvidia estaria perto de comprar a Inception (Mercury), rumor/reportado | https://www.theneuron.ai/news/nvidia-inception-acquisition-diffusion-ai/
+2026-11-20 | Meta deve cobrar cerca de US$ 300 pelo Muse Charm (não confirmado) | https://gizmodo.com/muse-charm-price-2000842608
