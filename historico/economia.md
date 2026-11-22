@@ -182,3 +182,8 @@
 2026-11-17 | Ajuste fiscal chega à Câmara com votação na segunda (23); relator Mauro Benevides | https://jovempan.com.br/politica/motta-defende-ajuste-fiscal-e-diz-que-camara-esta-preocupada-com-o-dolar/
 2026-11-20 | Nasdaq despenca 5,13%; S&P 500 e Dow entram em correção | https://www.kotakneo.com/news/global-markets/wall-street-falls-as-nasdaq-suffers-sharp-losses-dow-and-sp-500-enter-correction-territory/
 2026-11-20 | Petróleo tem terceira queda semanal; petroleiros atingem minas em Ormuz | https://www.rte.ie/news/business/2026/1120/1599964-world-oil-prices/
+2026-11-19 | Câmara abre análise do ajuste fiscal em sessão extraordinária na segunda (23) à noite; R$ 56,1 bi em 2027 | https://www.gazetadopovo.com.br/republica/motta-agenda-votacao-ajuste-fiscal-lula-camara-segunda-feira-23/
+2026-11-19 | Votação final do ajuste na Câmara deve ficar para terça (24), sem garantia | https://www.otempo.com.br/canal-o-tempo/programas/primeira-analise/2026/11/19/ajuste-fiscal-de-lula-chega-a-camara-votacao-deve-ocorrer-na-proxima-semana-primeira-analise
+2026-11-22 | Semana de tombo em Wall Street: S&P 500 -8,6%, Nasdaq -10%, Nvidia -14% na sexta | https://phemex.com/news/article/us-markets-enter-correction-as-core-pce-thanksgiving-closures-set-stage-for-volatile-week-ahead-104474
+2026-11-22 | Fed: dirigentes falam em juros mais altos; PCE núcleo de quarta testa aposta de dezembro | https://www.kucoin.com/news/flash/next-week-outlook-key-u-s-data-and-fed-insights-test-rate-hike-expectations
+2026-11-19 | Gás europeu dispara com relato de nova rodada de ataques de Trump ao Irã | https://www.tradingpedia.com/2026/11/19/eu-gas-jumps-as-iran-strike-risk-reignites-energy-fears/

@@ -180,3 +180,12 @@
 2026-11-19 | Wendel Bezerra comenta se dublará Pattinson como James Bond | https://www.adorocinema.com/noticias/filmes/noticia-1000233300/
 2026-11-18 | GIFF 2026 (Goiânia, 18 a 23/11) começa com homenagens | https://www.papodecinema.com.br/noticias/giff-2026-inicio/
 2026-11-17 | Sequência de O Senhor das Armas, com Nicolas Cage, ganha trailer e estreia em 28/01/2027 | https://www.adorocinema.com/noticias/filmes/noticia-1000232844/
+2026-11-21 | Jogos Vorazes: Amanhecer na Colheita domina bilheteria dos EUA (US$ 56 mi na sexta, projeção US$ 120 mi) | https://www.omelete.com.br/filmes/jogos-vorazes-amanhecer-na-colheita-eu-sou-o-rocky-bilheteria
+2026-11-21 | Novo trailer de Vingadores: Doutor Destino chega segunda-feira | https://www.omelete.com.br/filmes/vingadores-doutor-destino-hayley-atwell-confirma-trailer-segunda-feira
+2026-11-21 | Trailer de Superman: Homem do Amanhã teria sido exibido em evento fechado | https://www.omelete.com.br/filmes/trailer-superman-homem-amanha-skydance-descricao
+2026-11-21 | Remake de Psicopata Americano, com Luca Guadagnino, não vai acontecer | https://www.omelete.com.br/filmes/remake-psicopata-americano-luca-guadagnino-nao-acontecera
+2026-11-21 | Stephan James e o desafio de viver Carl Weathers em Eu Sou o Rocky | https://www.omelete.com.br/filmes/eu-sou-o-rocky-stephan-james-apollo-creed-carl-weathers
+2026-11-21 | O caminho de Pierce Brosnan até virar James Bond | https://www.adorocinema.com/noticias/filmes/noticia-1000232432/
+2026-11-21 | Jogos Vorazes soma 320 mil ingressos no Brasil em dois dias | https://www.tribunadoagreste.com.br/variedades/2026/11/21/1026906-novo-jogos-vorazes-soma-320-mil-ingressos-no-brasil-entre-a-pre-estreia-e-o-primeiro-dia-em-cartaz
+2026-09-23 | Yellow Cake, ficção científica com Tânia Maria, estreia dia 26 | https://www.omelete.com.br/filmes/yellow-cake-filme-brasileiro-rejane-faria-tania-maria-data-cinemas-exibicao-internacional
+2026-11-12 | Ray Gunn, animação de Brad Bird, chega aos cinemas em 3/12 e à Netflix em 18/12 | https://www.omelete.com.br/filmes/ray-gunn-animacao-netflix-brad-bird-trailer-2
