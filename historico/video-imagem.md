@@ -50,3 +50,8 @@
 2026-11-14 | Luma lança organizador inteligente de quadros (até 10 mil arquivos) | https://lumalabs.ai/news/ai-board-manager
 2026-11-16 | Luma mostra agentes Laya e Orca que leem o contexto do quadro | https://lumalabs.ai/news/building-canvas-native-agents
 2026-11-19 | Magic Hour: Kling 4.0, MiniMax H3 e Seedance 2.5 4K em mais ferramentas | https://magichour.ai/changelog/2026/11
+2026-11-18 | Google lança o Genie 4: mundos interativos com áudio para assinantes Ultra | https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/
+2026-11-19 | Genie 4 chega aos desenvolvedores na API do Gemini (~US$ 0,10/s) | https://www.testingcatalog.com/google-opens-genie-4-world-model-to-developers-in-gemini-api/
+2026-11-13 | Meituan abre o LongCat Video Avatar 1.6 (vídeos falados de 10+ min) | https://www.kombitz.com/2026/11/21/ai-image-video-model-news-roundup-november-21-2026/
+2026-11-19 | Ideogram 4.6: imagens nativas em 4K e Precise Edit | https://www.all-ai.de/news/news26top/ideogram-4-6-start
+2026-11-18 | ComfyUI 0.46: PAN 2, anti-cintilação de vídeo e novos nós | https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.46.0
