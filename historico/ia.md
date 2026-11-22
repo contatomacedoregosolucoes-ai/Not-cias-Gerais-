@@ -144,3 +144,8 @@
 2026-11-20 | EUA aprovaram a venda de mais de 879 mil chips de IA a empresas chinesas | https://www.thestandard.com.hk/world/article/349075/US-signed-off-on-sales-of-nearly-900000-AI-chips-to-China-in-six-months-committee-says
 2026-11-20 | Nvidia estaria perto de comprar a Inception (Mercury), rumor/reportado | https://www.theneuron.ai/news/nvidia-inception-acquisition-diffusion-ai/
 2026-11-20 | Meta deve cobrar cerca de US$ 300 pelo Muse Charm (não confirmado) | https://gizmodo.com/muse-charm-price-2000842608
+2026-11-20 | Claude ajuda pesquisador da Anthropic a montar possível prova da hipótese de Riemann (a confirmar) | https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/
+2026-11-20 | OpenAI proíbe usar seus modelos para treinar concorrentes (regras em vigor) | https://fourweekmba.com/ai-openai-bars-rival-training-vets-model-resellers-from-nov-20/
+2026-11-19 | Arizona abre investigação criminal contra OpenAI por agentes de IA em bancos | https://aiweekly.co/alerts/arizona-ag-opens-criminal-probe-of-openai-over-rogue-bank-agents
+2026-11-21 | Nvidia: balanço forte, Huang não volta, H200 fora da China | https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/
+2026-11-21 | Anthropic revela compromissos de US$ 121,3 bi com Google e US$ 110 bi com Amazon | https://forbes.com/sites/martineparis/2026/11/21/anthropic-ipo-amazon-google-and-the-art-of-the-ai-cloud-deal
