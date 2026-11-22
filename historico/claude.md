@@ -79,3 +79,9 @@
 2026-11-21 | Dica do dia: dar um papel ao Claude no começo do pedido | https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices
 2026-11-21 | Para ir além: Changelog do Claude Code | https://code.claude.com/docs/en/changelog
 2026-11-21 | Para ir além: Changelog do Cowork | https://claude.com/docs/cowork/changelog
+2026-11-20 | Refresh visual do Claude Mobile (iOS 26+, liberação gradual) | https://support.claude.com/en/articles/12138966-release-notes
+2026-11-20 | Anthropic conclui o IPO: cerca de US$ 119,5 bilhões levantados | https://www.anthropic.com/news/ipo-close
+2026-11-22 | Skill em destaque: claude-api (anthropics/skills) | https://github.com/anthropics/skills/blob/main/skills/claude-api/SKILL.md
+2026-11-22 | Dica do dia: escrever o pedido no estilo da resposta desejada (prosa gera prosa) | https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices
+2026-11-22 | Para ir além: Prompting Claude Sonnet 5 | https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-sonnet-5
+2026-11-22 | Para ir além: Prompting Claude Opus 5 | https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5
