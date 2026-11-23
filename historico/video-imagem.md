@@ -55,3 +55,7 @@
 2026-11-13 | Meituan abre o LongCat Video Avatar 1.6 (vídeos falados de 10+ min) | https://www.kombitz.com/2026/11/21/ai-image-video-model-news-roundup-november-21-2026/
 2026-11-19 | Ideogram 4.6: imagens nativas em 4K e Precise Edit | https://www.all-ai.de/news/news26top/ideogram-4-6-start
 2026-11-18 | ComfyUI 0.46: PAN 2, anti-cintilação de vídeo e novos nós | https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.46.0
+2026-11-16 | Modelo ajudante cria prompts completos para o MiniMax H3 (Wuli) | https://huggingface.co/Wuli-Art/Gemma4-for-MiniMax-H3-Prompt-Extend
+2026-11-20 | AMD lança o Nitro-P, gerador de imagens aberto sem decodificador | https://rocm.blogs.amd.com/artificial-intelligence/nitro-p/README.html
+2026-11-19 | LoRA deixa o MOSS-Image gerar em 4 passos em vez de 50 | https://huggingface.co/lvladikov/MOSS-SFT-Distill-4step-LoRA
+2026-11-19 | Estilo Seedream 5.5 para o MiniMax H3-Image (LoRA) | https://huggingface.co/Nebsh/Seedreamstyle-H3-6K

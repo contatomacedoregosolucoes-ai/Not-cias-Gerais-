@@ -189,3 +189,10 @@
 2026-11-21 | Jogos Vorazes soma 320 mil ingressos no Brasil em dois dias | https://www.tribunadoagreste.com.br/variedades/2026/11/21/1026906-novo-jogos-vorazes-soma-320-mil-ingressos-no-brasil-entre-a-pre-estreia-e-o-primeiro-dia-em-cartaz
 2026-09-23 | Yellow Cake, ficção científica com Tânia Maria, estreia dia 26 | https://www.omelete.com.br/filmes/yellow-cake-filme-brasileiro-rejane-faria-tania-maria-data-cinemas-exibicao-internacional
 2026-11-12 | Ray Gunn, animação de Brad Bird, chega aos cinemas em 3/12 e à Netflix em 18/12 | https://www.omelete.com.br/filmes/ray-gunn-animacao-netflix-brad-bird-trailer-2
+2026-11-22 | Jogos Vorazes: Amanhecer na Colheita estreia com US$ 225 milhões no mundo (US$ 120 mi nos EUA) | https://www.omelete.com.br/filmes/jogos-vorazes-amanhecer-na-colheita-bilheteria-estreia-225-milhoes
+2026-11-22 | Ralph Fiennes explica por que aceitou ser o Presidente Snow | https://www.adorocinema.com/noticias/filmes/noticia-1000233259/
+2026-11-22 | Villeneuve diz que Duna: Parte Três é o seu favorito da trilogia | https://www.adorocinema.com/noticias/filmes/noticia-1000233068/
+2026-11-22 | Eu Sou o Rocky: o que é fato e o que é ficção | https://www.adorocinema.com/noticias/filmes/noticia-1000233567/
+2026-11-16 | Fatherland lidera indicações ao European Film Awards (11), seguido de La Bola Negra (10) | https://fr.euronews.com/2026/11/16/european-film-awards-fatherland-la-bola-negra-et-fjord-en-tete-des-nominations
+2026-11-22 | Oscar 2027: O Bosque Selvagem, com brasileiro Thiago Calçado na equipe, favorito a animação | https://www.adorocinema.com/noticias/filmes/noticia-1000233306/
+2026-11-23 | Netflix de 23 a 29/11: The Mosquito Bowl, Casadas e Caçadoras 2, Quasímodo | https://olhardigital.com.br/2026/11/23/cinema-e-streaming/netflix-lancamentos-da-semana-23-a-29-de-novembro
