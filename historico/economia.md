@@ -187,3 +187,9 @@
 2026-11-22 | Semana de tombo em Wall Street: S&P 500 -8,6%, Nasdaq -10%, Nvidia -14% na sexta | https://phemex.com/news/article/us-markets-enter-correction-as-core-pce-thanksgiving-closures-set-stage-for-volatile-week-ahead-104474
 2026-11-22 | Fed: dirigentes falam em juros mais altos; PCE núcleo de quarta testa aposta de dezembro | https://www.kucoin.com/news/flash/next-week-outlook-key-u-s-data-and-fed-insights-test-rate-hike-expectations
 2026-11-19 | Gás europeu dispara com relato de nova rodada de ataques de Trump ao Irã | https://www.tradingpedia.com/2026/11/19/eu-gas-jumps-as-iran-strike-risk-reignites-energy-fears/
+2026-11-22 | Câmara abre semana decisiva para o ajuste fiscal, mas o mercado cobra mais | https://timesbrasil.com.br/brasil/economia-brasileira/camara-abre-semana-decisiva-para-ajuste-fiscal/
+2026-11-23 | O que muda com o ajuste fiscal que a Câmara vota hoje | https://www.brasil247.com/economia/saiba-o-que-muda-com-o-ajuste-fiscal-que-vai-a-votacao-na-camara-nesta-segunda/
+2026-11-23 | Relator vê aprovação rápida como sinal ao mercado; estimativa cai para R$ 50 bi | https://www.spacemoney.com.br/politica/camara-votacao-ajuste-fiscal-2027
+2026-11-23 | Wall Street fecha semana no vermelho: Dow a 48.147, Nasdaq a 22.617 e S&P 500 a 6.910 | https://www.fxempire.com/forecasts/article/the-week-ahead-pce-in-focus-after-ai-sell-off-in-holiday-shortened-week-1646337
+2026-11-23 | Semana curta nos EUA: PMIs hoje, PCE e PIB na quarta, feriado na quinta | https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-11-23/
+2026-11-21 | Irã admite reabrir Ormuz em poucas horas se exigências forem atendidas | https://www.publico.pt/2026/11/21/mundo/noticia/teerao-procura-acordo-conflito-admite-acelerar-reabertura-ormuz-2195814

@@ -85,3 +85,9 @@
 2026-11-22 | Dica do dia: escrever o pedido no estilo da resposta desejada (prosa gera prosa) | https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices
 2026-11-22 | Para ir além: Prompting Claude Sonnet 5 | https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-sonnet-5
 2026-11-22 | Para ir além: Prompting Claude Opus 5 | https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5
+2026-11-20 | App desktop 6.28899.6: temas de plugin com som, Claude Code 2.1.330 exigido em hosts SSH | https://claude.com/docs/cowork/changelog
+2026-11-23 | Aviso: ligar Skills até 30/11 ou plugins deixam de funcionar no Cowork e na aba Code (Team/Enterprise) | https://support.claude.com/en/articles/17740565-manage-plugins-skills-and-connectors-from-one-plugins-page
+2026-11-23 | Skill em destaque: xlsx (anthropics/skills) | https://github.com/anthropics/skills/blob/main/skills/xlsx/SKILL.md
+2026-11-23 | Dica do dia: mandar o Claude ler o arquivo antes de afirmar e dizer "não encontrei" | https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices
+2026-11-23 | Para ir além: Claude Sonnet 5.5 | https://www.anthropic.com/claude-sonnet-5-5
+2026-11-23 | Para ir além: Notas de versão da plataforma Claude | https://platform.claude.com/docs/en/release-notes/overview
