@@ -149,3 +149,10 @@
 2026-11-19 | Arizona abre investigação criminal contra OpenAI por agentes de IA em bancos | https://aiweekly.co/alerts/arizona-ag-opens-criminal-probe-of-openai-over-rogue-bank-agents
 2026-11-21 | Nvidia: balanço forte, Huang não volta, H200 fora da China | https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/
 2026-11-21 | Anthropic revela compromissos de US$ 121,3 bi com Google e US$ 110 bi com Amazon | https://forbes.com/sites/martineparis/2026/11/21/anthropic-ipo-amazon-google-and-the-art-of-the-ai-cloud-deal
+2026-11-21 | Thinking Machines lança o Inkling 2 Mini, modelo aberto que cabe em computador comum | https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer
+2026-11-22 | Ant Group abre o LingSante-3.1-flash, modelo médico de 560 bi de parâmetros | https://artificialanalysis.ai/models/lingsante-3-1-flash-1119
+2026-11-22 | OpenAI propõe limites comuns entre laboratórios com base na perplexidade | https://openai.com/index/perplexity-and-intelligence/
+2026-11-21 | Comunidade Lean certifica a prova da Hipótese de Riemann de Alpöge | https://leanprover-community.github.io/blog/posts/riemann-hypothesis/
+2026-11-22 | Apple começa a liberar a Siri com IA nos próprios apps | https://forkast.news/apple-starts-siri-ai-rollout-in-its-apps-alongside-third-party-developer-preview
+2026-11-21 | Amazon estaria perto de comprar a Decart por US$ 7,5 bi (FT, não confirmado) | https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616
+2026-11-22 | Trump diz que EUA vão trabalhar com a China em limites conjuntos para IA | https://www.semafor.com/article/11/22/2026/us-china-eye-joint-guardrails-on-ai
