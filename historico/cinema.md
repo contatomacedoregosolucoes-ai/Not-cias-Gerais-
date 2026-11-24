@@ -196,3 +196,11 @@
 2026-11-16 | Fatherland lidera indicações ao European Film Awards (11), seguido de La Bola Negra (10) | https://fr.euronews.com/2026/11/16/european-film-awards-fatherland-la-bola-negra-et-fjord-en-tete-des-nominations
 2026-11-22 | Oscar 2027: O Bosque Selvagem, com brasileiro Thiago Calçado na equipe, favorito a animação | https://www.adorocinema.com/noticias/filmes/noticia-1000233306/
 2026-11-23 | Netflix de 23 a 29/11: The Mosquito Bowl, Casadas e Caçadoras 2, Quasímodo | https://olhardigital.com.br/2026/11/23/cinema-e-streaming/netflix-lancamentos-da-semana-23-a-29-de-novembro
+2026-11-23 | Spielberg, Anderson e um faroeste | https://www.omelete.com.br/filmes/steven-spielberg-novo-filme-faroeste-paul-thomas-anderson
+2026-11-23 | Critics Choice 2027: A Odisseia sai na frente nas categorias técnicas | https://www.omelete.com.br/filmes/critics-choice-awards-2027-pre-indicados-a-odisseia-na-frente-veja-lista
+2026-11-23 | Trailer final de Vingadores: Doutor Destino foca em Steve Rogers | https://www.omelete.com.br/filmes/vingadores-doutor-destino-trailer-final/
+2026-11-23 | Live-action de Naruto ganha o Terceiro Hokage | https://www.omelete.com.br/filmes/naruto-hiroyuki-sanada-terceiro-hokage-live-action-filme
+2026-11-23 | David Fincher quase dirigiu um Batman | https://www.omelete.com.br/batman/david-fincher-revela-que-quase-fez-filme-do-batman
+2026-11-23 | Rian Johnson pede cautela no debate sobre IA em Hollywood | https://ovicio.com.br/rian-johnson-pede-cautela-em-discussao-sobre-ia-em-hollywood/
+2026-11-23 | A Primavera do Dragão, primeira cinebiografia de Glauber Rocha, escala Emanuelle Araújo | https://www.omelete.com.br/filmes/glauber-rocha-cinebiografia-escala-emmanuelle-araujo-mae-do-diretor
+2026-11-23 | Entrando Numa Grande Fria estreia dia 26 com nota baixa no Rotten Tomatoes | https://ovicio.com.br/entrando-numa-grande-fria-decepciona-e-chega-com-aprovacao-ruim-no-rotten-tomatoes/

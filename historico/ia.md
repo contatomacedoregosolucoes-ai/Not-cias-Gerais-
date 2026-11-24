@@ -156,3 +156,10 @@
 2026-11-22 | Apple começa a liberar a Siri com IA nos próprios apps | https://forkast.news/apple-starts-siri-ai-rollout-in-its-apps-alongside-third-party-developer-preview
 2026-11-21 | Amazon estaria perto de comprar a Decart por US$ 7,5 bi (FT, não confirmado) | https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616
 2026-11-22 | Trump diz que EUA vão trabalhar com a China em limites conjuntos para IA | https://www.semafor.com/article/11/22/2026/us-china-eye-joint-guardrails-on-ai
+2026-11-23 | Anthropic lança o Claude Ship, que revisa e aprova código sozinho | https://testingcatalog.com/anthropic-launches-claude-ship-to-review-and-approve-prs
+2026-11-20 | OpenAI testa os "Dots", agentes pessoais que trabalham sem você pedir, para usuários do ChatGPT Plus | https://www.engadget.com/2322656/openai-is-testing-dots-personal-agents-on-its-20-per-month-plus-tier/
+2026-11-23 | Z.ai lança o GLM-5.4, com visão e uma arquitetura "em laço", só no plano de programação | https://orcarouter.ai/blog/glm-5-4-release-what-we-know
+2026-11-23 | Startup diz que agentes de IA projetaram uma CPU inteira do zero | https://www.tomshardware.com/tech-industry/semiconductors/ai-agents-design-an-entirely-new-cpu-architecture-from-scratch-startup-claims-frostbite-posts-4-59x-the-performance-per-watt-of-an-in-order-core-in-pre-silicon-tests
+2026-11-22 | Meta reavalia a meta de emissão zero para 2030 por causa dos data centers de IA | https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/
+2026-11-22 | Plano de US$ 74 bi da SpaceX em data centers levanta dúvida sobre quem paga a conta de luz | https://fortune.com/2026/11/22/spacex-74-billion-ai-data-centers-texas-arizona-who-pays/
+2026-11-23 | Vazamentos em serviços que revendem IA expõem segredos de usuários; OpenRouter remove três provedores | https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html

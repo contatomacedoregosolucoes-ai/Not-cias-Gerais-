@@ -59,3 +59,5 @@
 2026-11-20 | AMD lança o Nitro-P, gerador de imagens aberto sem decodificador | https://rocm.blogs.amd.com/artificial-intelligence/nitro-p/README.html
 2026-11-19 | LoRA deixa o MOSS-Image gerar em 4 passos em vez de 50 | https://huggingface.co/lvladikov/MOSS-SFT-Distill-4step-LoRA
 2026-11-19 | Estilo Seedream 5.5 para o MiniMax H3-Image (LoRA) | https://huggingface.co/Nebsh/Seedreamstyle-H3-6K
+2026-11-15 | Higgsfield lança o Short Drama Studio: roteiro vira série curta com elenco fixo | https://higgsfield.ai/blog/higgsfield-short-drama-studio
+2026-11-20 | MiniMax H3 Image chega à API da Runway (até 16 referências, 4K) | https://releasebot.io/updates/runwayai

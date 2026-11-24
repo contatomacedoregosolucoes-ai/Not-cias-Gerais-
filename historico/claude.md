@@ -91,3 +91,8 @@
 2026-11-23 | Dica do dia: mandar o Claude ler o arquivo antes de afirmar e dizer "não encontrei" | https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices
 2026-11-23 | Para ir além: Claude Sonnet 5.5 | https://www.anthropic.com/claude-sonnet-5-5
 2026-11-23 | Para ir além: Notas de versão da plataforma Claude | https://platform.claude.com/docs/en/release-notes/overview
+2026-11-23 | Claude Ship (beta): Code Review, PR Steward e Claude Approvals; /ship no Claude Code | https://claude.com/resources/articles/introducing-claude-ship
+2026-11-23 | Claude Code 2.1.331: Code Mode em Bedrock/Google/Foundry, claude doctor, autoUpdate de marketplaces | https://code.claude.com/docs/en/changelog
+2026-11-24 | Skill em destaque: pptx (anthropics/skills) | https://github.com/anthropics/skills/blob/main/skills/pptx/SKILL.md
+2026-11-24 | Dica do dia: encadear rascunho, revisão por critérios e versão final em três mensagens | https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices
+2026-11-24 | Para ir além: Tarefas agendadas no Claude Code | https://code.claude.com/docs/en/scheduled-tasks
