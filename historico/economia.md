@@ -193,3 +193,11 @@
 2026-11-23 | Wall Street fecha semana no vermelho: Dow a 48.147, Nasdaq a 22.617 e S&P 500 a 6.910 | https://www.fxempire.com/forecasts/article/the-week-ahead-pce-in-focus-after-ai-sell-off-in-holiday-shortened-week-1646337
 2026-11-23 | Semana curta nos EUA: PMIs hoje, PCE e PIB na quarta, feriado na quinta | https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-11-23/
 2026-11-21 | Irã admite reabrir Ormuz em poucas horas se exigências forem atendidas | https://www.publico.pt/2026/11/21/mundo/noticia/teerao-procura-acordo-conflito-admite-acelerar-reabertura-ormuz-2195814
+2026-11-23 | Focus: IPCA 2026 a 5,15%, 2027 a 5,12%, Selic 2027 a 13%, dólar a R$ 5,55 | https://www.infomoney.com.br/mercados/boletim-focus-projecoes-23112026/
+2026-11-23 | Fazenda sobe IPCA 2026 para 5,3% (Boletim Macrofiscal) | https://www.dgabc.com.br/Noticia/4370303/fazenda-aumenta-projecao-para-ipca-de-2026-de-4-9-para-5-3-
+2026-11-23 | Câmara aprova ajuste fiscal por 353 votos, texto vai à sanção | https://gazetamercantil.com/camara-aprova-ajuste-fiscal-votacao-deputados-2026
+2026-11-23 | Dólar bate R$ 6 no dia, fecha a R$ 5,92; Ibovespa cai | https://jovempan.com.br/economia/em-meio-a-votacao-do-ajuste-fiscal-dolar-fecha-a-r-592-apos-bater-r-6-durante-o-dia/
+2026-11-23 | Nvidia reconduz Jensen Huang; S&P 500 +4,7% | https://www.fxstreet.com/news/us-stock-indices-rebound-as-nvidia-reinstates-jensen-huang-202611232157
+2026-11-24 | Mercado trata alta do Fed em dezembro como certa; Treasuries e dólar | https://www.irishtimes.com/business/markets/2026/11/24/asian-stocks-rally-as-huangs-return-to-nvidia-revives-ai-trade/
+2026-11-24 | Ásia sobe forte com retorno de Huang; China fica de fora | https://www.irishtimes.com/business/markets/2026/11/24/asian-stocks-rally-as-huangs-return-to-nvidia-revives-ai-trade/
+2026-11-24 | Brent no menor nível em 3 meses; Trump suspende ataques ao Irã | https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---nvidias-ceo-returns-and-wall-street-rebounds---24-november-2026-24112026
