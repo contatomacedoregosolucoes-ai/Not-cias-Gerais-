@@ -61,3 +61,6 @@
 2026-11-19 | Estilo Seedream 5.5 para o MiniMax H3-Image (LoRA) | https://huggingface.co/Nebsh/Seedreamstyle-H3-6K
 2026-11-15 | Higgsfield lança o Short Drama Studio: roteiro vira série curta com elenco fixo | https://higgsfield.ai/blog/higgsfield-short-drama-studio
 2026-11-20 | MiniMax H3 Image chega à API da Runway (até 16 referências, 4K) | https://releasebot.io/updates/runwayai
+2026-11-17 | Apple FastFrames: vídeo 480p quase em tempo real (pesquisa) | https://huggingface.co/apple/FastFrames-L
+2026-11-18 | Synthesia chega ao Claude: vídeos criados na conversa (agente Syren) | https://www.synthesia.io/post/synthesia-connector-claude
+2026-11-13 | Recraft V4.1 Flash V2: imagem em ~1 s, US$ 0,007 na API | https://www.recraft.ai/docs/recraft-models/recraft-v4-1-flash
