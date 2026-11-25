@@ -204,3 +204,10 @@
 2026-11-23 | Rian Johnson pede cautela no debate sobre IA em Hollywood | https://ovicio.com.br/rian-johnson-pede-cautela-em-discussao-sobre-ia-em-hollywood/
 2026-11-23 | A Primavera do Dragão, primeira cinebiografia de Glauber Rocha, escala Emanuelle Araújo | https://www.omelete.com.br/filmes/glauber-rocha-cinebiografia-escala-emmanuelle-araujo-mae-do-diretor
 2026-11-23 | Entrando Numa Grande Fria estreia dia 26 com nota baixa no Rotten Tomatoes | https://ovicio.com.br/entrando-numa-grande-fria-decepciona-e-chega-com-aprovacao-ruim-no-rotten-tomatoes/
+2026-11-24 | Batman: Parte 2 seria o último filme de Reeves e Pattinson (rumor, Sneider) | https://www.omelete.com.br/filmes/batman-parte-2-deve-ser-o-ultimo-reeves-pattinson-diz-insider
+2026-11-24 | Jogos Mortais 11 ganha data para 2028 | https://www.omelete.com.br/filmes/jogos-mortais-11-previsao-de-lancamento
+2026-11-24 | Doutor Destino ganha novas fotos com Ciclope, Tocha-Humana e Gambit | https://www.omelete.com.br/filmes/vingadores-doutor-destino-ganha-novas-fotos-com-ciclope-tocha-humana-gambit-e-mais
+2026-11-24 | Marcha das Onças, narrado por Fernanda Torres, ganha trailer na Netflix (22/12) | https://omelete.com.br/filmes/marcha-das-oncas-ganha-trailer-e-data-de-estreia-na-netflix
+2026-11-25 | Estreias de 26/11: Tudo Pode Ser Visto, Enfeitiçadas, Pecadora, Fogaréu | https://ulti.com.br/noticias/estreias-cinema-26-novembro-tudo-pode-ser-visto-2026
+2026-11-23 | Streaming da semana: Homem-Aranha na HBO Max, Blade Runner 2099 no Prime | https://www.oficinadanet.com.br/entretenimento/74356-lancamentos-netflix-hbo-max-prime-video-disney-plus-23-a-29-novembro-2026
+2026-11-23 | Top 5 Ingresso.com 19 a 22/11: Doutor Destino é 2º na pré-venda | https://www.ingresso.com/noticias/filme-novo-jogos-vorazes-amanhecer-na-colheita-lider-bilheteria-ingressocom-top-5-cinema-19-a-22-de-novembro-2026
