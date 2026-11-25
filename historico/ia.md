@@ -163,3 +163,10 @@
 2026-11-22 | Meta reavalia a meta de emissão zero para 2030 por causa dos data centers de IA | https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/
 2026-11-22 | Plano de US$ 74 bi da SpaceX em data centers levanta dúvida sobre quem paga a conta de luz | https://fortune.com/2026/11/22/spacex-74-billion-ai-data-centers-texas-arizona-who-pays/
 2026-11-23 | Vazamentos em serviços que revendem IA expõem segredos de usuários; OpenRouter remove três provedores | https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html
+2026-11-24 | OpenAI mostra o GPT-6 desenhando proteínas só com raciocínio | https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/
+2026-11-23 | GPT-6.2 Sol passa a responder no ChatGPT pago | https://www.macrumors.com/2026/11/23/openai-gpt-6-2-sol-chatgpt/
+2026-11-23 | Agentes do Gemini 4 deixam algoritmos quânticos até 290 vezes mais eficientes | https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/
+2026-11-23 | Jensen Huang volta ao comando da Nvidia | https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director
+2026-11-23 | Amazon fecha a compra da tecnologia da Decart por cerca de US$ 7,5 bi | https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/
+2026-11-23 | OpenAI e Cisco lançam o Shirudo, escudo temporário para Linux | https://openai.com/index/introducing-shirudo/
+2026-11-23 | Oregon e Virgínia processam a SpaceX por deepfakes do Grok | https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html

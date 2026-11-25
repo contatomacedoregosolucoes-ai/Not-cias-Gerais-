@@ -201,3 +201,8 @@
 2026-11-24 | Mercado trata alta do Fed em dezembro como certa; Treasuries e dólar | https://www.irishtimes.com/business/markets/2026/11/24/asian-stocks-rally-as-huangs-return-to-nvidia-revives-ai-trade/
 2026-11-24 | Ásia sobe forte com retorno de Huang; China fica de fora | https://www.irishtimes.com/business/markets/2026/11/24/asian-stocks-rally-as-huangs-return-to-nvidia-revives-ai-trade/
 2026-11-24 | Brent no menor nível em 3 meses; Trump suspende ataques ao Irã | https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---nvidias-ceo-returns-and-wall-street-rebounds---24-november-2026-24112026
+2026-11-24 | Ibovespa tem a quarta queda seguida com tombo da Vale; dólar fecha a R$ 5,91 | https://www.spacemoney.com.br/economia/macroeconomia/ibovespa-queda-vale-petrobras-dolar-plp-meta-fiscal
+2026-11-24 | Petrobras prepara plano 2027-2031 com cerca de US$ 122 bilhões e dividendos extraordinários | https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-ajuste-a-sancao-relatorio-fiscal-e-plano-da-petrobras-2136585
+2026-11-24 | EUA preparam novas tarifas contra 16 economias, incluindo China e União Europeia | https://quenty.com.br/resumo/24-novembro-2026/trump-prepara-novas-tarifas-contra-subsidios-industriais-de-parceiros-comerciais
+2026-11-24 | Dow passa de 50 mil pontos, mas Nasdaq cai 1,5% com ressaca da Nvidia | https://www.stl.news/us-stock-market-today-november-24-2026/
+2026-11-25 | Petróleo oscila perto de US$ 90 com ataques no Golfo e reunião da Opep+ no domingo | https://www.euribor.com.es/2026/11/25/precio-petroleo-hoy-25-noviembre-2026/
