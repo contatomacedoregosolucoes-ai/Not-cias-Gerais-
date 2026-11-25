@@ -96,3 +96,8 @@
 2026-11-24 | Skill em destaque: pptx (anthropics/skills) | https://github.com/anthropics/skills/blob/main/skills/pptx/SKILL.md
 2026-11-24 | Dica do dia: encadear rascunho, revisão por critérios e versão final em três mensagens | https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices
 2026-11-24 | Para ir além: Tarefas agendadas no Claude Code | https://code.claude.com/docs/en/scheduled-tasks
+2026-11-25 | Claude Code 2.1.332: skills de servidores MCP (beta), gancho PreSkillShellCommand, computer-use nome reservado | https://code.claude.com/docs/en/changelog
+2026-11-24 | Artifacts instalados como app e envio de arquivos a apps conectados (beta); resumo mensal sai do beta | https://support.claude.com/en/articles/12138966-release-notes
+2026-11-25 | Skill em destaque: docx (anthropics/skills) | https://github.com/anthropics/skills/blob/main/skills/docx/SKILL.md
+2026-11-25 | Dica do dia: separar instruções e dados com etiquetas XML (instructions/input) | https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices
+2026-11-25 | Para ir além: Plugins, skills e conectores numa página só (aviso de 30/11) | https://support.claude.com/en/articles/17740565-manage-plugins-skills-and-connectors-from-one-plugins-page
